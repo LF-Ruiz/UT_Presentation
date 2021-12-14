@@ -1,0 +1,1302 @@
+player_id,Rnd,Pick,Player,Pos,Age,College/Univ,year
+100,1,1,Jared Goff,QB,21,California,2016
+101,1,2,Carson Wentz,QB,23,North Dakota St.,2016
+102,1,3,Joey Bosa,DE,21,Ohio St.,2016
+103,1,4,Ezekiel Elliott,RB,21,Ohio St.,2016
+104,1,5,Jalen Ramsey,CB,21,Florida St.,2016
+105,1,6,Ronnie Stanley,T,22,Notre Dame,2016
+106,1,7,DeForest Buckner,DE,22,Oregon,2016
+107,1,8,Jack Conklin,T,22,Michigan St.,2016
+108,1,9,Leonard Floyd,OLB,23,Georgia,2016
+109,1,10,Eli Apple,CB,21,Ohio St.,2016
+110,1,11,Vernon Hargreaves III,CB,21,Florida,2016
+111,1,12,Sheldon Rankins,DT,22,Louisville,2016
+112,1,13,Laremy Tunsil,T,22,Mississippi,2016
+113,1,14,Karl Joseph,S,22,West Virginia,2016
+114,1,15,Corey Coleman,WR,22,Baylor,2016
+115,1,16,Taylor Decker,T,23,Ohio St.,2016
+116,1,17,Keanu Neal,S,21,Florida,2016
+117,1,18,Ryan Kelly,C,23,Alabama,2016
+118,1,19,Shaq Lawson,DE,22,Clemson,2016
+119,1,20,Darron Lee,OLB,21,Ohio St.,2016
+120,1,21,Will Fuller,WR,22,Notre Dame,2016
+121,1,22,Josh Doctson,WR,23,TCU,2016
+122,1,23,Laquon Treadwell,WR,21,Mississippi,2016
+123,1,24,William Jackson III,CB,23,Houston,2016
+124,1,25,Artie Burns,CB,21,Miami (FL),2016
+125,1,26,Paxton Lynch,QB,22,Memphis,2016
+126,1,27,Kenny Clark,DT,20,UCLA,2016
+127,1,28,Joshua Garnett,G,22,Stanford,2016
+128,1,29,Robert Nkemdiche,DT,21,Mississippi,2016
+129,1,30,Vernon Butler,DT,22,Louisiana Tech,2016
+130,1,31,Germain Ifedi,G,22,Texas A&M,2016
+131,Rnd,Pick,Player,Pos,Age,College/Univ,2016
+132,2,32,Emmanuel Ogbah,DE,22,Oklahoma St.,2016
+133,2,33,Kevin Dodd,DE,24,Clemson,2016
+134,2,34,Jaylon Smith,OLB,21,Notre Dame,2016
+135,2,35,Hunter Henry,TE,21,Arkansas,2016
+136,2,36,Myles Jack,OLB,21,UCLA,2016
+137,2,37,Chris Jones,DT,22,Mississippi St.,2016
+138,2,38,Xavien Howard,CB,23,Baylor,2016
+139,2,39,Noah Spence,DE,22,East. Kentucky,2016
+140,2,40,Sterling Shepard,WR,23,Oklahoma,2016
+141,2,41,Reggie Ragland,ILB,22,Alabama,2016
+142,2,42,Kamalei Correa,DE,22,Boise St.,2016
+143,2,43,Austin Johnson,NT,22,Penn St.,2016
+144,2,44,Jihad Ward,DE,22,Illinois,2016
+145,2,45,Derrick Henry,RB,22,Alabama,2016
+146,2,46,A'Shawn Robinson,DT,21,Alabama,2016
+147,2,47,Michael Thomas,WR,23,Ohio St.,2016
+148,2,48,Jason Spriggs,T,22,Indiana,2016
+149,2,49,Jarran Reed,DT,23,Alabama,2016
+150,2,50,Nick Martin,G,23,Notre Dame,2016
+151,2,51,Christian Hackenberg,QB,21,Penn St.,2016
+152,2,52,Deion Jones,OLB,21,LSU,2016
+153,2,53,Su'a Cravens,OLB,21,USC,2016
+154,2,54,Mackensie Alexander,CB,22,Clemson,2016
+155,2,55,Tyler Boyd,WR,21,Pittsburgh,2016
+156,2,56,Cody Whitehair,G,24,Kansas St.,2016
+157,2,57,T.J. Green,S,21,Clemson,2016
+158,2,58,Sean Davis,CB,22,Maryland,2016
+159,2,59,Roberto Aguayo,K,22,Florida St.,2016
+160,2,60,Cyrus Jones,CB,22,Alabama,2016
+161,2,61,Vonn Bell,S,21,Ohio St.,2016
+162,2,62,James Bradberry,CB,23,Samford,2016
+163,2,63,Adam Gotsis,DT,23,Georgia Tech,2016
+164,Rnd,Pick,Player,Pos,Age,College/Univ,2016
+165,3,64,Kevin Byard,S,23,Middle Tenn. St.,2016
+166,3,65,Carl Nassib,DE,23,Penn St.,2016
+167,3,66,Max Tuerk,C,22,USC,2016
+168,3,67,Maliek Collins,DT,21,Nebraska,2016
+169,3,68,Will Redmond,CB,22,Mississippi St.,2016
+170,3,69,Yannick Ngakoue,DE,21,Maryland,2016
+171,3,70,Bronson Kaufusi,DE,25,BYU,2016
+172,3,71,Darian Thompson,S,22,Boise St.,2016
+173,3,72,Jonathan Bullard,DT,22,Florida,2016
+174,3,73,Kenyan Drake,RB,22,Alabama,2016
+175,3,74,KeiVarae Russell,CB,22,Notre Dame,2016
+176,3,75,Shilique Calhoun,DE,24,Michigan St.,2016
+177,3,76,Shon Coleman,T,24,Auburn,2016
+178,3,77,Daryl Worley,CB,21,West Virginia,2016
+179,3,78,Joe Thuney,G,23,North Carolina St.,2016
+180,3,79,Isaac Seumalo,G,22,Oregon St.,2016
+181,3,80,Adolphus Washington,DT,21,Ohio St.,2016
+182,3,81,Austin Hooper,TE,21,Stanford,2016
+183,3,82,Le'Raven Clark,T,23,Texas Tech,2016
+184,3,83,Jordan Jenkins,OLB,22,Georgia,2016
+185,3,84,Kendall Fuller,CB,21,Virginia Tech,2016
+186,3,85,Braxton Miller,WR,23,Ohio St.,2016
+187,3,86,Leonte Carroo,WR,22,Rutgers,2016
+188,3,87,Nick Vigil,ILB,23,Utah St.,2016
+189,3,88,Kyler Fackrell,OLB,24,Utah St.,2016
+190,3,89,Javon Hargrave,DT,23,South Carolina St.,2016
+191,3,90,C.J. Prosise,RB,22,Notre Dame,2016
+192,3,91,Jacoby Brissett,QB,23,North Carolina St.,2016
+193,3,92,Brandon Williams,CB,23,Texas A&M,2016
+194,3,93,Cody Kessler,QB,23,USC,2016
+195,3,94,Nick Vannett,TE,23,Ohio St.,2016
+196,3,95,Graham Glasgow,C,24,Michigan,2016
+197,3,96,Vincent Valentine,DT,22,Nebraska,2016
+198,3,97,Rees Odhiambo,G,23,Boise St.,2016
+199,3,98,Justin Simmons,S,22,Boston Col.,2016
+200,Rnd,Pick,Player,Pos,Age,College/Univ,2016
+201,4,99,Joe Schobert,OLB,22,Wisconsin,2016
+202,4,100,Connor Cook,QB,23,Michigan St.,2016
+203,4,101,Charles Tapper,DE,23,Oklahoma,2016
+204,4,102,Joshua Perry,ILB,22,Ohio St.,2016
+205,4,103,Sheldon Day,DT,22,Notre Dame,2016
+206,4,104,Tavon Young,CB,22,Temple,2016
+207,4,105,Parker Ehinger,G,23,Cincinnati,2016
+208,4,106,Eric Murray,CB,22,Minnesota,2016
+209,4,107,Chris Moore,WR,23,Cincinnati,2016
+210,4,108,Ryan Smith,CB,23,North Carolina Central,2016
+211,4,109,B.J. Goodson,OLB,23,Clemson,2016
+212,4,110,Tyler Higbee,TE,23,Western Kentucky,2016
+213,4,111,Miles Killebrew,S,23,Southern Utah,2016
+214,4,112,Malcolm Mitchell,WR,24,Georgia,2016
+215,4,113,Nick Kwiatkoski,ILB,23,West Virginia,2016
+216,4,114,Ricardo Louis,WR,22,Auburn,2016
+217,4,115,De'Vondre Campbell,OLB,23,Minnesota,2016
+218,4,116,Hassan Ridgeway,DT,21,Texas,2016
+219,4,117,Pharoh Cooper,WR,21,South Carolina,2016
+220,4,118,Juston Burris,CB,23,North Carolina St.,2016
+221,4,119,Tyler Ervin,RB,22,San Jose St.,2016
+222,4,120,David Onyemata,DT,23,Manitoba,2016
+223,4,121,Willie Beavers,T,22,Western Michigan,2016
+224,4,122,Andrew Billings,NT,21,Baylor,2016
+225,4,123,Jerald Hawkins,T,22,LSU,2016
+226,4,124,Deon Bush,S,23,Miami (FL),2016
+227,4,125,Antonio Morrison,ILB,21,Florida,2016
+228,4,126,Demarcus Robinson,WR,21,Florida,2016
+229,4,127,Deiondre' Hall,CB,22,Northern Iowa,2016
+230,4,128,Evan Boehm,C,23,Missouri,2016
+231,4,129,Derrick Kindred,S,22,TCU,2016
+232,4,130,Alex Lewis,T,24,Nebraska,2016
+233,4,131,Blake Martinez,LB,22,Stanford,2016
+234,4,132,Willie Henry,DT,22,Michigan,2016
+235,4,133,Rashard Robinson,CB,21,LSU,2016
+236,4,134,Kenneth Dixon,RB,22,Louisiana Tech,2016
+237,4,135,Dak Prescott,QB,23,Mississippi St.,2016
+238,4,136,Devontae Booker,RB,24,Utah,2016
+239,4,137,Dean Lowry,DE,22,Northwestern,2016
+240,4,138,Seth Devalve,TE,23,Princeton,2016
+241,4,139,Cardale Jones,QB,23,Ohio St.,2016
+242,Rnd,Pick,Player,Pos,Age,College/Univ,2016
+243,5,140,Tajae Sharpe,WR,21,Massachusetts,2016
+244,5,141,Zack Sanchez,CB,22,Oklahoma,2016
+245,5,142,Ronald Blair,DE,23,Appalachian St.,2016
+246,5,143,DeAndre Washington,RB,23,Texas Tech,2016
+247,5,144,Connor McGovern,G,23,Missouri,2016
+248,5,145,John Theus,T,22,Georgia,2016
+249,5,146,Matt Judon,DE,24,Grand Valley St.,2016
+250,5,147,Quinton Jefferson,DT,23,Maryland,2016
+251,5,148,Caleb Benenoch,T,22,UCLA,2016
+252,5,149,Paul Perkins,RB,21,UCLA,2016
+253,5,150,Jordan Howard,RB,21,Indiana,2016
+254,5,151,Joe Dahl,G,23,Washington St.,2016
+255,5,152,Matthew Ioannidis,DT,22,Temple,2016
+256,5,153,Wendell Smallwood,RB,22,West Virginia,2016
+257,5,154,Jordan Payton,WR,23,UCLA,2016
+258,5,155,Joe Haeg,T,23,North Dakota St.,2016
+259,5,156,Jonathan Williams,RB,22,Arkansas,2016
+260,5,157,LeShaun Sims,CB,22,Southern Utah,2016
+261,5,158,Brandon Shell,T,24,South Carolina,2016
+262,5,159,K.J. Dillon,S,22,West Virginia,2016
+263,5,160,Kentrell Brothers,OLB,23,Missouri,2016
+264,5,161,Christian Westerman,G,23,Arizona St.,2016
+265,5,162,Kevin Hogan,QB,23,Stanford,2016
+266,5,163,Trevor Davis,WR,23,California,2016
+267,5,164,Halapoulivaati Vaitai,T,23,TCU,2016
+268,5,165,Tyreek Hill,WR,22,West Alabama,2016
+269,5,166,D.J. Reader,NT,22,Clemson,2016
+270,5,167,Marqui Christian,S,21,Midwestern St.,2016
+271,5,168,Spencer Drango,G,23,Baylor,2016
+272,5,169,Antwione Williams,LB,23,Georgia Southern,2016
+273,5,170,Cole Toner,T,22,Harvard,2016
+274,5,171,Alex Collins,RB,22,Arkansas,2016
+275,5,172,Rashard Higgins,WR,21,Colorado St.,2016
+276,5,173,Trey Caldwell,DB,22,La-Monroe,2016
+277,5,174,Fahn Cooper,T,23,Mississippi,2016
+278,5,175,Jatavis Brown,OLB,22,Akron,2016
+279,Rnd,Pick,Player,Pos,Age,College/Univ,2016
+280,6,176,Andy Janovich,FB,23,Nebraska,2016
+281,6,177,Temarrick Hemingway,TE,23,South Carolina St.,2016
+282,6,178,D.J. White,CB,22,Georgia Tech,2016
+283,6,179,Drew Kaser,P,23,Texas A&M,2016
+284,6,180,Moritz Boehringer,WR,22,,2016
+285,6,181,Tyrone Holmes,OLB,22,Montana,2016
+286,6,182,Keenan Reynolds,RB,22,Navy,2016
+287,6,183,Devante Bond,OLB,23,Oklahoma,2016
+288,6,184,Jerell Adams,TE,23,South Carolina,2016
+289,6,185,DeAndre Houston-Carson,S,23,William & Mary,2016
+290,6,186,Jakeem Grant,WR,23,Texas Tech,2016
+291,6,187,Nate Sudfeld,QB,22,Indiana,2016
+292,6,188,David Morgan,TE,23,Texas-San Antonio,2016
+293,6,189,Anthony Brown,CB,22,Purdue,2016
+294,6,190,Josh Forrest,ILB,24,Kentucky,2016
+295,6,191,Jake Rudock,QB,23,Michigan,2016
+296,6,192,Kolby Listenbee,WR,22,TCU,2016
+297,6,193,Sebastian Tretola,G,24,Arkansas,2016
+298,6,194,Cory James,OLB,23,Colorado St.,2016
+299,6,195,Wes Schweitzer,G,22,San Jose St.,2016
+300,6,196,Blake Countess,CB,23,Auburn,2016
+301,6,197,Danny Vitale,FB,22,Northwestern,2016
+302,6,198,Derek Watt,FB,23,Wisconsin,2016
+303,6,199,Cody Core,WR,22,Mississippi,2016
+304,6,200,Kyle Murphy,T,22,Stanford,2016
+305,6,201,Brandon Allen,QB,24,Arkansas,2016
+306,6,202,Anthony Zettel,DT,24,Penn St.,2016
+307,6,203,Dadi Nicolas,DE,23,Virginia Tech,2016
+308,6,204,Jordan Lucas,S,23,Penn St.,2016
+309,6,205,Harlan Miller,CB,22,Southeastern Louisiana,2016
+310,6,206,Mike Thomas,WR,22,Southern Miss,2016
+311,6,207,Jeff Driskel,QB,23,Louisiana Tech,2016
+312,6,208,Kamu Grugier-Hill,OLB,22,Eastern Illinois,2016
+313,6,209,Maurice Canady,CB,22,Virginia,2016
+314,6,210,Jimmy Landes,LS,24,Baylor,2016
+315,6,211,Kelvin Taylor,RB,22,Florida,2016
+316,6,212,Kavon Frazier,S,22,Central Michigan,2016
+317,6,213,Aaron Burbridge,WR,22,Michigan St.,2016
+318,6,214,Elandon Roberts,ILB,22,Houston,2016
+319,6,215,Joey Hunt,C,22,TCU,2016
+320,6,216,Darius Jackson,RB,22,East. Michigan,2016
+321,6,217,Rico Gathers,TE,22,Baylor,2016
+322,6,218,Kevon Seymour,CB,22,USC,2016
+323,6,219,Will Parks,S,22,Arizona,2016
+324,6,220,Travis Feeney,OLB,23,Washington,2016
+325,6,221,Ted Karras,G,23,Illinois,2016
+326,Rnd,Pick,Player,Pos,Age,College/Univ,2016
+327,7,222,Aaron Wallace,OLB,23,UCLA,2016
+328,7,223,Brandon Doughty,QB,24,Western Kentucky,2016
+329,7,224,Donavon Clark,G,23,Michigan St.,2016
+330,7,225,Devin Lucien,WR,23,Arizona St.,2016
+331,7,226,Jonathan Woodard,DE,22,Central Arkansas,2016
+332,7,227,Stephen Weatherly,OLB,22,Vanderbilt,2016
+333,7,228,Riley Dixon,P,23,Syracuse,2016
+334,7,229,Demarcus Ayers,WR,22,Houston,2016
+335,7,230,Daniel Braverman,WR,22,Western Michigan,2016
+336,7,231,Thomas Duarte,TE,21,UCLA,2016
+337,7,232,Steven Daniels,ILB,23,Boston Col.,2016
+338,7,233,Jalen Mills,S,22,LSU,2016
+339,7,234,Vadal Alexander,G,22,LSU,2016
+340,7,235,Lac Edwards,P,24,Sam Houston St.,2016
+341,7,236,Dwayne Washington,RB,22,Washington,2016
+342,7,237,Daniel Lasco,RB,23,California,2016
+343,7,238,Devin Fuller,WR,22,UCLA,2016
+344,7,239,Trevor Bates,LB,23,Maine,2016
+345,7,240,Alex McCalister,DE,22,Florida,2016
+346,7,241,Charone Peake,WR,23,Clemson,2016
+347,7,242,Keith Marshall,RB,22,Georgia,2016
+348,7,243,Kenny Lawler,WR,22,California,2016
+349,7,244,Jayron Kearse,S,22,Clemson,2016
+350,7,245,Clayton Fejedelem,S,23,Illinois,2016
+351,7,246,Tyler Matakevich,OLB,23,Temple,2016
+352,7,247,Zac Brooks,RB,23,Clemson,2016
+353,7,248,Austin Blythe,C,24,Iowa,2016
+354,7,249,Prince Charles Iworah,CB,23,Western Kentucky,2016
+355,7,250,Scooby Wright III,ILB,22,Arizona,2016
+356,7,251,Joe Walker,ILB,23,Oregon,2016
+357,7,252,Beau Sandland,TE,23,Montana St.,2016
+358,7,253,Kalan Reed,CB,22,Southern Miss,2016
+359,1,1,Myles Garrett,DE,21,Texas A&M,2017
+360,1,2,Mitchell Trubisky,QB,23,North Carolina,2017
+361,1,3,Solomon Thomas,DE,22,Stanford,2017
+362,1,4,Leonard Fournette,RB,22,LSU,2017
+363,1,5,Corey Davis,WR,22,Western Michigan,2017
+364,1,6,Jamal Adams,S,21,LSU,2017
+365,1,7,Mike Williams,WR,22,Clemson,2017
+366,1,8,Christian McCaffrey,RB,21,Stanford,2017
+367,1,9,John Ross,WR,21,Washington,2017
+368,1,10,Patrick Mahomes,QB,21,Texas Tech,2017
+369,1,11,Marshon Lattimore,CB,21,Ohio St.,2017
+370,1,12,Deshaun Watson,QB,21,Clemson,2017
+371,1,13,Haason Reddick,LB,22,Temple,2017
+372,1,14,Derek Barnett,DE,21,Tennessee,2017
+373,1,15,Malik Hooker,S,21,Ohio St.,2017
+374,1,16,Marlon Humphrey,CB,21,Alabama,2017
+375,1,17,Jonathan Allen,DE,22,Alabama,2017
+376,1,18,Adoree' Jackson,CB,21,USC,2017
+377,1,19,O.J. Howard,TE,22,Alabama,2017
+378,1,20,Garett Bolles,T,25,Utah,2017
+379,1,21,Jarrad Davis,LB,22,Florida,2017
+380,1,22,Charles Harris,OLB,22,Missouri,2017
+381,1,23,Evan Engram,TE,23,Mississippi,2017
+382,1,24,Gareon Conley,CB,22,Ohio St.,2017
+383,1,25,Jabrill Peppers,S,21,Michigan,2017
+384,1,26,Takkarist McKinley,DE,21,UCLA,2017
+385,1,27,Tre'Davious White,CB,22,LSU,2017
+386,1,28,Taco Charlton,DE,22,Michigan,2017
+387,1,29,David Njoku,TE,21,Miami (FL),2017
+388,1,30,T.J. Watt,OLB,22,Wisconsin,2017
+389,1,31,Reuben Foster,LB,23,Alabama,2017
+390,1,32,Ryan Ramczyk,T,23,Wisconsin,2017
+391,Rnd,Pick,Player,Pos,Age,College/Univ,2017
+392,2,33,Kevin King,CB,22,Washington,2017
+393,2,34,Cam Robinson,T,21,Alabama,2017
+394,2,35,Malik McDowell,DT,21,Michigan St.,2017
+395,2,36,Budda Baker,S,21,Washington,2017
+396,2,37,Zay Jones,WR,22,East Carolina,2017
+397,2,38,Forrest Lamp,G,23,Western Kentucky,2017
+398,2,39,Marcus Maye,S,24,Florida,2017
+399,2,40,Curtis Samuel,WR,21,Ohio St.,2017
+400,2,41,Dalvin Cook,RB,22,Florida St.,2017
+401,2,42,Marcus Williams,S,20,Utah,2017
+402,2,43,Sidney Jones,CB,21,Washington,2017
+403,2,44,Gerald Everett,TE,23,South Alabama,2017
+404,2,45,Adam Shaheen,TE,22,Ashland,2017
+405,2,46,Quincy Wilson,CB,21,Florida,2017
+406,2,47,Tyus Bowser,OLB,22,Houston,2017
+407,2,48,Joe Mixon,RB,21,Oklahoma,2017
+408,2,49,Ryan Anderson,OLB,23,Alabama,2017
+409,2,50,Justin Evans,S,22,Texas A&M,2017
+410,2,51,DeMarcus Walker,DE,22,Florida St.,2017
+411,2,52,DeShone Kizer,QB,21,Notre Dame,2017
+412,2,53,Teez Tabor,CB,21,Florida,2017
+413,2,54,Raekwon McMillan,LB,21,Ohio St.,2017
+414,2,55,Dalvin Tomlinson,DT,23,Alabama,2017
+415,2,56,Obi Melifonwu,S,23,Connecticut,2017
+416,2,57,Zach Cunningham,LB,22,Vanderbilt,2017
+417,2,58,Ethan Pocic,C,22,LSU,2017
+418,2,59,Tanoh Kpassagnon,DE,23,Villanova,2017
+419,2,60,Chidobe Awuzie,CB,22,Colorado,2017
+420,2,61,Josh Jones,S,22,North Carolina St.,2017
+421,2,62,JuJu Smith-Schuster,WR,20,USC,2017
+422,2,63,Dion Dawkins,G,23,Temple,2017
+423,2,64,Taylor Moton,G,23,Western Michigan,2017
+424,Rnd,Pick,Player,Pos,Age,College/Univ,2017
+425,3,65,Larry Ogunjobi,DT,23,Charlotte,2017
+426,3,66,Ahkello Witherspoon,CB,22,Colorado,2017
+427,3,67,Alvin Kamara,RB,22,Tennessee,2017
+428,3,68,Dawuane Smoot,DE,22,Illinois,2017
+429,3,69,Cooper Kupp,WR,24,East. Washington,2017
+430,3,70,Pat Elflein,C,23,Ohio St.,2017
+431,3,71,Dan Feeney,G,23,Indiana,2017
+432,3,72,Taywan Taylor,WR,22,Western Kentucky,2017
+433,3,73,Jordan Willis,OLB,22,Kansas St.,2017
+434,3,74,Chris Wormley,DE,23,Michigan,2017
+435,3,75,Duke Riley,LB,23,LSU,2017
+436,3,76,Alex Anzalone,LB,22,Florida,2017
+437,3,77,Daeshon Hall,DE,22,Texas A&M,2017
+438,3,78,Tim Williams,OLB,23,Alabama,2017
+439,3,79,ArDarius Stewart,WR,23,Alabama,2017
+440,3,80,Tarell Basham,DE,23,Ohio,2017
+441,3,81,Fabian Moreau,CB,23,UCLA,2017
+442,3,82,Carlos Henderson,WR,22,Louisiana Tech,2017
+443,3,83,Derek Rivers,DE,23,Youngstown St.,2017
+444,3,84,Chris Godwin,WR,21,Penn St.,2017
+445,3,85,Antonio Garcia,T,23,Troy,2017
+446,3,86,Kareem Hunt,RB,22,Toledo,2017
+447,3,87,Davis Webb,QB,22,California,2017
+448,3,88,Eddie Vanderdoes,DT,22,UCLA,2017
+449,3,89,D'Onta Foreman,RB,21,Texas,2017
+450,3,90,Shaquill Griffin,DB,22,Central Florida,2017
+451,3,91,John Johnson,S,21,Boston Col.,2017
+452,3,92,Jourdan Lewis,CB,22,Michigan,2017
+453,3,93,Montravius Adams,DT,22,Auburn,2017
+454,3,94,Cameron Sutton,CB,22,Tennessee,2017
+455,3,95,Lano Hill,S,21,Michigan,2017
+456,3,96,Kenny Golladay,WR,23,Northern Illinois,2017
+457,3,97,Cordrea Tankersley,CB,23,Clemson,2017
+458,3,98,Chad Williams,WR,22,Grambling St.,2017
+459,3,99,Rasul Douglas,CB,23,West Virginia,2017
+460,3,100,Jonnu Smith,TE,22,Florida International,2017
+461,3,101,Brendan Langley,CB,22,Lamar,2017
+462,3,102,Nazair Jones,DT,22,North Carolina,2017
+463,3,103,Trey Hendrickson,OLB,22,Florida Atlantic,2017
+464,3,104,C.J. Beathard,QB,23,Iowa,2017
+465,3,105,James Conner,RB,22,Pittsburgh,2017
+466,3,106,Amara Darboh,WR,23,Michigan,2017
+467,3,107,Kendell Beckwith,ILB,22,LSU,2017
+468,Rnd,Pick,Player,Pos,Age,College/Univ,2017
+469,4,108,Vince Biegel,LB,24,Wisconsin,2017
+470,4,109,Jaleel Johnson,DT,23,Iowa,2017
+471,4,110,Dede Westbrook,WR,23,Oklahoma,2017
+472,4,111,Tedric Thompson,S,22,Colorado,2017
+473,4,112,Eddie Jackson,S,23,Alabama,2017
+474,4,113,Rayshawn Jenkins,S,23,Miami (FL),2017
+475,4,114,Samaje Perine,RB,21,Oklahoma,2017
+476,4,115,Dorian Johnson,G,22,Pittsburgh,2017
+477,4,116,Carl Lawson,OLB,22,Auburn,2017
+478,4,117,Josh Reynolds,WR,22,Texas A&M,2017
+479,4,118,Mack Hollins,WR,23,North Carolina,2017
+480,4,119,Tarik Cohen,RB,22,North Carolina A&T,2017
+481,4,120,Ben Gedeon,ILB,22,Michigan,2017
+482,4,121,Joe Williams,RB,24,Utah,2017
+483,4,122,Nico Siragusa,G,23,San Diego St.,2017
+484,4,123,Montae Nicholson,S,21,Michigan St.,2017
+485,4,124,Jalen Reeves-Maybin,LB,22,Tennessee,2017
+486,4,125,Samson Ebukam,OLB,22,East. Washington,2017
+487,4,126,Howard Wilson,CB,21,Houston,2017
+488,4,127,Michael Roberts,TE,23,Toledo,2017
+489,4,128,Josh Malone,WR,21,Tennessee,2017
+490,4,129,David Sharpe,T,21,Florida,2017
+491,4,130,Julie'n Davenport,T,22,Bucknell,2017
+492,4,131,Deatrich Wise Jr.,DE,23,Arkansas,2017
+493,4,132,Donnel Pumphrey,RB,22,San Diego St.,2017
+494,4,133,Ryan Switzer,WR,22,North Carolina,2017
+495,4,134,Jamaal Williams,RB,22,BYU,2017
+496,4,135,Joshua Dobbs,QB,22,Tennessee,2017
+497,4,136,Sean Harlow,G,22,Oregon St.,2017
+498,4,137,Zach Banner,T,23,USC,2017
+499,4,138,Ryan Glasgow,DT,23,Michigan,2017
+500,4,139,Jehu Chesson,WR,23,Michigan,2017
+501,4,140,Wayne Gallman,RB,22,Clemson,2017
+502,4,141,Chad Hansen,WR,22,California,2017
+503,4,142,Carlos Watkins,DT,23,Clemson,2017
+504,4,143,Marlon Mack,RB,21,South Florida,2017
+505,4,144,Grover Stewart,DT,23,Albany State (GA),2017
+506,Rnd,Pick,Player,Pos,Age,College/Univ,2017
+507,5,145,Jake Butt,TE,22,Michigan,2017
+508,5,146,George Kittle,TE,23,Iowa,2017
+509,5,147,Jordan Morgan,G,23,Kutztown (PA),2017
+510,5,148,Blair Brown,LB,23,Ohio,2017
+511,5,149,Damontae Kazee,CB,24,San Diego St.,2017
+512,5,150,Jordan Leggett,TE,22,Clemson,2017
+513,5,151,Desmond King,S,22,Iowa,2017
+514,5,152,Corn Elder,CB,22,Miami (FL),2017
+515,5,153,Jake Elliott,K,22,Memphis,2017
+516,5,154,Jeremy Sprinkle,TE,23,Arkansas,2017
+517,5,155,Jayon Brown,LB,22,UCLA,2017
+518,5,156,Brian Hill,RB,21,Wyoming,2017
+519,5,157,Will Holden,T,23,Vanderbilt,2017
+520,5,158,Nate Hairston,CB,23,Temple,2017
+521,5,159,Jermaine Eluemunor,G,22,Texas A&M,2017
+522,5,160,Roderick Johnson,T,21,Florida St.,2017
+523,5,161,Anthony Walker,LB,22,Northwestern,2017
+524,5,162,Jeremy McNichols,RB,21,Boise St.,2017
+525,5,163,Matt Milano,LB,23,Boston Col.,2017
+526,5,164,Isaac Asiata,G,24,Utah,2017
+527,5,165,Jamal Agnew,CB,22,San Diego,2017
+528,5,166,Shelton Gibson,WR,23,West Virginia,2017
+529,5,167,Avery Moss,DE,22,Youngstown St.,2017
+530,5,168,Marquel Lee,LB,21,Wake Forest,2017
+531,5,169,Treston Decoud,S,24,Oregon St.,2017
+532,5,170,Rodney Adams,WR,22,South Florida,2017
+533,5,171,Nathan Peterman,QB,23,Pittsburgh,2017
+534,5,172,Isaiah McKenzie,WR,22,Georgia,2017
+535,5,173,Brian Allen,DB,23,Utah,2017
+536,5,174,Eric Saubert,TE,23,Drake,2017
+537,5,175,DeAngelo Yancey,WR,22,Purdue,2017
+538,5,176,JJ Dielman,C,23,Utah,2017
+539,5,177,Trent Taylor,WR,23,Louisiana Tech,2017
+540,5,178,Davon Godchaux,DT,22,LSU,2017
+541,5,179,T.J. Logan,RB,23,North Carolina,2017
+542,5,180,Danny Isidora,G,23,Miami (FL),2017
+543,5,181,Dylan Donahue,DL,25,West Georgia,2017
+544,5,182,Aaron Jones,RB,22,Texas-El Paso,2017
+545,5,183,Ukeme Eligwe,LB,23,Georgia Southern,2017
+546,5,184,Nathan Gerry,S,22,Nebraska,2017
+547,Rnd,Pick,Player,Pos,Age,College/Univ,2017
+548,6,185,Caleb Brantley,DT,23,Florida,2017
+549,6,186,Chuck Clark,DB,22,Virginia Tech,2017
+550,6,187,Michael Tyson,S,24,Cincinnati,2017
+551,6,188,Elijah McGuire,RB,23,Louisiana,2017
+552,6,189,Tanzel Smart,DT,22,Tulane,2017
+553,6,190,Sam Tevi,T,22,Utah,2017
+554,6,191,Xavier Woods,S,22,Louisiana Tech,2017
+555,6,192,Alex Armah,FB,23,West Georgia,2017
+556,6,193,Jordan Evans,LB,22,Oklahoma,2017
+557,6,194,Vincent Taylor,DT,23,Oklahoma St.,2017
+558,6,195,Tanner Vallejo,LB,22,Boise St.,2017
+559,6,196,Al-Quadin Muhammad,DE,22,Miami (FL),2017
+560,6,197,Jeremy Clark,CB,23,Michigan,2017
+561,6,198,D.J. Jones,DT,22,Mississippi,2017
+562,6,199,Chase Roullier,C,24,Wyoming,2017
+563,6,200,Adam Bisnowaty,T,23,Pittsburgh,2017
+564,6,201,Bucky Hodges,TE,22,Virginia Tech,2017
+565,6,202,Pita Taumoepenu,OLB,23,Utah,2017
+566,6,203,De'Angelo Henderson,RB,24,Coastal Carolina,2017
+567,6,204,Derrick Jones,CB,22,Mississippi,2017
+568,6,205,Jeremiah Ledbetter,DE,23,Arkansas,2017
+569,6,206,Sam Rogers,FB,22,Virginia Tech,2017
+570,6,207,Brandon Wilson,RB,23,Houston,2017
+571,6,208,Rudy Ford,S,22,Auburn,2017
+572,6,209,Robert Davis,WR,22,Georgia St.,2017
+573,6,210,Justin Senior,T,23,Mississippi St.,2017
+574,6,211,Conor McDermott,T,24,UCLA,2017
+575,6,212,Kofi Amichia,C,23,South Florida,2017
+576,6,213,Colin Holba,LS,23,Louisville,2017
+577,6,214,Elijah Qualls,DT,22,Washington,2017
+578,6,215,Brad Kaaya,QB,22,Miami (FL),2017
+579,6,216,Marquez White,CB,22,Florida St.,2017
+580,6,217,Corey Levin,OL,23,Chattanooga,2017
+581,6,218,Leon McQuay,S,22,USC,2017
+582,Rnd,Pick,Player,Pos,Age,College/Univ,2017
+583,7,219,Stacy Coley,WR,23,Miami (FL),2017
+584,7,220,Ifeadi Odenigbo,DL,23,Northwestern,2017
+585,7,221,Shalom Luani,S,23,Washington St.,2017
+586,7,222,Jalen Myrick,CB,22,Minnesota,2017
+587,7,223,Stevie Tu'ikolovatu,NT,26,USC,2017
+588,7,224,Zane Gonzalez,K,22,Arizona St.,2017
+589,7,225,Isaac Rochell,DT,22,Notre Dame,2017
+590,7,226,David Moore,WR,22,East Central (OK),2017
+591,7,227,Josh Carraway,OLB,23,TCU,2017
+592,7,228,Joey Ivie,DT,22,Florida,2017
+593,7,229,Adrian Colbert,DB,23,Miami (FL),2017
+594,7,230,Josh Harvey-Clemons,S,23,Louisville,2017
+595,7,231,Jylan Ware,T,23,Alabama St.,2017
+596,7,232,Elijah Lee,LB,21,Kansas St.,2017
+597,7,233,Harrison Butker,K,22,Georgia Tech,2017
+598,7,234,Ejuan Price,DE,24,Pittsburgh,2017
+599,7,235,Joshua Holsey,DB,23,Auburn,2017
+600,7,236,Brad Seaton,T,23,Villanova,2017
+601,7,237,Isaiah Ford,WR,21,Virginia Tech,2017
+602,7,238,Devante Mays,RB,23,Utah St.,2017
+603,7,239,Noah Brown,WR,21,Ohio St.,2017
+604,7,240,Marquez Williams,FB,23,Miami (FL),2017
+605,7,241,Khalfani Muhammad,RB,22,California,2017
+606,7,242,Elijah Hood,RB,21,North Carolina,2017
+607,7,243,Kyle Fuller,C,23,Baylor,2017
+608,7,244,Treyvon Hester,DT,24,Toledo,2017
+609,7,245,Jack Tocho,CB,21,North Carolina St.,2017
+610,7,246,Jordan Carrell,DT,23,Colorado,2017
+611,7,247,Malachi Dupre,WR,21,LSU,2017
+612,7,248,Keion Adams,OLB,22,Western Michigan,2017
+613,7,249,Chris Carson,RB,22,Oklahoma St.,2017
+614,7,250,Pat O'Connor,DE,23,East. Michigan,2017
+615,7,251,Mason Schreck,TE,23,Buffalo,2017
+616,7,252,Matthew Dayes,RB,23,North Carolina St.,2017
+617,7,253,Chad Kelly,QB,23,Mississippi,2017
+618,1,1,Baker Mayfield,QB,23,Oklahoma,2018
+619,1,2,Saquon Barkley,RB,21,Penn St.,2018
+620,1,3,Sam Darnold,QB,21,USC,2018
+621,1,4,Denzel Ward,CB,21,Ohio St.,2018
+622,1,5,Bradley Chubb,DE,22,North Carolina St.,2018
+623,1,6,Quenton Nelson,G,22,Notre Dame,2018
+624,1,7,Josh Allen,QB,22,Wyoming,2018
+625,1,8,Roquan Smith,ILB,21,Georgia,2018
+626,1,9,Mike McGlinchey,T,23,Notre Dame,2018
+627,1,10,Josh Rosen,QB,21,UCLA,2018
+628,1,11,Minkah Fitzpatrick,S,21,Alabama,2018
+629,1,12,Vita Vea,DT,23,Washington,2018
+630,1,13,Daron Payne,DT,21,Alabama,2018
+631,1,14,Marcus Davenport,DE,22,Texas-San Antonio,2018
+632,1,15,Kolton Miller,T,22,UCLA,2018
+633,1,16,Tremaine Edmunds,ILB,20,Virginia Tech,2018
+634,1,17,Derwin James,S,22,Florida St.,2018
+635,1,18,Jaire Alexander,CB,21,Louisville,2018
+636,1,19,Leighton Vander Esch,OLB,22,Boise St.,2018
+637,1,20,Frank Ragnow,C,22,Arkansas,2018
+638,1,21,Billy Price,C,23,Ohio St.,2018
+639,1,22,Rashaan Evans,ILB,22,Alabama,2018
+640,1,23,Isaiah Wynn,T,22,Georgia,2018
+641,1,24,D.J. Moore,WR,21,Maryland,2018
+642,1,25,Hayden Hurst,TE,25,South Carolina,2018
+643,1,26,Calvin Ridley,WR,23,Alabama,2018
+644,1,27,Rashaad Penny,RB,22,San Diego St.,2018
+645,1,28,Terrell Edmunds,S,21,Virginia Tech,2018
+646,1,29,Taven Bryan,DT,22,Florida,2018
+647,1,30,Mike Hughes,CB,21,Central Florida,2018
+648,1,31,Sony Michel,RB,23,Georgia,2018
+649,1,32,Lamar Jackson,QB,21,Louisville,2018
+650,Rnd,Pick,Player,Pos,Age,College/Univ,2018
+651,2,33,Austin Corbett,C,23,Nevada,2018
+652,2,34,Will Hernandez,G,23,Texas-El Paso,2018
+653,2,35,Nick Chubb,RB,22,Georgia,2018
+654,2,36,Darius Leonard,LB,23,South Carolina St.,2018
+655,2,37,Braden Smith,G,22,Auburn,2018
+656,2,38,Ronald Jones II,RB,21,USC,2018
+657,2,39,James Daniels,C,20,Iowa,2018
+658,2,40,Courtland Sutton,WR,22,SMU,2018
+659,2,41,Harold Landry,OLB,22,Boston Col.,2018
+660,2,42,Mike Gesicki,TE,22,Penn St.,2018
+661,2,43,Kerryon Johnson,RB,21,Auburn,2018
+662,2,44,Dante Pettis,WR,22,Washington,2018
+663,2,45,Josh Jackson,CB,22,Iowa,2018
+664,2,46,Breeland Speaks,DE,22,Mississippi,2018
+665,2,47,Christian Kirk,WR,21,Texas A&M,2018
+666,2,48,Uchenna Nwosu,OLB,21,USC,2018
+667,2,49,Dallas Goedert,TE,23,South Dakota St.,2018
+668,2,50,Connor Williams,T,21,Texas,2018
+669,2,51,Anthony Miller,WR,23,Memphis,2018
+670,2,52,Kemoko Turay,OLB,23,Rutgers,2018
+671,2,53,M.J. Stewart,CB,22,North Carolina,2018
+672,2,54,Jessie Bates III,S,21,Wake Forest,2018
+673,2,55,Donte Jackson,CB,22,LSU,2018
+674,2,56,Duke Dawson,CB,22,Florida,2018
+675,2,57,P.J. Hall,DT,23,Sam Houston St.,2018
+676,2,58,Isaiah Oliver,CB,21,Colorado,2018
+677,2,59,Derrius Guice,RB,21,LSU,2018
+678,2,60,James Washington,WR,22,Oklahoma St.,2018
+679,2,61,DJ Chark,WR,21,LSU,2018
+680,2,62,Brian O'Neill,T,22,Pittsburgh,2018
+681,2,63,Carlton Davis,CB,21,Auburn,2018
+682,2,64,Tyquan Lewis,DE,23,Ohio St.,2018
+683,Rnd,Pick,Player,Pos,Age,College/Univ,2018
+684,3,65,Brandon Parker,T,22,North Carolina A&T,2018
+685,3,66,Lorenzo Carter,DE,22,Georgia,2018
+686,3,67,Chad Thomas,DE,22,Miami (FL),2018
+687,3,68,Justin Reid,S,21,Stanford,2018
+688,3,69,B.J. Hill,DT,23,North Carolina St.,2018
+689,3,70,Fred Warner,OLB,21,BYU,2018
+690,3,71,Royce Freeman,RB,22,Oregon,2018
+691,3,72,Nathan Shepherd,DT,24,Fort Hays St.,2018
+692,3,73,Jerome Baker,OLB,21,Ohio St.,2018
+693,3,74,Geron Christian,T,21,Louisville,2018
+694,3,75,Derrick Nnadi,DT,22,Florida St.,2018
+695,3,76,Mason Rudolph,QB,23,Oklahoma St.,2018
+696,3,77,Sam Hubbard,DE,23,Ohio St.,2018
+697,3,78,Malik Jefferson,OLB,21,Texas,2018
+698,3,79,Rasheem Green,DT,21,USC,2018
+699,3,80,Martinas Rankin,T,23,Mississippi St.,2018
+700,3,81,Michael Gallup,WR,22,Colorado St.,2018
+701,3,82,Tracy Walker,S,23,Louisiana,2018
+702,3,83,Orlando Brown Jr.,T,22,Oklahoma,2018
+703,3,84,Justin Jones,DT,22,North Carolina St.,2018
+704,3,85,Rashaan Gaulden,CB,23,Tennessee,2018
+705,3,86,Mark Andrews,TE,23,Oklahoma,2018
+706,3,87,Arden Key,DE,22,LSU,2018
+707,3,88,Oren Burks,ILB,23,Vanderbilt,2018
+708,3,89,Joseph Noteboom,T,23,TCU,2018
+709,3,90,Deadrin Senat,DT,24,South Florida,2018
+710,3,91,Tre'Quan Smith,WR,22,Central Florida,2018
+711,3,92,Chukwuma Okorafor,T,21,Western Michigan,2018
+712,3,93,Ronnie Harrison,S,21,Alabama,2018
+713,3,94,Alex Cappa,T,23,Humboldt St.,2018
+714,3,95,Tarvarius Moore,S,22,Southern Miss,2018
+715,3,96,Harrison Phillips,DT,22,Stanford,2018
+716,3,97,Mason Cole,C,22,Michigan,2018
+717,3,98,Jordan Akins,TE,26,Central Florida,2018
+718,3,99,Isaac Yiadom,CB,22,Boston Col.,2018
+719,3,100,Dorian O'Daniel,OLB,24,Clemson,2018
+720,Rnd,Pick,Player,Pos,Age,College/Univ,2018
+721,4,101,Ian Thomas,TE,22,Indiana,2018
+722,4,102,Jalyn Holmes,DE,22,Ohio St.,2018
+723,4,103,Keke Coutee,WR,21,Texas Tech,2018
+724,4,104,Nyheim Hines,RB,21,North Carolina St.,2018
+725,4,105,Antonio Callaway,WR,21,Florida,2018
+726,4,106,Josey Jewell,ILB,23,Iowa,2018
+727,4,107,Chris Herndon,TE,22,Miami (FL),2018
+728,4,108,Kyle Lauletta,QB,23,Richmond,2018
+729,4,109,Troy Apke,S,23,Penn St.,2018
+730,4,110,Nick Nelson,CB,21,Wisconsin,2018
+731,4,111,Brian Allen,C,22,Michigan St.,2018
+732,4,112,Mark Walton,RB,21,Miami (FL),2018
+733,4,113,DaeSean Hamilton,WR,23,Penn St.,2018
+734,4,114,Da'Shawn Hand,DE,22,Alabama,2018
+735,4,115,Joel Iyiegbuniwe,LB,22,Western Kentucky,2018
+736,4,116,Dorance Armstrong Jr.,DE,21,Kansas,2018
+737,4,117,Jordan Whitehead,S,21,Pittsburgh,2018
+738,4,118,Anthony Averett,CB,23,Alabama,2018
+739,4,119,Kyzir White,S,22,West Virginia,2018
+740,4,120,Will Dissly,TE,22,Washington,2018
+741,4,121,Taron Johnson,CB,22,Weber St.,2018
+742,4,122,Kenny Young,LB,23,UCLA,2018
+743,4,123,Durham Smythe,TE,23,Notre Dame,2018
+744,4,124,Armani Watts,S,22,Texas A&M,2018
+745,4,125,Avonte Maddox,CB,22,Pittsburgh,2018
+746,4,126,Ito Smith,RB,22,Southern Miss,2018
+747,4,127,Rick Leonard,T,21,Florida St.,2018
+748,4,128,Kentavius Street,DT,22,North Carolina St.,2018
+749,4,129,Will Richardson,T,22,North Carolina St.,2018
+750,4,130,Josh Sweat,DE,21,Florida St.,2018
+751,4,131,Kalen Ballage,RB,22,Arizona St.,2018
+752,4,132,Jaleel Scott,WR,23,New Mexico St.,2018
+753,4,133,J'Mon Moore,WR,23,Missouri,2018
+754,4,134,Chase Edmonds,RB,22,Fordham,2018
+755,4,135,John Franklin-Myers,DE,21,S.F. Austin,2018
+756,4,136,Marquis Haynes,OLB,24,Mississippi,2018
+757,4,137,Dalton Schultz,TE,22,Stanford,2018
+758,Rnd,Pick,Player,Pos,Age,College/Univ,2018
+759,5,138,Cole Madison,G,23,Washington St.,2018
+760,5,139,R.J. McIntosh,DT,22,Miami (FL),2018
+761,5,140,Maurice Hurst Jr.,DT,23,Michigan,2018
+762,5,141,Shaquem Griffin,OLB,23,Central Florida,2018
+763,5,142,D.J. Reed,CB,21,Kansas St.,2018
+764,5,143,Ja'Whaun Bentley,ILB,22,Purdue,2018
+765,5,144,Justin Watson,WR,22,Pennsylvania,2018
+766,5,145,Bilal Nichols,DT,21,Delaware,2018
+767,5,146,Tre Flowers,S,23,Oklahoma St.,2018
+768,5,147,Micah Kiser,ILB,23,Virginia,2018
+769,5,148,Marcus Allen,S,22,Penn St.,2018
+770,5,149,Michael Dickson,P,22,Texas,2018
+771,5,150,Genard Avery,LB,23,Memphis,2018
+772,5,151,Davontae Harris,CB,23,Illinois St.,2018
+773,5,152,Dane Cruikshank,CB,23,Arizona,2018
+774,5,153,Tyrell Crosby,T,23,Oregon,2018
+775,5,154,Siran Neal,CB,24,Jacksonville St.,2018
+776,5,155,Scott Quessenberry,C,23,UCLA,2018
+777,5,156,Troy Fumagalli,TE,23,Wisconsin,2018
+778,5,157,Tyler Conklin,TE,23,Central Michigan,2018
+779,5,158,Andrew Brown,DE,22,Virginia,2018
+780,5,159,Daurice Fountain,WR,22,Northern Iowa,2018
+781,5,160,Ogbonnia Okoronkwo,DE,23,Oklahoma,2018
+782,5,161,Jermaine Carter Jr.,LB,23,Maryland,2018
+783,5,162,Jordan Lasley,WR,21,UCLA,2018
+784,5,163,Tim Settle,DT,21,Virginia Tech,2018
+785,5,164,Natrell Jamerson,S,22,Wisconsin,2018
+786,5,165,Jaylen Samuels,TE,22,North Carolina St.,2018
+787,5,166,Wyatt Teller,G,23,Virginia Tech,2018
+788,5,167,Daniel Carlson,K,23,Auburn,2018
+789,5,168,Jamarco Jones,T,22,Ohio St.,2018
+790,5,169,Jordan Wilkins,RB,24,Mississippi,2018
+791,5,170,Darius Phillips,CB,23,Western Michigan,2018
+792,5,171,Mike White,QB,23,Western Kentucky,2018
+793,5,172,JK Scott,P,22,Alabama,2018
+794,5,173,Johnny Townsend,P,23,Florida,2018
+795,5,174,Marquez Valdes-Scantling,WR,23,South Florida,2018
+796,Rnd,Pick,Player,Pos,Age,College/Univ,2018
+797,6,175,Damion Ratley,WR,23,Texas A&M,2018
+798,6,176,John Kelly,RB,21,Tennessee,2018
+799,6,177,Duke Ejiofor,DE,23,Wake Forest,2018
+800,6,178,Christian Sam,ILB,22,Arizona St.,2018
+801,6,179,Parry Nickerson,CB,23,Tulane,2018
+802,6,180,Folorunso Fatukasi,DT,23,Connecticut,2018
+803,6,181,Kylie Fitts,DE,23,Utah,2018
+804,6,182,Christian Campbell,CB,22,Penn St.,2018
+805,6,183,Sam Jones,G,22,Arizona St.,2018
+806,6,184,Marcell Harris,S,24,Florida,2018
+807,6,185,Deon Cain,WR,22,Clemson,2018
+808,6,186,Jacob Martin,LB,22,Temple,2018
+809,6,187,Ray-Ray McCloud,WR,21,Clemson,2018
+810,6,188,Simeon Thomas,CB,24,Louisiana,2018
+811,6,189,Kamrin Moore,CB,21,Boston Col.,2018
+812,6,190,DeShon Elliott,S,21,Texas,2018
+813,6,191,Dylan Cantrell,WR,24,Texas Tech,2018
+814,6,192,Jamil Demby,T,22,Maine,2018
+815,6,193,Chris Covington,LB,22,Indiana,2018
+816,6,194,Russell Gage,WR,22,LSU,2018
+817,6,195,Sebastian Joseph,DT,23,Rutgers,2018
+818,6,196,Tremon Smith,WR,22,Central Arkansas,2018
+819,6,197,Shaun Dion Hamilton,LB,22,Alabama,2018
+820,6,198,Kahlil McKenzie,DT,21,Tennessee,2018
+821,6,199,Luke Falk,QB,23,Washington St.,2018
+822,6,200,Foyesade Oluokun,S,23,Yale,2018
+823,6,201,Boston Scott,RB,23,Louisiana Tech,2018
+824,6,202,Jack Cichy,ILB,23,Wisconsin,2018
+825,6,203,Tanner Lee,QB,23,Nebraska,2018
+826,6,204,Trenton Cannon,RB,24,Virginia St.,2018
+827,6,205,Trevon Young,DE,23,Louisville,2018
+828,6,206,Matt Pryor,T,23,TCU,2018
+829,6,207,Equanimeous St. Brown,WR,21,Notre Dame,2018
+830,6,208,Cedrick Wilson Jr.,WR,22,Boise St.,2018
+831,6,209,Cornell Armstrong,CB,22,Southern Miss,2018
+832,6,210,Braxton Berrios,WR,22,Miami (FL),2018
+833,6,211,Jordan Thomas,TE,22,Mississippi St.,2018
+834,6,212,Greg Senat,T,23,Wagner,2018
+835,6,213,Colby Gossett,G,23,Appalachian St.,2018
+836,6,214,Peter Kalambayi,LB,23,Stanford,2018
+837,6,215,Bradley Bozeman,C,23,Alabama,2018
+838,6,216,Azeem Victor,LB,22,Washington,2018
+839,6,217,Keishawn Bierria,ILB,23,Washington,2018
+840,6,218,Ade Aruna,DE,24,Tulane,2018
+841,Rnd,Pick,Player,Pos,Age,College/Univ,2018
+842,7,219,Danny Etling,QB,24,LSU,2018
+843,7,220,Alex McGough,QB,22,Florida International,2018
+844,7,221,Matthew Adams,LB,22,Houston,2018
+845,7,222,Jermaine Kelly,CB,23,San Jose St.,2018
+846,7,223,Jullian Taylor,DT,23,Temple,2018
+847,7,224,Javon Wims,WR,23,Georgia,2018
+848,7,225,Devante Downs,LB,22,California,2018
+849,7,226,David Williams,RB,24,Arkansas,2018
+850,7,227,Quentin Poling,LB,24,Ohio,2018
+851,7,228,Marcell Ateman,WR,23,Oklahoma St.,2018
+852,7,229,Jason Sanders,K,22,New Mexico,2018
+853,7,230,Leon Jacobs,OLB,22,Wisconsin,2018
+854,7,231,Travin Howard,OLB,22,TCU,2018
+855,7,232,James Looney,DE,23,California,2018
+856,7,233,Jordan Mailata,T,21,,2018
+857,7,234,Andre Smith,ILB,21,North Carolina,2018
+858,7,235,Zaire Franklin,LB,22,Syracuse,2018
+859,7,236,Bo Scarbrough,RB,23,Alabama,2018
+860,7,237,Nick Bawden,RB,22,San Diego St.,2018
+861,7,238,Zach Sieler,DE,23,Ferris St.,2018
+862,7,239,Hunter Bradley,LS,24,Mississippi St.,2018
+863,7,240,Richie James,WR,23,Middle Tenn. St.,2018
+864,7,241,Greg Stroman,CB,22,Virginia Tech,2018
+865,7,242,Kendrick Norton,DT,21,Miami (FL),2018
+866,7,243,Keion Crossen,CB,22,Western Carolina,2018
+867,7,244,Justin Lawler,DE,23,SMU,2018
+868,7,245,Will Clapp,C,22,LSU,2018
+869,7,246,Joshua Frazier,DT,22,Alabama,2018
+870,7,247,Logan Cooke,P,23,Mississippi St.,2018
+871,7,248,Kendall Donnerson,OLB,22,SE Missouri St.,2018
+872,7,249,Logan Woodside,QB,23,Toledo,2018
+873,7,250,Ryan Izzo,TE,22,Florida St.,2018
+874,7,251,Justin Jackson,RB,22,Northwestern,2018
+875,7,252,Rod Taylor,G,23,Mississippi,2018
+876,7,253,Auden Tate,WR,21,Florida St.,2018
+877,7,254,Korey Cunningham,T,23,Cincinnati,2018
+878,7,255,Austin Proehl,WR,22,North Carolina,2018
+879,7,256,Trey Quinn,WR,22,SMU,2018
+880,1,1,Kyler Murray,QB,22,Oklahoma,2019
+881,1,2,Nick Bosa,DE,21,Ohio St.,2019
+882,1,3,Quinnen Williams,DT,21,Alabama,2019
+883,1,4,Clelin Ferrell,DE,22,Clemson,2019
+884,1,5,Devin White,LB,21,LSU,2019
+885,1,6,Daniel Jones,QB,22,Duke,2019
+886,1,7,Josh Allen,LB,22,Kentucky,2019
+887,1,8,T.J. Hockenson,TE,22,Iowa,2019
+888,1,9,Ed Oliver,DT,21,Houston,2019
+889,1,10,Devin Bush Jr.,LB,21,Michigan,2019
+890,1,11,Jonah Williams,G,21,Alabama,2019
+891,1,12,Rashan Gary,LB,21,Michigan,2019
+892,1,13,Christian Wilkins,DT,23,Clemson,2019
+893,1,14,Chris Lindstrom,G,22,Boston Col.,2019
+894,1,15,Dwayne Haskins,QB,22,Ohio St.,2019
+895,1,16,Brian Burns,DE,21,Florida St.,2019
+896,1,17,Dexter Lawrence,DT,21,Clemson,2019
+897,1,18,Garrett Bradbury,C,24,North Carolina St.,2019
+898,1,19,Jeffery Simmons,DT,22,Mississippi St.,2019
+899,1,20,Noah Fant,TE,21,Iowa,2019
+900,1,21,Darnell Savage Jr.,S,22,Maryland,2019
+901,1,22,Andre Dillard,T,23,Washington St.,2019
+902,1,23,Tytus Howard,T,23,Alabama St.,2019
+903,1,24,Josh Jacobs,RB,21,Alabama,2019
+904,1,25,Marquise Brown,WR,22,Oklahoma,2019
+905,1,26,Montez Sweat,DE,23,Mississippi St.,2019
+906,1,27,Johnathan Abram,S,22,Mississippi St.,2019
+907,1,28,Jerry Tillery,DT,22,Notre Dame,2019
+908,1,29,L.J. Collier,DE,23,TCU,2019
+909,1,30,Deandre Baker,CB,22,Georgia,2019
+910,1,31,Kaleb McGary,T,24,Washington,2019
+911,1,32,N'Keal Harry,WR,21,Arizona St.,2019
+912,Rnd,Pick,Player,Pos,Age,College/Univ,2019
+913,2,33,Byron Murphy,CB,21,Washington,2019
+914,2,34,Rock Ya-Sin,CB,23,Temple,2019
+915,2,35,Jawaan Taylor,T,21,Florida,2019
+916,2,36,Deebo Samuel,WR,23,South Carolina,2019
+917,2,37,Greg Little,T,21,Mississippi,2019
+918,2,38,Cody Ford,T,22,Oklahoma,2019
+919,2,39,Sean Murphy-Bunting,CB,22,Central Michigan,2019
+920,2,40,Trayvon Mullen,CB,21,Clemson,2019
+921,2,41,Dalton Risner,T,24,Kansas St.,2019
+922,2,42,Drew Lock,QB,22,Missouri,2019
+923,2,43,Jahlani Tavai,LB,22,Hawaii,2019
+924,2,44,Elgton Jenkins,C,23,Mississippi St.,2019
+925,2,45,Joejuan Williams,CB,21,Vanderbilt,2019
+926,2,46,Greedy Williams,CB,21,LSU,2019
+927,2,47,Marquise Blair,S,22,Utah,2019
+928,2,48,Erik McCoy,C,22,Texas A&M,2019
+929,2,49,Ben Banogu,LB,23,TCU,2019
+930,2,50,Irv Smith Jr.,TE,21,Alabama,2019
+931,2,51,A.J. Brown,WR,22,Mississippi,2019
+932,2,52,Drew Sample,TE,23,Washington,2019
+933,2,53,Miles Sanders,RB,22,Penn St.,2019
+934,2,54,Lonnie Johnson Jr.,CB,23,Kentucky,2019
+935,2,55,Max Scharping,T,23,Northern Illinois,2019
+936,2,56,Mecole Hardman,WR,21,Georgia,2019
+937,2,57,JJ Arcega-Whiteside,WR,22,Stanford,2019
+938,2,58,Trysten Hill,DT,21,Central Florida,2019
+939,2,59,Parris Campbell,WR,22,Ohio St.,2019
+940,2,60,Nasir Adderley,S,22,Delaware,2019
+941,2,61,Taylor Rapp,S,21,Washington,2019
+942,2,62,Andy Isabella,WR,22,Massachusetts,2019
+943,2,63,Juan Thornhill,S,23,Virginia,2019
+944,2,64,D.K. Metcalf,WR,21,Mississippi,2019
+945,Rnd,Pick,Player,Pos,Age,College/Univ,2019
+946,3,65,Zach Allen,DE,22,Boston Col.,2019
+947,3,66,Diontae Johnson,WR,23,Toledo,2019
+948,3,67,Jalen Hurd,WR,23,Baylor,2019
+949,3,68,Jachai Polite,LB,22,Florida,2019
+950,3,69,Josh Oliver,TE,22,San Jose St.,2019
+951,3,70,Darrell Henderson,RB,22,Memphis,2019
+952,3,71,Dre'Mont Jones,DT,22,Ohio St.,2019
+953,3,72,Germaine Pratt,LB,23,North Carolina St.,2019
+954,3,73,David Montgomery,RB,22,Iowa St.,2019
+955,3,74,Devin Singletary,RB,22,Florida Atlantic,2019
+956,3,75,Jace Sternberger,TE,23,Texas A&M,2019
+957,3,76,Terry McLaurin,WR,23,Ohio St.,2019
+958,3,77,Chase Winovich,DE,24,Michigan,2019
+959,3,78,Michael Deiter,G,23,Wisconsin,2019
+960,3,79,David Long,CB,21,Michigan,2019
+961,3,80,Sione Takitaki,LB,24,BYU,2019
+962,3,81,Will Harris,S,23,Boston Col.,2019
+963,3,82,Nate Davis,G,22,Charlotte,2019
+964,3,83,Justin Layne,CB,21,Michigan St.,2019
+965,3,84,Khalen Saunders,DT,23,Western Illinois,2019
+966,3,85,Jaylon Ferguson,DE,23,Louisiana Tech,2019
+967,3,86,Kahale Warring,TE,22,San Diego St.,2019
+968,3,87,Damien Harris,RB,22,Alabama,2019
+969,3,88,Cody Barton,LB,22,Utah,2019
+970,3,89,Bobby Okereke,LB,23,Stanford,2019
+971,3,90,Connor McGovern,G,21,Penn St.,2019
+972,3,91,Trey Pipkins,T,23,Sioux Falls,2019
+973,3,92,Chuma Edoga,T,22,USC,2019
+974,3,93,Miles Boykin,WR,22,Notre Dame,2019
+975,3,94,Jamel Dean,CB,22,Auburn,2019
+976,3,95,Oshane Ximines,DE,22,Old Dominion,2019
+977,3,96,Dawson Knox,TE,22,Mississippi,2019
+978,3,97,Bobby Evans,T,22,Oklahoma,2019
+979,3,98,Quincy Williams,S,23,Murray St.,2019
+980,3,99,Mike Edwards,S,23,Kentucky,2019
+981,3,100,Will Grier,QB,24,West Virginia,2019
+982,3,101,Yodny Cajuste,T,23,West Virginia,2019
+983,3,102,Alexander Mattison,RB,21,Boise St.,2019
+984,Rnd,Pick,Player,Pos,Age,College/Univ,2019
+985,4,103,Hakeem Butler,WR,23,Iowa St.,2019
+986,4,104,Ryan Finley,QB,24,North Carolina St.,2019
+987,4,105,Chauncey Gardner-Johnson,S,21,Florida,2019
+988,4,106,Maxx Crosby,DE,22,East. Michigan,2019
+989,4,107,Anthony Nelson,DE,22,Iowa,2019
+990,4,108,Julian Love,CB,21,Notre Dame,2019
+991,4,109,Khari Willis,S,23,Michigan St.,2019
+992,4,110,Mitch Wishnowsky,P,27,Utah,2019
+993,4,111,Kendall Sheffield,CB,23,Ohio St.,2019
+994,4,112,Bryce Love,RB,22,Stanford,2019
+995,4,113,Justice Hill,RB,21,Oklahoma St.,2019
+996,4,114,Dru Samia,G,22,Oklahoma,2019
+997,4,115,Christian Miller,LB,23,Alabama,2019
+998,4,116,Amani Hooker,S,21,Iowa,2019
+999,4,117,Austin Bryant,DE,22,Clemson,2019
+1000,4,118,Hjalte Froholdt,G,23,Arkansas,2019
+1001,4,119,Sheldrick Redwine,S,22,Miami (FL),2019
+1002,4,120,Gary Jennings Jr,WR,22,West Virginia,2019
+1003,4,121,Trevon Wesco,TE,23,West Virginia,2019
+1004,4,122,Benny Snell Jr.,RB,21,Kentucky,2019
+1005,4,123,Ben Powers,G,22,Oklahoma,2019
+1006,4,124,Phil Haynes,G,23,Wake Forest,2019
+1007,4,125,Renell Wren,DT,23,Arizona St.,2019
+1008,4,126,Riley Ridley,WR,23,Georgia,2019
+1009,4,127,Iman Marshall,CB,22,USC,2019
+1010,4,128,Tony Pollard,RB,22,Memphis,2019
+1011,4,129,Isaiah Johnson,CB,23,Houston,2019
+1012,4,130,Drue Tranquill,LB,24,Notre Dame,2019
+1013,4,131,Wes Martin,G,23,Indiana,2019
+1014,4,132,Ugo Amadi,S,22,Oregon,2019
+1015,4,133,Jarrett Stidham,QB,23,Auburn,2019
+1016,4,134,Greg Gaines,DT,23,Washington,2019
+1017,4,135,John Cominsky,DE,23,Charleston (WV),2019
+1018,4,136,Michael Jordan,G,21,Ohio St.,2019
+1019,4,137,Foster Moreau,TE,22,LSU,2019
+1020,4,138,Shareef Miller,DE,22,Penn St.,2019
+1021,Rnd,Pick,Player,Pos,Age,College/Univ,2019
+1022,5,139,Deionte Thompson,S,22,Alabama,2019
+1023,5,140,Ryquell Armstead,RB,22,Temple,2019
+1024,5,141,Zach Gentry,TE,22,Michigan,2019
+1025,5,142,Ben Burr-Kirven,LB,21,Washington,2019
+1026,5,143,Ryan Connelly,LB,23,Wisconsin,2019
+1027,5,144,Marvell Tell III,S,23,USC,2019
+1028,5,145,Matt Gay,K,25,Utah,2019
+1029,5,146,Amani Oruwariye,CB,23,Penn St.,2019
+1030,5,147,Vosean Joseph,LB,21,Florida,2019
+1031,5,148,Dre Greenlaw,LB,22,Arkansas,2019
+1032,5,149,Hunter Renfrow,WR,23,Clemson,2019
+1033,5,150,Kingsley Keke,DT,22,Texas A&M,2019
+1034,5,151,Andrew Van Ginkel,LB,24,Wisconsin,2019
+1035,5,152,Qadree Ollison,RB,22,Pittsburgh,2019
+1036,5,153,Ross Pierschbacher,G,24,Alabama,2019
+1037,5,154,Jordan Scarlett,RB,23,Florida,2019
+1038,5,155,Mack Wilson,LB,21,Alabama,2019
+1039,5,156,Justin Hollins,LB,23,Oregon,2019
+1040,5,157,Blake Cashman,LB,23,Minnesota,2019
+1041,5,158,Michael Jackson,CB,22,Miami (FL),2019
+1042,5,159,Byron Cowart,DT,23,Maryland,2019
+1043,5,160,Daylon Mack,DT,22,Texas A&M,2019
+1044,5,161,Charles Omenihu,DE,22,Texas,2019
+1045,5,162,Cameron Smith,LB,22,USC,2019
+1046,5,163,Jake Bailey,P,22,Stanford,2019
+1047,5,164,E.J. Speed,LB,24,Tarleton St.,2019
+1048,5,165,Joe Jackson,DE,22,Miami (FL),2019
+1049,5,166,Easton Stick,QB,23,North Dakota St.,2019
+1050,5,167,Clayton Thorson,QB,24,Northwestern,2019
+1051,5,168,D'Andre Walker,LB,22,Georgia,2019
+1052,5,169,David Edwards,T,22,Wisconsin,2019
+1053,5,170,Austin Seibert,K,22,Oklahoma,2019
+1054,5,171,Darius Slayton,WR,22,Auburn,2019
+1055,5,172,Jordan Miller,CB,22,Washington,2019
+1056,5,173,Cole Holcomb,LB,23,North Carolina,2019
+1057,Rnd,Pick,Player,Pos,Age,College/Univ,2019
+1058,6,174,KeeSean Johnson,WR,22,Fresno St.,2019
+1059,6,175,Sutton Smith,DE,23,Northern Illinois,2019
+1060,6,176,Kaden Smith,TE,22,Stanford,2019
+1061,6,177,Saquan Hampton,S,23,Rutgers,2019
+1062,6,178,Gardner Minshew II,QB,23,Washington St.,2019
+1063,6,179,Lamont Gaillard,C,23,Georgia,2019
+1064,6,180,Corey Ballentine,CB,23,Washburn,2019
+1065,6,181,Jaquan Johnson,CB,23,Miami (FL),2019
+1066,6,182,Trayveon Williams,RB,21,Texas A&M,2019
+1067,6,183,Justin Skule,T,22,Vanderbilt,2019
+1068,6,184,Travis Fulgham,WR,23,Old Dominion,2019
+1069,6,185,Ka'dar Hollman,CB,24,Toledo,2019
+1070,6,186,Ty Johnson,RB,21,Maryland,2019
+1071,6,187,Juwann Winfree,WR,23,Colorado,2019
+1072,6,188,David Long,LB,22,West Virginia,2019
+1073,6,189,Drew Forbes,T,22,SE Missouri St.,2019
+1074,6,190,Armon Watts,DT,23,Arkansas,2019
+1075,6,191,Marcus Epps,S,23,Wyoming,2019
+1076,6,192,Isaiah Buggs,DT,23,Alabama,2019
+1077,6,193,Oli Udoh,T,22,Elon,2019
+1078,6,194,Dexter Williams,RB,22,Notre Dame,2019
+1079,6,195,Xavier Crawford,CB,23,Central Michigan,2019
+1080,6,196,Blessuan Austin,CB,23,Rutgers,2019
+1081,6,197,Trace McSorley,QB,24,Penn St.,2019
+1082,6,198,Tim Harris,CB,24,Virginia,2019
+1083,6,199,Gerri Green,DE,23,Mississippi St.,2019
+1084,6,200,Emeke Egbule,LB,22,Houston,2019
+1085,6,201,Rashad Fenton,CB,22,South Carolina,2019
+1086,6,202,Isaiah Prince,T,22,Ohio St.,2019
+1087,6,203,Marcus Green,WR,23,La-Monroe,2019
+1088,6,204,Travis Homer,RB,21,Miami (FL),2019
+1089,6,205,Duke Shelley,CB,22,Kansas St.,2019
+1090,6,206,Kelvin Harmon,WR,22,North Carolina St.,2019
+1091,6,207,Ulysees Gilbert,LB,22,Akron,2019
+1092,6,208,Scott Miller,WR,22,Bowling Green,2019
+1093,6,209,Demarcus Christmas,DT,24,Florida St.,2019
+1094,6,210,Deshaun Davis,LB,23,Auburn,2019
+1095,6,211,Rodney Anderson,RB,22,Oklahoma,2019
+1096,6,212,Dennis Daley,T,23,South Carolina,2019
+1097,6,213,Donovan Wilson,S,24,Texas A&M,2019
+1098,6,214,Darwin Thompson,RB,22,Utah St.,2019
+1099,Rnd,Pick,Player,Pos,Age,College/Univ,2019
+1100,7,215,Terry Beckner,DT,22,Missouri,2019
+1101,7,216,Nick Allegretti,G,23,Illinois,2019
+1102,7,217,Kris Boyd,CB,22,Texas,2019
+1103,7,218,Mike Weber,RB,22,Ohio St.,2019
+1104,7,219,Derwin Gray,T,24,Maryland,2019
+1105,7,220,Cullen Gillaspia,RB,24,Texas A&M,2019
+1106,7,221,Donnie Lewis Jr.,CB,23,Tulane,2019
+1107,7,222,Kerrith Whyte Jr,RB,22,Florida Atlantic,2019
+1108,7,223,Jordan Brown,CB,23,South Dakota St.,2019
+1109,7,224,Isaac Nauta,TE,22,Georgia,2019
+1110,7,225,Darryl Johnson,DE,22,North Carolina A&T,2019
+1111,7,226,Ty Summers,LB,23,TCU,2019
+1112,7,227,Jimmy Moreland,CB,24,James Madison,2019
+1113,7,228,Tommy Sweeney,TE,24,Boston Col.,2019
+1114,7,229,P.J. Johnson,DE,23,Arizona,2019
+1115,7,230,Quinton Bell,DE,23,Prairie View A&M,2019
+1116,7,231,Alizé Mack,TE,22,Notre Dame,2019
+1117,7,232,George Asafo-Adjei,T,22,Kentucky,2019
+1118,7,233,Chandler Cox,RB,23,Auburn,2019
+1119,7,234,Myles Gaskin,RB,22,Washington,2019
+1120,7,235,Dontavius Russell,DT,23,Auburn,2019
+1121,7,236,John Ursua,WR,25,Hawaii,2019
+1122,7,237,Terry Godwin,WR,22,Georgia,2019
+1123,7,238,Stephen Denmark,CB,23,Valdosta St.,2019
+1124,7,239,Dillon Mitchell,WR,22,Oregon,2019
+1125,7,240,Jackson Barton,T,24,Utah,2019
+1126,7,241,Jalen Jelks,DE,23,Oregon,2019
+1127,7,242,Cortez Broughton,DT,23,Cincinnati,2019
+1128,7,243,Nick Scott,S,24,Penn St.,2019
+1129,7,244,Kaden Elliss,LB,24,Idaho,2019
+1130,7,245,Chris Slayton,DT,23,Syracuse,2019
+1131,7,246,Javon Patterson,C,22,Mississippi,2019
+1132,7,247,Olabisi Johnson,WR,22,Colorado St.,2019
+1133,7,248,Joshua Miles,T,23,Morgan St.,2019
+1134,7,249,Michael Dogbe,DE,23,Temple,2019
+1135,7,250,Austin Cutting,LS,22,Air Force,2019
+1136,7,251,Dakota Allen,LB,23,Texas Tech,2019
+1137,7,252,Ken Webster,CB,23,Mississippi,2019
+1138,7,253,Jordan Brailford,DE,23,Oklahoma St.,2019
+1139,7,254,Caleb Wilson,TE,23,UCLA,2019
+1140,1,1,Joe Burrow,QB,23,LSU,2020
+1141,1,2,Chase Young,DE,21,Ohio St.,2020
+1142,1,3,Jeff Okudah,CB,21,Ohio St.,2020
+1143,1,4,Andrew Thomas,T,21,Georgia,2020
+1144,1,5,Tua Tagovailoa,QB,22,Alabama,2020
+1145,1,6,Justin Herbert,QB,22,Oregon,2020
+1146,1,7,Derrick Brown,DT,22,Auburn,2020
+1147,1,8,Isaiah Simmons,LB,22,Clemson,2020
+1148,1,9,C.J. Henderson,CB,21,Florida,2020
+1149,1,10,Jedrick Wills Jr.,T,21,Alabama,2020
+1150,1,11,Mekhi Becton,T,21,Louisville,2020
+1151,1,12,Henry Ruggs III,WR,21,Alabama,2020
+1152,1,13,Tristan Wirfs,T,21,Iowa,2020
+1153,1,14,Javon Kinlaw,DT,22,South Carolina,2020
+1154,1,15,Jerry Jeudy,WR,21,Alabama,2020
+1155,1,16,AJ Terrell,CB,21,Clemson,2020
+1156,1,17,CeeDee Lamb,WR,21,Oklahoma,2020
+1157,1,18,Austin Jackson,T,21,USC,2020
+1158,1,19,Damon Arnette,CB,24,Ohio St.,2020
+1159,1,20,K'Lavon Chaisson,DE,21,LSU,2020
+1160,1,21,Jalen Reagor,WR,21,TCU,2020
+1161,1,22,Justin Jefferson,WR,21,LSU,2020
+1162,1,23,Kenneth Murray,LB,21,Oklahoma,2020
+1163,1,24,Cesar Ruiz,C,21,Michigan,2020
+1164,1,25,Brandon Aiyuk,WR,22,Arizona St.,2020
+1165,1,26,Jordan Love,QB,21,Utah St.,2020
+1166,1,27,Jordyn Brooks,LB,22,Texas Tech,2020
+1167,1,28,Patrick Queen,LB,21,LSU,2020
+1168,1,29,Isaiah Wilson,T,21,Georgia,2020
+1169,1,30,Noah Igbinoghene,CB,20,Auburn,2020
+1170,1,31,Jeff Gladney,CB,23,TCU,2020
+1171,1,32,Clyde Edwards-Helaire,RB,21,LSU,2020
+1172,Rnd,Pick,Player,Pos,Age,College/Univ,2020
+1173,2,33,Tee Higgins,WR,21,Clemson,2020
+1174,2,34,Michael Pittman Jr.,WR,22,USC,2020
+1175,2,35,D'Andre Swift,RB,21,Georgia,2020
+1176,2,36,Xavier McKinney,S,21,Alabama,2020
+1177,2,37,Kyle Dugger,S,24,Lenoir-Rhyne,2020
+1178,2,38,Yetur Gross-Matos,DE,22,Penn St.,2020
+1179,2,39,Robert Hunt,G,24,Louisiana,2020
+1180,2,40,Ross Blacklock,DT,22,TCU,2020
+1181,2,41,Jonathan Taylor,RB,21,Wisconsin,2020
+1182,2,42,Laviska Shenault Jr.,WR,21,Colorado,2020
+1183,2,43,Cole Kmet,TE,21,Notre Dame,2020
+1184,2,44,Grant Delpit,S,21,LSU,2020
+1185,2,45,Antoine Winfield Jr.,S,22,Minnesota,2020
+1186,2,46,KJ Hamler,WR,21,Penn St.,2020
+1187,2,47,Marlon Davidson,DE,22,Auburn,2020
+1188,2,48,Darrell Taylor,DE,23,Tennessee,2020
+1189,2,49,Chase Claypool,WR,22,Notre Dame,2020
+1190,2,50,Jaylon Johnson,CB,21,Utah,2020
+1191,2,51,Trevon Diggs,CB,21,Alabama,2020
+1192,2,52,Cam Akers,RB,21,Florida St.,2020
+1193,2,53,Jalen Hurts,QB,22,Oklahoma,2020
+1194,2,54,A.J. Epenesa,DE,21,Iowa,2020
+1195,2,55,J.K. Dobbins,RB,21,Ohio St.,2020
+1196,2,56,Raekwon Davis,DT,23,Alabama,2020
+1197,2,57,Van Jefferson,WR,24,Florida,2020
+1198,2,58,Ezra Cleveland,T,22,Boise St.,2020
+1199,2,59,Denzel Mims,WR,22,Baylor,2020
+1200,2,60,Josh Uche,LB,21,Michigan,2020
+1201,2,61,Kristian Fulton,CB,22,LSU,2020
+1202,2,62,AJ Dillon,RB,22,Boston Col.,2020
+1203,2,63,Willie Gay Jr.,LB,22,Mississippi St.,2020
+1204,2,64,Jeremy Chinn,S,22,Southern Illinois,2020
+1205,Rnd,Pick,Player,Pos,Age,College/Univ,2020
+1206,3,65,Logan Wilson,LB,24,Wyoming,2020
+1207,3,66,Antonio Gibson,RB,22,Memphis,2020
+1208,3,67,Julian Okwara,DE,22,Notre Dame,2020
+1209,3,68,Ashtyn Davis,S,23,California,2020
+1210,3,69,Damien Lewis,G,23,LSU,2020
+1211,3,70,Brandon Jones,S,22,Texas,2020
+1212,3,71,Justin Madubuike,DT,22,Texas A&M,2020
+1213,3,72,Josh Jones,T,23,Houston,2020
+1214,3,73,DaVon Hamilton,DT,23,Ohio St.,2020
+1215,3,74,Zack Baun,LB,23,Wisconsin,2020
+1216,3,75,Jonah Jackson,G,23,Ohio St.,2020
+1217,3,76,Ke'Shawn Vaughn,RB,23,Illinois,2020
+1218,3,77,Michael Ojemudia,CB,22,Iowa,2020
+1219,3,78,Matt Hennessy,C,22,Temple,2020
+1220,3,79,Jabari Zuniga,DE,23,Florida,2020
+1221,3,80,Lynn Bowden Jr.,WR,22,Kentucky,2020
+1222,3,81,Bryan Edwards,WR,21,South Carolina,2020
+1223,3,82,Neville Gallimore,DT,23,Oklahoma,2020
+1224,3,83,Lloyd Cushenberry III,C,22,LSU,2020
+1225,3,84,Terrell Lewis,LB,22,Alabama,2020
+1226,3,85,Julian Blackmon,S,22,Utah,2020
+1227,3,86,Zack Moss,RB,22,Utah,2020
+1228,3,87,Anfernee Jennings,LB,23,Alabama,2020
+1229,3,88,Jordan Elliott,DT,22,Texas,2020
+1230,3,89,Cameron Dantzler,CB,22,Mississippi St.,2020
+1231,3,90,Jonathan Greenard,DE,23,Florida,2020
+1232,3,91,Devin Asiasi,TE,23,UCLA,2020
+1233,3,92,Devin Duvernay,WR,22,Texas,2020
+1234,3,93,Darrynton Evans,RB,22,Appalachian St.,2020
+1235,3,94,Josiah Deguara,TE,23,Cincinnati,2020
+1236,3,95,McTelvin Agim,DT,22,Arkansas,2020
+1237,3,96,Lucas Niang,T,22,TCU,2020
+1238,3,97,Jacob Phillips,LB,21,LSU,2020
+1239,3,98,Malik Harrison,LB,22,Ohio St.,2020
+1240,3,99,Matt Peart,T,23,Connecticut,2020
+1241,3,100,Tanner Muse,S,24,Clemson,2020
+1242,3,101,Dalton Keene,TE,21,Virginia Tech,2020
+1243,3,102,Alex Highsmith,LB,23,Charlotte,2020
+1244,3,103,Davion Taylor,LB,22,Colorado,2020
+1245,3,104,Terrell Burgess,S,21,Utah,2020
+1246,3,105,Adam Trautman,TE,23,Dayton,2020
+1247,3,106,Tyre Phillips,T,23,Mississippi St.,2020
+1248,Rnd,Pick,Player,Pos,Age,College/Univ,2020
+1249,4,107,Akeem Davis-Gaither,LB,22,Appalachian St.,2020
+1250,4,108,Saahdiq Charles,T,21,LSU,2020
+1251,4,109,John Simpson,G,23,Clemson,2020
+1252,4,110,Darnay Holmes,CB,22,UCLA,2020
+1253,4,111,Solomon Kindley,G,23,Georgia,2020
+1254,4,112,Joshua Kelley,RB,22,UCLA,2020
+1255,4,113,Troy Pride Jr.,CB,22,Notre Dame,2020
+1256,4,114,Leki Fotu,DT,22,Utah,2020
+1257,4,115,Harrison Bryant,TE,22,Florida Atlantic,2020
+1258,4,116,Ben Bartch,G,22,Saint John's (MN),2020
+1259,4,117,D.J. Wonnum,DE,22,South Carolina,2020
+1260,4,118,Albert Okwuegbunam,TE,22,Missouri,2020
+1261,4,119,Mykal Walker,LB,23,Fresno St.,2020
+1262,4,120,La'Mical Perine,RB,22,Florida,2020
+1263,4,121,Logan Stenberg,G,23,Kentucky,2020
+1264,4,122,Jacob Eason,QB,22,Washington,2020
+1265,4,123,Reggie Robinson II,CB,23,Tulsa,2020
+1266,4,124,Anthony McFarland Jr.,RB,21,Maryland,2020
+1267,4,125,James Morgan,QB,23,Florida International,2020
+1268,4,126,Charlie Heck,T,23,North Carolina,2020
+1269,4,127,K'Von Wallace,S,23,Clemson,2020
+1270,4,128,Gabriel Davis,WR,21,Central Florida,2020
+1271,4,129,Cameron Clark,T,22,Charlotte,2020
+1272,4,130,James Lynch,DT,21,Baylor,2020
+1273,4,131,Rashard Lawrence,DT,22,LSU,2020
+1274,4,132,Troy Dye,LB,23,Oregon,2020
+1275,4,133,Colby Parkinson,TE,21,Stanford,2020
+1276,4,134,Jaylinn Hawkins,S,23,California,2020
+1277,4,135,Kevin Dotson,G,23,Louisiana,2020
+1278,4,136,Brycen Hopkins,TE,23,Purdue,2020
+1279,4,137,Josiah Scott,CB,21,Michigan St.,2020
+1280,4,138,L'Jarius Sneed,S,23,Louisiana Tech,2020
+1281,4,139,Amik Robertson,CB,22,Louisiana Tech,2020
+1282,4,140,Shaquille Quarterman,LB,22,Miami (FL),2020
+1283,4,141,John Reid,CB,24,Penn St.,2020
+1284,4,142,Antonio Gandy-Golden,WR,22,Liberty,2020
+1285,4,143,Ben Bredeson,G,22,Michigan,2020
+1286,4,144,DeeJay Dallas,RB,21,Miami (FL),2020
+1287,4,145,Jack Driscoll,G,23,Auburn,2020
+1288,4,146,Tyler Biadasz,C,22,Wisconsin,2020
+1289,Rnd,Pick,Player,Pos,Age,College/Univ,2020
+1290,5,147,Khalid Kareem,DE,22,Notre Dame,2020
+1291,5,148,Alton Robinson,DE,22,Syracuse,2020
+1292,5,149,Danny Pinter,G,24,Ball St.,2020
+1293,5,150,Shane Lemieux,G,23,Oregon,2020
+1294,5,151,Joe Reed,WR,22,Virginia,2020
+1295,5,152,Kenny Robinson Jr.,S,21,West Virginia,2020
+1296,5,153,Colton McKivitz,T,24,West Virginia,2020
+1297,5,154,Jason Strowbridge,DE,23,North Carolina,2020
+1298,5,155,Trevis Gipson,DE,23,Tulsa,2020
+1299,5,156,Keith Ismael,C,22,San Diego St.,2020
+1300,5,157,Daniel Thomas,S,22,Auburn,2020
+1301,5,158,Bryce Hall,CB,23,Virginia,2020
+1302,5,159,Justin Rohrwasser,K,23,Marshall,2020
+1303,5,160,Nick Harris,C,21,Washington,2020
+1304,5,161,Tyler Johnson,WR,22,Minnesota,2020
+1305,5,162,Khaleke Hudson,LB,22,Michigan,2020
+1306,5,163,Kindle Vildor,CB,22,Georgia Southern,2020
+1307,5,164,Curtis Weaver,DE,22,Boise St.,2020
+1308,5,165,Collin Johnson,WR,22,Texas,2020
+1309,5,166,Quintez Cephus,WR,22,Wisconsin,2020
+1310,5,167,Jake Fromm,QB,22,Georgia,2020
+1311,5,168,John Hightower,WR,24,Boise St.,2020
+1312,5,169,Harrison Hand,CB,21,Temple,2020
+1313,5,170,Broderick Washington Jr.,DT,23,Texas Tech,2020
+1314,5,171,Isaiah Coulter,WR,21,Rhode Island,2020
+1315,5,172,Jason Huntley,RB,22,New Mexico St.,2020
+1316,5,173,Darnell Mooney,WR,22,Tulane,2020
+1317,5,174,Larrell Murchison,DT,23,North Carolina St.,2020
+1318,5,175,Kamal Martin,LB,22,Minnesota,2020
+1319,5,176,K.J. Osborn,WR,23,Miami (FL),2020
+1320,5,177,Michael Danna,DE,22,Michigan,2020
+1321,5,178,Justin Strnad,LB,24,Wake Forest,2020
+1322,5,179,Bradlee Anae,DE,21,Utah,2020
+1323,Rnd,Pick,Player,Pos,Age,College/Univ,2020
+1324,6,180,Hakeem Adeniji,T,22,Kansas,2020
+1325,6,181,Netane Muti,G,21,Fresno St.,2020
+1326,6,182,Michael Onwenu,G,22,Michigan,2020
+1327,6,183,Cam Brown,LB,22,Penn St.,2020
+1328,6,184,Bravvion Roy,DT,23,Baylor,2020
+1329,6,185,Blake Ferguson,LS,23,LSU,2020
+1330,6,186,Alohi Gilman,S,22,Notre Dame,2020
+1331,6,187,Donovan Peoples-Jones,WR,21,Michigan,2020
+1332,6,188,Tyler Bass,K,23,Georgia Southern,2020
+1333,6,189,Jake Luton,QB,24,Oregon St.,2020
+1334,6,190,Charlie Woerner,TE,22,Georgia,2020
+1335,6,191,Braden Mann,P,22,Texas A&M,2020
+1336,6,192,Jon Runyan,T,23,Michigan,2020
+1337,6,193,Robert Windsor,DT,23,Penn St.,2020
+1338,6,194,Khalil Davis,DT,24,Nebraska,2020
+1339,6,195,Justin Herron,T,24,Wake Forest,2020
+1340,6,196,Shaun Bradley,LB,23,Temple,2020
+1341,6,197,John Penisini,DT,23,Utah,2020
+1342,6,198,Antoine Brooks Jr.,S,21,Maryland,2020
+1343,6,199,Jordan Fuller,S,22,Ohio St.,2020
+1344,6,200,Quez Watkins,WR,22,Southern Miss,2020
+1345,6,201,James Proche,WR,23,SMU,2020
+1346,6,202,Evan Weaver,LB,22,California,2020
+1347,6,203,Blake Brandel,T,23,Oregon St.,2020
+1348,6,204,Cassh Maluia,LB,21,Wyoming,2020
+1349,6,205,Josh Metellus,S,22,Michigan,2020
+1350,6,206,Tyler Davis,TE,23,Georgia Tech,2020
+1351,6,207,Isaiah Hodgins,WR,21,Oregon St.,2020
+1352,6,208,Jake Hanson,C,23,Oregon,2020
+1353,6,209,Simon Stepaniak,T,23,Indiana,2020
+1354,6,210,Prince Tega Wanogho,T,22,Auburn,2020
+1355,6,211,Isaiah Rodgers,CB,22,Massachusetts,2020
+1356,6,212,Dezmon Patmon,WR,22,Washington St.,2020
+1357,6,213,Jordan Glasgow,LB,24,Michigan,2020
+1358,6,214,Freddie Swain,WR,22,Florida,2020
+1359,Rnd,Pick,Player,Pos,Age,College/Univ,2020
+1360,7,215,Markus Bailey,LB,23,Purdue,2020
+1361,7,216,Kamren Curl,S,21,Arkansas,2020
+1362,7,217,Jauan Jennings,WR,23,Tennessee,2020
+1363,7,218,Carter Coughlin,LB,23,Minnesota,2020
+1364,7,219,Geno Stone,S,21,Iowa,2020
+1365,7,220,K.J. Hill,WR,22,Ohio St.,2020
+1366,7,221,Stantley Thomas-Oliver,CB,22,Florida International,2020
+1367,7,222,Eno Benjamin,RB,21,Arizona St.,2020
+1368,7,223,Chris Claybrooks,CB,23,Memphis,2020
+1369,7,224,Cole McDonald,QB,,Hawaii,2020
+1370,7,225,Kenny Willekes,DE,23,Michigan St.,2020
+1371,7,226,Arlington Hambright,T,24,Colorado,2020
+1372,7,227,Lachavious Simmons,G,23,Tennessee St.,2020
+1373,7,228,Sterling Hofrichter,P,23,Syracuse,2020
+1374,7,229,James Smith-Williams,DE,23,North Carolina St.,2020
+1375,7,230,Dustin Woodard,C,22,Memphis,2020
+1376,7,231,Ben DiNucci,QB,23,James Madison,2020
+1377,7,232,Carlos Davis,DT,24,Nebraska,2020
+1378,7,233,Casey Toohill,DE,24,Stanford,2020
+1379,7,234,Clay Johnston,LB,24,Baylor,2020
+1380,7,235,Jashon Cornell,DT,23,Ohio St.,2020
+1381,7,236,Vernon Scott,S,22,TCU,2020
+1382,7,237,Thakarius Keyes,CB,22,Tulane,2020
+1383,7,238,T.J. Brunson,LB,22,South Carolina,2020
+1384,7,239,Dane Jackson,CB,23,Pittsburgh,2020
+1385,7,240,Tommy Stevens,QB,23,Mississippi St.,2020
+1386,7,241,Chapelle Russell,LB,23,Temple,2020
+1387,7,242,Jonathan Garvin,DE,21,Miami (FL),2020
+1388,7,243,Chris Jackson,S,22,Marshall,2020
+1389,7,244,Nate Stanley,QB,23,Iowa,2020
+1390,7,245,Raymond Calais,RB,22,Louisiana,2020
+1391,7,246,Malcolm Perry,RB,23,Navy,2020
+1392,7,247,Chris Williamson,CB,23,Minnesota,2020
+1393,7,248,Sam Sloman,K,22,Miami (OH),2020
+1394,7,249,Brian Cole II,S,23,Mississippi St.,2020
+1395,7,250,Tremayne Anchrum,G,22,Clemson,2020
+1396,7,251,Stephen Sullivan,TE,23,LSU,2020
+1397,7,252,Tyrie Cleveland,WR,22,Florida,2020
+1398,7,253,Kyle Hinton,G,22,Washburn,2020
+1399,7,254,Derrek Tuszka,LB,24,North Dakota St.,2020
+1400,7,255,Tae Crowder,LB,23,Georgia,2020
