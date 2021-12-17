@@ -1,0 +1,1272 @@
+"player_id","pick","year","t_name","c_name"
+100,1,2016,"University of California, Berkeley","PAC-12"
+359,1,2017,NULL,NULL
+1140,1,2020,"Louisiana State University - Baton Rouge","SEC"
+618,1,2018,NULL,NULL
+880,1,2019,NULL,NULL
+101,2,2016,NULL,NULL
+881,2,2019,"Ohio State University","Big Ten"
+360,2,2017,NULL,NULL
+1141,2,2020,"Ohio State University","Big Ten"
+619,2,2018,NULL,NULL
+882,3,2019,NULL,NULL
+1142,3,2020,"Ohio State University","Big Ten"
+361,3,2017,"Stanford University","PAC-12"
+102,3,2016,"Ohio State University","Big Ten"
+620,3,2018,"University of South Carolina","SEC"
+362,4,2017,"Louisiana State University - Baton Rouge","SEC"
+1143,4,2020,"University of Georgia","SEC"
+621,4,2018,"Ohio State University","Big Ten"
+883,4,2019,"Clemson University","ACC"
+103,4,2016,"Ohio State University","Big Ten"
+1144,5,2020,NULL,NULL
+622,5,2018,"North Carolina State University - Raleigh","ACC"
+363,5,2017,NULL,NULL
+104,5,2016,"Florida State University","ACC"
+884,5,2019,"Louisiana State University - Baton Rouge","SEC"
+1145,6,2020,"University of Oregon","PAC-12"
+885,6,2019,"Duke University","ACC"
+105,6,2016,"University of Notre Dame","ACC"
+364,6,2017,"Louisiana State University - Baton Rouge","SEC"
+623,6,2018,"University of Notre Dame","ACC"
+106,7,2016,"University of Oregon","PAC-12"
+365,7,2017,"Clemson University","ACC"
+624,7,2018,"University of Wyoming","MW"
+886,7,2019,"University of Kentucky","SEC"
+1146,7,2020,"Auburn University","SEC"
+1147,8,2020,"Clemson University","ACC"
+107,8,2016,"Michigan State University","Big Ten"
+625,8,2018,"University of Georgia","SEC"
+887,8,2019,"University of Iowa","Big Ten"
+366,8,2017,"Stanford University","PAC-12"
+367,9,2017,"University of Washington","PAC-12"
+108,9,2016,"University of Georgia","SEC"
+1148,9,2020,"Florida State University","ACC"
+626,9,2018,"University of Notre Dame","ACC"
+888,9,2019,"University of Houston","AAC"
+109,10,2016,"Ohio State University","Big Ten"
+1149,10,2020,NULL,NULL
+627,10,2018,"University of California, Los Angeles","PAC-12"
+368,10,2017,"Texas Tech University","Big 12"
+889,10,2019,"University of Michigan-Ann Arbor","Big Ten"
+369,11,2017,"Ohio State University","Big Ten"
+1150,11,2020,NULL,NULL
+628,11,2018,NULL,NULL
+110,11,2016,"Florida State University","ACC"
+890,11,2019,NULL,NULL
+111,12,2016,NULL,NULL
+370,12,2017,"Clemson University","ACC"
+1151,12,2020,NULL,NULL
+891,12,2019,"University of Michigan-Ann Arbor","Big Ten"
+629,12,2018,"University of Washington","PAC-12"
+112,13,2016,"University of Mississippi","SEC"
+892,13,2019,"Clemson University","ACC"
+1152,13,2020,"University of Iowa","Big Ten"
+371,13,2017,"Temple University","AAC"
+630,13,2018,NULL,NULL
+893,14,2019,"Boston College","ACC"
+1153,14,2020,"University of South Carolina","SEC"
+631,14,2018,"The University of Texas at San Antonio","C-USA"
+372,14,2017,"University of Tennessee","SEC"
+113,14,2016,NULL,NULL
+1154,15,2020,NULL,NULL
+632,15,2018,"University of California, Los Angeles","PAC-12"
+114,15,2016,"Baylor University","Big 12"
+894,15,2019,"Ohio State University","Big Ten"
+373,15,2017,"Ohio State University","Big Ten"
+1155,16,2020,"Clemson University","ACC"
+115,16,2016,"Ohio State University","Big Ten"
+633,16,2018,"Virginia Polytechnic Institute and State University","ACC"
+895,16,2019,"Florida State University","ACC"
+374,16,2017,NULL,NULL
+375,17,2017,NULL,NULL
+116,17,2016,"Florida State University","ACC"
+1156,17,2020,NULL,NULL
+896,17,2019,"Clemson University","ACC"
+634,17,2018,"Florida State University","ACC"
+1157,18,2020,"University of South Carolina","SEC"
+897,18,2019,"North Carolina State University - Raleigh","ACC"
+376,18,2017,"University of South Carolina","SEC"
+117,18,2016,NULL,NULL
+635,18,2018,NULL,NULL
+118,19,2016,"Clemson University","ACC"
+1158,19,2020,"Ohio State University","Big Ten"
+636,19,2018,"Boise State University","MW"
+377,19,2017,NULL,NULL
+898,19,2019,NULL,NULL
+637,20,2018,"University of Arkansas","SEC"
+119,20,2016,"Ohio State University","Big Ten"
+1159,20,2020,"Louisiana State University - Baton Rouge","SEC"
+378,20,2017,"University of Utah","PAC-12"
+899,20,2019,"University of Iowa","Big Ten"
+379,21,2017,"Florida State University","ACC"
+120,21,2016,"University of Notre Dame","ACC"
+638,21,2018,"Ohio State University","Big Ten"
+1160,21,2020,NULL,NULL
+900,21,2019,"University of Maryland, College Park","Big Ten"
+901,22,2019,"Washington State University","PAC-12"
+1161,22,2020,"Louisiana State University - Baton Rouge","SEC"
+639,22,2018,NULL,NULL
+121,22,2016,NULL,NULL
+380,22,2017,"University of Missouri","SEC"
+381,23,2017,"University of Mississippi","SEC"
+902,23,2019,NULL,NULL
+640,23,2018,"University of Georgia","SEC"
+1162,23,2020,NULL,NULL
+122,23,2016,"University of Mississippi","SEC"
+903,24,2019,NULL,NULL
+123,24,2016,"University of Houston","AAC"
+382,24,2017,"Ohio State University","Big Ten"
+641,24,2018,"University of Maryland, College Park","Big Ten"
+1163,24,2020,"University of Michigan-Ann Arbor","Big Ten"
+642,25,2018,"University of South Carolina","SEC"
+124,25,2016,"University of Miami","ACC"
+383,25,2017,"University of Michigan-Ann Arbor","Big Ten"
+904,25,2019,NULL,NULL
+1164,25,2020,"Arizona State University","PAC-12"
+905,26,2019,NULL,NULL
+643,26,2018,NULL,NULL
+125,26,2016,"University of Memphis","AAC"
+384,26,2017,"University of California, Los Angeles","PAC-12"
+1165,26,2020,"Utah State University","MW"
+906,27,2019,NULL,NULL
+1166,27,2020,"Texas Tech University","Big 12"
+385,27,2017,"Louisiana State University - Baton Rouge","SEC"
+126,27,2016,"University of California, Los Angeles","PAC-12"
+644,27,2018,"San Diego State University","MW"
+645,28,2018,"Virginia Polytechnic Institute and State University","ACC"
+907,28,2019,"University of Notre Dame","ACC"
+1167,28,2020,"Louisiana State University - Baton Rouge","SEC"
+127,28,2016,"Stanford University","PAC-12"
+386,28,2017,"University of Michigan-Ann Arbor","Big Ten"
+646,29,2018,"Florida State University","ACC"
+1168,29,2020,"University of Georgia","SEC"
+128,29,2016,"University of Mississippi","SEC"
+908,29,2019,NULL,NULL
+387,29,2017,"University of Miami","ACC"
+909,30,2019,"University of Georgia","SEC"
+647,30,2018,"University of Central Florida","AAC"
+1169,30,2020,"Auburn University","SEC"
+129,30,2016,"Louisiana Tech University","C-USA"
+388,30,2017,NULL,NULL
+1170,31,2020,NULL,NULL
+389,31,2017,NULL,NULL
+130,31,2016,NULL,NULL
+648,31,2018,"University of Georgia","SEC"
+910,31,2019,"University of Washington","PAC-12"
+649,32,2018,NULL,NULL
+132,32,2016,NULL,NULL
+911,32,2019,"Arizona State University","PAC-12"
+390,32,2017,NULL,NULL
+1171,32,2020,"Louisiana State University - Baton Rouge","SEC"
+392,33,2017,"University of Washington","PAC-12"
+133,33,2016,"Clemson University","ACC"
+1173,33,2020,"Clemson University","ACC"
+913,33,2019,"University of Washington","PAC-12"
+651,33,2018,NULL,NULL
+134,34,2016,"University of Notre Dame","ACC"
+652,34,2018,"University of Texas at El Paso","C-USA"
+393,34,2017,NULL,NULL
+914,34,2019,"Temple University","AAC"
+1174,34,2020,"University of South Carolina","SEC"
+394,35,2017,"Michigan State University","Big Ten"
+653,35,2018,"University of Georgia","SEC"
+135,35,2016,"University of Arkansas","SEC"
+1175,35,2020,"University of Georgia","SEC"
+915,35,2019,"Florida State University","ACC"
+136,36,2016,"University of California, Los Angeles","PAC-12"
+395,36,2017,"University of Washington","PAC-12"
+654,36,2018,NULL,NULL
+916,36,2019,"University of South Carolina","SEC"
+1176,36,2020,NULL,NULL
+1177,37,2020,NULL,NULL
+396,37,2017,"East Carolina University","AAC"
+917,37,2019,"University of Mississippi","SEC"
+655,37,2018,"Auburn University","SEC"
+137,37,2016,NULL,NULL
+397,38,2017,"Western Kentucky University","C-USA"
+1178,38,2020,NULL,NULL
+656,38,2018,"University of South Carolina","SEC"
+138,38,2016,"Baylor University","Big 12"
+918,38,2019,NULL,NULL
+657,39,2018,"University of Iowa","Big Ten"
+919,39,2019,"Central Michigan University","MAC"
+398,39,2017,"Florida State University","ACC"
+1179,39,2020,"University of Louisiana at Lafayette","SBC"
+139,39,2016,NULL,NULL
+1180,40,2020,NULL,NULL
+140,40,2016,NULL,NULL
+920,40,2019,"Clemson University","ACC"
+399,40,2017,"Ohio State University","Big Ten"
+658,40,2018,"Southern Methodist University","AAC"
+400,41,2017,"Florida State University","ACC"
+659,41,2018,"Boston College","ACC"
+1181,41,2020,NULL,NULL
+921,41,2019,"Kansas State University","Big 12"
+141,41,2016,NULL,NULL
+922,42,2019,"University of Missouri","SEC"
+1182,42,2020,"University of Colorado Boulder","PAC-12"
+401,42,2017,"University of Utah","PAC-12"
+142,42,2016,"Boise State University","MW"
+660,42,2018,NULL,NULL
+143,43,2016,NULL,NULL
+923,43,2019,NULL,NULL
+661,43,2018,"Auburn University","SEC"
+1183,43,2020,"University of Notre Dame","ACC"
+402,43,2017,"University of Washington","PAC-12"
+1184,44,2020,"Louisiana State University - Baton Rouge","SEC"
+144,44,2016,"University of Illinois at Urbana-Champaign","Big Ten"
+403,44,2017,"University of South Alabama","SBC"
+924,44,2019,NULL,NULL
+662,44,2018,"University of Washington","PAC-12"
+404,45,2017,NULL,NULL
+925,45,2019,"Vanderbilt University","SEC"
+663,45,2018,"University of Iowa","Big Ten"
+145,45,2016,NULL,NULL
+1185,45,2020,NULL,NULL
+146,46,2016,NULL,NULL
+664,46,2018,"University of Mississippi","SEC"
+1186,46,2020,NULL,NULL
+405,46,2017,"Florida State University","ACC"
+926,46,2019,"Louisiana State University - Baton Rouge","SEC"
+1187,47,2020,"Auburn University","SEC"
+927,47,2019,"University of Utah","PAC-12"
+665,47,2018,NULL,NULL
+406,47,2017,"University of Houston","AAC"
+147,47,2016,"Ohio State University","Big Ten"
+666,48,2018,"University of South Carolina","SEC"
+407,48,2017,NULL,NULL
+148,48,2016,NULL,NULL
+928,48,2019,NULL,NULL
+1188,48,2020,"University of Tennessee","SEC"
+408,49,2017,NULL,NULL
+929,49,2019,NULL,NULL
+1189,49,2020,"University of Notre Dame","ACC"
+149,49,2016,NULL,NULL
+667,49,2018,NULL,NULL
+409,50,2017,NULL,NULL
+1190,50,2020,"University of Utah","PAC-12"
+930,50,2019,NULL,NULL
+668,50,2018,"The University of Texas at Austin","Big 12"
+150,50,2016,"University of Notre Dame","ACC"
+669,51,2018,"University of Memphis","AAC"
+1191,51,2020,NULL,NULL
+151,51,2016,NULL,NULL
+410,51,2017,"Florida State University","ACC"
+931,51,2019,"University of Mississippi","SEC"
+411,52,2017,"University of Notre Dame","ACC"
+1192,52,2020,"Florida State University","ACC"
+152,52,2016,"Louisiana State University - Baton Rouge","SEC"
+670,52,2018,"Rutgers University","Big Ten"
+932,52,2019,"University of Washington","PAC-12"
+153,53,2016,"University of South Carolina","SEC"
+412,53,2017,"Florida State University","ACC"
+1193,53,2020,NULL,NULL
+933,53,2019,NULL,NULL
+671,53,2018,NULL,NULL
+934,54,2019,"University of Kentucky","SEC"
+1194,54,2020,"University of Iowa","Big Ten"
+154,54,2016,"Clemson University","ACC"
+672,54,2018,"Wake Forest University","ACC"
+413,54,2017,"Ohio State University","Big Ten"
+414,55,2017,NULL,NULL
+155,55,2016,"University of Pittsburgh","ACC"
+935,55,2019,"Northern Illinois University","MAC"
+1195,55,2020,"Ohio State University","Big Ten"
+673,55,2018,"Louisiana State University - Baton Rouge","SEC"
+674,56,2018,"Florida State University","ACC"
+156,56,2016,"Kansas State University","Big 12"
+415,56,2017,NULL,NULL
+1196,56,2020,NULL,NULL
+936,56,2019,"University of Georgia","SEC"
+937,57,2019,"Stanford University","PAC-12"
+157,57,2016,"Clemson University","ACC"
+675,57,2018,NULL,NULL
+416,57,2017,"Vanderbilt University","SEC"
+1197,57,2020,"Florida State University","ACC"
+676,58,2018,"University of Colorado Boulder","PAC-12"
+1198,58,2020,"Boise State University","MW"
+158,58,2016,"University of Maryland, College Park","Big Ten"
+938,58,2019,"University of Central Florida","AAC"
+417,58,2017,"Louisiana State University - Baton Rouge","SEC"
+939,59,2019,"Ohio State University","Big Ten"
+677,59,2018,"Louisiana State University - Baton Rouge","SEC"
+159,59,2016,"Florida State University","ACC"
+1199,59,2020,"Baylor University","Big 12"
+418,59,2017,NULL,NULL
+419,60,2017,"University of Colorado Boulder","PAC-12"
+1200,60,2020,"University of Michigan-Ann Arbor","Big Ten"
+940,60,2019,NULL,NULL
+160,60,2016,NULL,NULL
+678,60,2018,NULL,NULL
+1201,61,2020,"Louisiana State University - Baton Rouge","SEC"
+941,61,2019,"University of Washington","PAC-12"
+161,61,2016,"Ohio State University","Big Ten"
+679,61,2018,"Louisiana State University - Baton Rouge","SEC"
+420,61,2017,"North Carolina State University - Raleigh","ACC"
+1202,62,2020,"Boston College","ACC"
+421,62,2017,"University of South Carolina","SEC"
+942,62,2019,NULL,NULL
+162,62,2016,NULL,NULL
+680,62,2018,"University of Pittsburgh","ACC"
+1203,63,2020,NULL,NULL
+422,63,2017,"Temple University","AAC"
+681,63,2018,"Auburn University","SEC"
+163,63,2016,"Georgia Institute of Technology","ACC"
+943,63,2019,"University of Virginia","ACC"
+1204,64,2020,NULL,NULL
+944,64,2019,"University of Mississippi","SEC"
+423,64,2017,NULL,NULL
+682,64,2018,"Ohio State University","Big Ten"
+165,64,2016,"Middle Tennessee State University","C-USA"
+946,65,2019,"Boston College","ACC"
+425,65,2017,"University of North Carolina at Charlotte","C-USA"
+684,65,2018,NULL,NULL
+1206,65,2020,"University of Wyoming","MW"
+166,65,2016,NULL,NULL
+685,66,2018,"University of Georgia","SEC"
+167,66,2016,"University of South Carolina","SEC"
+426,66,2017,"University of Colorado Boulder","PAC-12"
+947,66,2019,"University of Toledo","MAC"
+1207,66,2020,"University of Memphis","AAC"
+686,67,2018,"University of Miami","ACC"
+168,67,2016,"University of Nebraska - Lincoln","Big Ten"
+427,67,2017,"University of Tennessee","SEC"
+948,67,2019,"Baylor University","Big 12"
+1208,67,2020,"University of Notre Dame","ACC"
+428,68,2017,"University of Illinois at Urbana-Champaign","Big Ten"
+949,68,2019,"Florida State University","ACC"
+1209,68,2020,"University of California, Berkeley","PAC-12"
+169,68,2016,NULL,NULL
+687,68,2018,"Stanford University","PAC-12"
+170,69,2016,"University of Maryland, College Park","Big Ten"
+429,69,2017,NULL,NULL
+1210,69,2020,"Louisiana State University - Baton Rouge","SEC"
+950,69,2019,"San Jose State University","MW"
+688,69,2018,"North Carolina State University - Raleigh","ACC"
+430,70,2017,"Ohio State University","Big Ten"
+1211,70,2020,"The University of Texas at Austin","Big 12"
+171,70,2016,NULL,NULL
+689,70,2018,NULL,NULL
+951,70,2019,"University of Memphis","AAC"
+172,71,2016,"Boise State University","MW"
+1212,71,2020,NULL,NULL
+690,71,2018,"University of Oregon","PAC-12"
+431,71,2017,NULL,NULL
+952,71,2019,"Ohio State University","Big Ten"
+953,72,2019,"North Carolina State University - Raleigh","ACC"
+173,72,2016,"Florida State University","ACC"
+1213,72,2020,"University of Houston","AAC"
+691,72,2018,NULL,NULL
+432,72,2017,"Western Kentucky University","C-USA"
+174,73,2016,NULL,NULL
+954,73,2019,"Iowa State University","Big 12"
+433,73,2017,"Kansas State University","Big 12"
+1214,73,2020,"Ohio State University","Big Ten"
+692,73,2018,"Ohio State University","Big Ten"
+1215,74,2020,NULL,NULL
+175,74,2016,"University of Notre Dame","ACC"
+434,74,2017,"University of Michigan-Ann Arbor","Big Ten"
+955,74,2019,"Florida Atlantic University","C-USA"
+693,74,2018,NULL,NULL
+1216,75,2020,"Ohio State University","Big Ten"
+956,75,2019,NULL,NULL
+694,75,2018,"Florida State University","ACC"
+176,75,2016,"Michigan State University","Big Ten"
+435,75,2017,"Louisiana State University - Baton Rouge","SEC"
+695,76,2018,NULL,NULL
+1217,76,2020,"University of Illinois at Urbana-Champaign","Big Ten"
+177,76,2016,"Auburn University","SEC"
+436,76,2017,"Florida State University","ACC"
+957,76,2019,"Ohio State University","Big Ten"
+1218,77,2020,"University of Iowa","Big Ten"
+958,77,2019,"University of Michigan-Ann Arbor","Big Ten"
+437,77,2017,NULL,NULL
+696,77,2018,"Ohio State University","Big Ten"
+178,77,2016,NULL,NULL
+959,78,2019,NULL,NULL
+697,78,2018,"The University of Texas at Austin","Big 12"
+438,78,2017,NULL,NULL
+179,78,2016,"North Carolina State University - Raleigh","ACC"
+1219,78,2020,"Temple University","AAC"
+698,79,2018,"University of South Carolina","SEC"
+1220,79,2020,"Florida State University","ACC"
+439,79,2017,NULL,NULL
+960,79,2019,"University of Michigan-Ann Arbor","Big Ten"
+180,79,2016,"Oregon State University","PAC-12"
+440,80,2017,"Ohio University","MAC"
+699,80,2018,NULL,NULL
+961,80,2019,NULL,NULL
+1221,80,2020,"University of Kentucky","SEC"
+181,80,2016,"Ohio State University","Big Ten"
+182,81,2016,"Stanford University","PAC-12"
+441,81,2017,"University of California, Los Angeles","PAC-12"
+1222,81,2020,"University of South Carolina","SEC"
+700,81,2018,"Colorado State University","MW"
+962,81,2019,"Boston College","ACC"
+1223,82,2020,NULL,NULL
+183,82,2016,"Texas Tech University","Big 12"
+963,82,2019,"University of North Carolina at Charlotte","C-USA"
+701,82,2018,"University of Louisiana at Lafayette","SBC"
+442,82,2017,"Louisiana Tech University","C-USA"
+964,83,2019,"Michigan State University","Big Ten"
+443,83,2017,NULL,NULL
+702,83,2018,NULL,NULL
+184,83,2016,"University of Georgia","SEC"
+1224,83,2020,"Louisiana State University - Baton Rouge","SEC"
+185,84,2016,"Virginia Polytechnic Institute and State University","ACC"
+444,84,2017,NULL,NULL
+703,84,2018,"North Carolina State University - Raleigh","ACC"
+965,84,2019,NULL,NULL
+1225,84,2020,NULL,NULL
+1226,85,2020,"University of Utah","PAC-12"
+445,85,2017,NULL,NULL
+704,85,2018,"University of Tennessee","SEC"
+186,85,2016,"Ohio State University","Big Ten"
+966,85,2019,"Louisiana Tech University","C-USA"
+187,86,2016,"Rutgers University","Big Ten"
+446,86,2017,"University of Toledo","MAC"
+1227,86,2020,"University of Utah","PAC-12"
+967,86,2019,"San Diego State University","MW"
+705,86,2018,NULL,NULL
+1228,87,2020,NULL,NULL
+188,87,2016,"Utah State University","MW"
+706,87,2018,"Louisiana State University - Baton Rouge","SEC"
+968,87,2019,NULL,NULL
+447,87,2017,"University of California, Berkeley","PAC-12"
+707,88,2018,"Vanderbilt University","SEC"
+448,88,2017,"University of California, Los Angeles","PAC-12"
+189,88,2016,"Utah State University","MW"
+969,88,2019,"University of Utah","PAC-12"
+1229,88,2020,"The University of Texas at Austin","Big 12"
+1230,89,2020,NULL,NULL
+449,89,2017,"The University of Texas at Austin","Big 12"
+708,89,2018,NULL,NULL
+970,89,2019,"Stanford University","PAC-12"
+190,89,2016,NULL,NULL
+191,90,2016,"University of Notre Dame","ACC"
+450,90,2017,"University of Central Florida","AAC"
+971,90,2019,NULL,NULL
+709,90,2018,"University of South Florida","AAC"
+1231,90,2020,"Florida State University","ACC"
+192,91,2016,"North Carolina State University - Raleigh","ACC"
+451,91,2017,"Boston College","ACC"
+972,91,2019,NULL,NULL
+1232,91,2020,"University of California, Los Angeles","PAC-12"
+710,91,2018,"University of Central Florida","AAC"
+1233,92,2020,"The University of Texas at Austin","Big 12"
+973,92,2019,"University of South Carolina","SEC"
+452,92,2017,"University of Michigan-Ann Arbor","Big Ten"
+193,92,2016,NULL,NULL
+711,92,2018,NULL,NULL
+712,93,2018,NULL,NULL
+1234,93,2020,"Appalachian State University","SBC"
+974,93,2019,"University of Notre Dame","ACC"
+194,93,2016,"University of South Carolina","SEC"
+453,93,2017,"Auburn University","SEC"
+195,94,2016,"Ohio State University","Big Ten"
+454,94,2017,"University of Tennessee","SEC"
+1235,94,2020,"University of Cincinnati","AAC"
+975,94,2019,"Auburn University","SEC"
+713,94,2018,NULL,NULL
+1236,95,2020,"University of Arkansas","SEC"
+455,95,2017,"University of Michigan-Ann Arbor","Big Ten"
+976,95,2019,"Old Dominion University","C-USA"
+714,95,2018,"University of Southern Mississippi","C-USA"
+196,95,2016,"University of Michigan-Ann Arbor","Big Ten"
+1237,96,2020,NULL,NULL
+197,96,2016,"University of Nebraska - Lincoln","Big Ten"
+456,96,2017,"Northern Illinois University","MAC"
+715,96,2018,"Stanford University","PAC-12"
+977,96,2019,"University of Mississippi","SEC"
+978,97,2019,NULL,NULL
+198,97,2016,"Boise State University","MW"
+457,97,2017,"Clemson University","ACC"
+1238,97,2020,"Louisiana State University - Baton Rouge","SEC"
+716,97,2018,"University of Michigan-Ann Arbor","Big Ten"
+979,98,2019,NULL,NULL
+458,98,2017,NULL,NULL
+199,98,2016,"Boston College","ACC"
+1239,98,2020,"Ohio State University","Big Ten"
+717,98,2018,"University of Central Florida","AAC"
+718,99,2018,"Boston College","ACC"
+201,99,2016,NULL,NULL
+980,99,2019,"University of Kentucky","SEC"
+1240,99,2020,NULL,NULL
+459,99,2017,NULL,NULL
+1241,100,2020,"Clemson University","ACC"
+981,100,2019,NULL,NULL
+202,100,2016,"Michigan State University","Big Ten"
+719,100,2018,"Clemson University","ACC"
+460,100,2017,"Florida International University","C-USA"
+203,101,2016,NULL,NULL
+721,101,2018,NULL,NULL
+1242,101,2020,"Virginia Polytechnic Institute and State University","ACC"
+461,101,2017,NULL,NULL
+982,101,2019,NULL,NULL
+1243,102,2020,"University of North Carolina at Charlotte","C-USA"
+462,102,2017,NULL,NULL
+722,102,2018,"Ohio State University","Big Ten"
+204,102,2016,"Ohio State University","Big Ten"
+983,102,2019,"Boise State University","MW"
+463,103,2017,"Florida Atlantic University","C-USA"
+205,103,2016,"University of Notre Dame","ACC"
+985,103,2019,"Iowa State University","Big 12"
+723,103,2018,"Texas Tech University","Big 12"
+1244,103,2020,"University of Colorado Boulder","PAC-12"
+464,104,2017,"University of Iowa","Big Ten"
+724,104,2018,"North Carolina State University - Raleigh","ACC"
+1245,104,2020,"University of Utah","PAC-12"
+206,104,2016,"Temple University","AAC"
+986,104,2019,"North Carolina State University - Raleigh","ACC"
+725,105,2018,"Florida State University","ACC"
+1246,105,2020,NULL,NULL
+207,105,2016,"University of Cincinnati","AAC"
+987,105,2019,"Florida State University","ACC"
+465,105,2017,"University of Pittsburgh","ACC"
+1247,106,2020,NULL,NULL
+988,106,2019,"Eastern Michigan University","MAC"
+726,106,2018,"University of Iowa","Big Ten"
+466,106,2017,"University of Michigan-Ann Arbor","Big Ten"
+208,106,2016,NULL,NULL
+727,107,2018,"University of Miami","ACC"
+209,107,2016,"University of Cincinnati","AAC"
+467,107,2017,"Louisiana State University - Baton Rouge","SEC"
+989,107,2019,"University of Iowa","Big Ten"
+1249,107,2020,"Appalachian State University","SBC"
+1250,108,2020,"Louisiana State University - Baton Rouge","SEC"
+990,108,2019,"University of Notre Dame","ACC"
+469,108,2017,NULL,NULL
+210,108,2016,NULL,NULL
+728,108,2018,NULL,NULL
+1251,109,2020,"Clemson University","ACC"
+211,109,2016,"Clemson University","ACC"
+991,109,2019,"Michigan State University","Big Ten"
+470,109,2017,"University of Iowa","Big Ten"
+729,109,2018,NULL,NULL
+471,110,2017,NULL,NULL
+1252,110,2020,"University of California, Los Angeles","PAC-12"
+212,110,2016,"Western Kentucky University","C-USA"
+992,110,2019,"University of Utah","PAC-12"
+730,110,2018,NULL,NULL
+213,111,2016,NULL,NULL
+1253,111,2020,"University of Georgia","SEC"
+993,111,2019,"Ohio State University","Big Ten"
+731,111,2018,"Michigan State University","Big Ten"
+472,111,2017,"University of Colorado Boulder","PAC-12"
+994,112,2019,"Stanford University","PAC-12"
+1254,112,2020,"University of California, Los Angeles","PAC-12"
+732,112,2018,"University of Miami","ACC"
+214,112,2016,"University of Georgia","SEC"
+473,112,2017,NULL,NULL
+474,113,2017,"University of Miami","ACC"
+1255,113,2020,"University of Notre Dame","ACC"
+995,113,2019,NULL,NULL
+215,113,2016,NULL,NULL
+733,113,2018,NULL,NULL
+996,114,2019,NULL,NULL
+216,114,2016,"Auburn University","SEC"
+1256,114,2020,"University of Utah","PAC-12"
+734,114,2018,NULL,NULL
+475,114,2017,NULL,NULL
+1257,115,2020,"Florida Atlantic University","C-USA"
+217,115,2016,NULL,NULL
+735,115,2018,"Western Kentucky University","C-USA"
+997,115,2019,NULL,NULL
+476,115,2017,"University of Pittsburgh","ACC"
+736,116,2018,"University of Kansas","Big 12"
+998,116,2019,"University of Iowa","Big Ten"
+1258,116,2020,NULL,NULL
+218,116,2016,"The University of Texas at Austin","Big 12"
+477,116,2017,"Auburn University","SEC"
+219,117,2016,"University of South Carolina","SEC"
+1259,117,2020,"University of South Carolina","SEC"
+478,117,2017,NULL,NULL
+737,117,2018,"University of Pittsburgh","ACC"
+999,117,2019,"Clemson University","ACC"
+1000,118,2019,"University of Arkansas","SEC"
+738,118,2018,NULL,NULL
+220,118,2016,"North Carolina State University - Raleigh","ACC"
+1260,118,2020,"University of Missouri","SEC"
+479,118,2017,NULL,NULL
+1001,119,2019,"University of Miami","ACC"
+221,119,2016,"San Jose State University","MW"
+1261,119,2020,"California State University-Fresno","MW"
+480,119,2017,NULL,NULL
+739,119,2018,NULL,NULL
+1002,120,2019,NULL,NULL
+481,120,2017,"University of Michigan-Ann Arbor","Big Ten"
+222,120,2016,NULL,NULL
+740,120,2018,"University of Washington","PAC-12"
+1262,120,2020,"Florida State University","ACC"
+1003,121,2019,NULL,NULL
+482,121,2017,"University of Utah","PAC-12"
+741,121,2018,NULL,NULL
+1263,121,2020,"University of Kentucky","SEC"
+223,121,2016,NULL,NULL
+1004,122,2019,"University of Kentucky","SEC"
+742,122,2018,"University of California, Los Angeles","PAC-12"
+224,122,2016,"Baylor University","Big 12"
+483,122,2017,"San Diego State University","MW"
+1264,122,2020,"University of Washington","PAC-12"
+1265,123,2020,"University of Tulsa","AAC"
+1005,123,2019,NULL,NULL
+484,123,2017,"Michigan State University","Big Ten"
+225,123,2016,"Louisiana State University - Baton Rouge","SEC"
+743,123,2018,"University of Notre Dame","ACC"
+1266,124,2020,"University of Maryland, College Park","Big Ten"
+1006,124,2019,"Wake Forest University","ACC"
+744,124,2018,NULL,NULL
+485,124,2017,"University of Tennessee","SEC"
+226,124,2016,"University of Miami","ACC"
+1007,125,2019,"Arizona State University","PAC-12"
+745,125,2018,"University of Pittsburgh","ACC"
+486,125,2017,NULL,NULL
+227,125,2016,"Florida State University","ACC"
+1267,125,2020,"Florida International University","C-USA"
+746,126,2018,"University of Southern Mississippi","C-USA"
+228,126,2016,"Florida State University","ACC"
+1268,126,2020,NULL,NULL
+487,126,2017,"University of Houston","AAC"
+1008,126,2019,"University of Georgia","SEC"
+229,127,2016,NULL,NULL
+488,127,2017,"University of Toledo","MAC"
+747,127,2018,"Florida State University","ACC"
+1269,127,2020,"Clemson University","ACC"
+1009,127,2019,"University of South Carolina","SEC"
+1010,128,2019,"University of Memphis","AAC"
+748,128,2018,"North Carolina State University - Raleigh","ACC"
+489,128,2017,"University of Tennessee","SEC"
+1270,128,2020,"University of Central Florida","AAC"
+230,128,2016,"University of Missouri","SEC"
+231,129,2016,NULL,NULL
+1271,129,2020,"University of North Carolina at Charlotte","C-USA"
+749,129,2018,"North Carolina State University - Raleigh","ACC"
+490,129,2017,"Florida State University","ACC"
+1011,129,2019,"University of Houston","AAC"
+232,130,2016,"University of Nebraska - Lincoln","Big Ten"
+1012,130,2019,"University of Notre Dame","ACC"
+1272,130,2020,"Baylor University","Big 12"
+750,130,2018,"Florida State University","ACC"
+491,130,2017,NULL,NULL
+1013,131,2019,NULL,NULL
+233,131,2016,"Stanford University","PAC-12"
+492,131,2017,"University of Arkansas","SEC"
+751,131,2018,"Arizona State University","PAC-12"
+1273,131,2020,"Louisiana State University - Baton Rouge","SEC"
+752,132,2018,NULL,NULL
+234,132,2016,"University of Michigan-Ann Arbor","Big Ten"
+1014,132,2019,"University of Oregon","PAC-12"
+1274,132,2020,"University of Oregon","PAC-12"
+493,132,2017,"San Diego State University","MW"
+1015,133,2019,"Auburn University","SEC"
+235,133,2016,"Louisiana State University - Baton Rouge","SEC"
+494,133,2017,NULL,NULL
+753,133,2018,"University of Missouri","SEC"
+1275,133,2020,"Stanford University","PAC-12"
+495,134,2017,NULL,NULL
+1016,134,2019,"University of Washington","PAC-12"
+1276,134,2020,"University of California, Berkeley","PAC-12"
+236,134,2016,"Louisiana Tech University","C-USA"
+754,134,2018,NULL,NULL
+755,135,2018,NULL,NULL
+1017,135,2019,NULL,NULL
+1277,135,2020,"University of Louisiana at Lafayette","SBC"
+496,135,2017,"University of Tennessee","SEC"
+237,135,2016,NULL,NULL
+497,136,2017,"Oregon State University","PAC-12"
+238,136,2016,"University of Utah","PAC-12"
+756,136,2018,"University of Mississippi","SEC"
+1018,136,2019,"Ohio State University","Big Ten"
+1278,136,2020,"Purdue University - West Lafayette","Big Ten"
+239,137,2016,NULL,NULL
+757,137,2018,"Stanford University","PAC-12"
+498,137,2017,"University of South Carolina","SEC"
+1279,137,2020,"Michigan State University","Big Ten"
+1019,137,2019,"Louisiana State University - Baton Rouge","SEC"
+1280,138,2020,"Louisiana Tech University","C-USA"
+1020,138,2019,NULL,NULL
+240,138,2016,NULL,NULL
+499,138,2017,"University of Michigan-Ann Arbor","Big Ten"
+759,138,2018,"Washington State University","PAC-12"
+760,139,2018,"University of Miami","ACC"
+1281,139,2020,"Louisiana Tech University","C-USA"
+1022,139,2019,NULL,NULL
+241,139,2016,"Ohio State University","Big Ten"
+500,139,2017,"University of Michigan-Ann Arbor","Big Ten"
+1023,140,2019,"Temple University","AAC"
+1282,140,2020,"University of Miami","ACC"
+243,140,2016,NULL,NULL
+501,140,2017,"Clemson University","ACC"
+761,140,2018,"University of Michigan-Ann Arbor","Big Ten"
+762,141,2018,"University of Central Florida","AAC"
+244,141,2016,NULL,NULL
+1283,141,2020,NULL,NULL
+502,141,2017,"University of California, Berkeley","PAC-12"
+1024,141,2019,"University of Michigan-Ann Arbor","Big Ten"
+763,142,2018,"Kansas State University","Big 12"
+503,142,2017,"Clemson University","ACC"
+1025,142,2019,"University of Washington","PAC-12"
+1284,142,2020,NULL,NULL
+245,142,2016,"Appalachian State University","SBC"
+246,143,2016,"Texas Tech University","Big 12"
+504,143,2017,"University of South Florida","AAC"
+1285,143,2020,"University of Michigan-Ann Arbor","Big Ten"
+1026,143,2019,NULL,NULL
+764,143,2018,"Purdue University - West Lafayette","Big Ten"
+765,144,2018,NULL,NULL
+1286,144,2020,"University of Miami","ACC"
+247,144,2016,"University of Missouri","SEC"
+1027,144,2019,"University of South Carolina","SEC"
+505,144,2017,NULL,NULL
+507,145,2017,"University of Michigan-Ann Arbor","Big Ten"
+766,145,2018,NULL,NULL
+1028,145,2019,"University of Utah","PAC-12"
+248,145,2016,"University of Georgia","SEC"
+1287,145,2020,"Auburn University","SEC"
+508,146,2017,"University of Iowa","Big Ten"
+249,146,2016,NULL,NULL
+1288,146,2020,NULL,NULL
+767,146,2018,NULL,NULL
+1029,146,2019,NULL,NULL
+250,147,2016,"University of Maryland, College Park","Big Ten"
+1290,147,2020,"University of Notre Dame","ACC"
+768,147,2018,"University of Virginia","ACC"
+1030,147,2019,"Florida State University","ACC"
+509,147,2017,NULL,NULL
+1291,148,2020,"Syracuse University","ACC"
+510,148,2017,"Ohio University","MAC"
+769,148,2018,NULL,NULL
+251,148,2016,"University of California, Los Angeles","PAC-12"
+1031,148,2019,"University of Arkansas","SEC"
+770,149,2018,"The University of Texas at Austin","Big 12"
+252,149,2016,"University of California, Los Angeles","PAC-12"
+511,149,2017,"San Diego State University","MW"
+1032,149,2019,"Clemson University","ACC"
+1292,149,2020,"Ball State University","MAC"
+771,150,2018,"University of Memphis","AAC"
+1033,150,2019,NULL,NULL
+253,150,2016,NULL,NULL
+1293,150,2020,"University of Oregon","PAC-12"
+512,150,2017,"Clemson University","ACC"
+1034,151,2019,NULL,NULL
+513,151,2017,"University of Iowa","Big Ten"
+772,151,2018,NULL,NULL
+254,151,2016,"Washington State University","PAC-12"
+1294,151,2020,"University of Virginia","ACC"
+1295,152,2020,NULL,NULL
+773,152,2018,"University of Arizona","PAC-12"
+255,152,2016,"Temple University","AAC"
+514,152,2017,"University of Miami","ACC"
+1035,152,2019,"University of Pittsburgh","ACC"
+256,153,2016,NULL,NULL
+1296,153,2020,NULL,NULL
+515,153,2017,"University of Memphis","AAC"
+1036,153,2019,NULL,NULL
+774,153,2018,"University of Oregon","PAC-12"
+775,154,2018,NULL,NULL
+1297,154,2020,NULL,NULL
+516,154,2017,"University of Arkansas","SEC"
+257,154,2016,"University of California, Los Angeles","PAC-12"
+1037,154,2019,"Florida State University","ACC"
+517,155,2017,"University of California, Los Angeles","PAC-12"
+258,155,2016,NULL,NULL
+1038,155,2019,NULL,NULL
+1298,155,2020,"University of Tulsa","AAC"
+776,155,2018,"University of California, Los Angeles","PAC-12"
+259,156,2016,"University of Arkansas","SEC"
+1039,156,2019,"University of Oregon","PAC-12"
+518,156,2017,"University of Wyoming","MW"
+1299,156,2020,"San Diego State University","MW"
+777,156,2018,NULL,NULL
+519,157,2017,"Vanderbilt University","SEC"
+1040,157,2019,NULL,NULL
+1300,157,2020,"Auburn University","SEC"
+260,157,2016,NULL,NULL
+778,157,2018,"Central Michigan University","MAC"
+520,158,2017,"Temple University","AAC"
+1041,158,2019,"University of Miami","ACC"
+1301,158,2020,"University of Virginia","ACC"
+779,158,2018,"University of Virginia","ACC"
+261,158,2016,"University of South Carolina","SEC"
+1042,159,2019,"University of Maryland, College Park","Big Ten"
+521,159,2017,NULL,NULL
+1302,159,2020,"Marshall University","C-USA"
+262,159,2016,NULL,NULL
+780,159,2018,NULL,NULL
+781,160,2018,NULL,NULL
+263,160,2016,"University of Missouri","SEC"
+1043,160,2019,NULL,NULL
+1303,160,2020,"University of Washington","PAC-12"
+522,160,2017,"Florida State University","ACC"
+1044,161,2019,"The University of Texas at Austin","Big 12"
+1304,161,2020,NULL,NULL
+264,161,2016,"Arizona State University","PAC-12"
+782,161,2018,"University of Maryland, College Park","Big Ten"
+523,161,2017,NULL,NULL
+1045,162,2019,"University of South Carolina","SEC"
+1305,162,2020,"University of Michigan-Ann Arbor","Big Ten"
+265,162,2016,"Stanford University","PAC-12"
+783,162,2018,"University of California, Los Angeles","PAC-12"
+524,162,2017,"Boise State University","MW"
+1306,163,2020,"Georgia Southern University","SBC"
+784,163,2018,"Virginia Polytechnic Institute and State University","ACC"
+266,163,2016,"University of California, Berkeley","PAC-12"
+1046,163,2019,"Stanford University","PAC-12"
+525,163,2017,"Boston College","ACC"
+785,164,2018,NULL,NULL
+267,164,2016,NULL,NULL
+1307,164,2020,"Boise State University","MW"
+526,164,2017,"University of Utah","PAC-12"
+1047,164,2019,NULL,NULL
+1048,165,2019,"University of Miami","ACC"
+268,165,2016,NULL,NULL
+786,165,2018,"North Carolina State University - Raleigh","ACC"
+527,165,2017,NULL,NULL
+1308,165,2020,"The University of Texas at Austin","Big 12"
+1049,166,2019,NULL,NULL
+787,166,2018,"Virginia Polytechnic Institute and State University","ACC"
+1309,166,2020,NULL,NULL
+528,166,2017,NULL,NULL
+269,166,2016,"Clemson University","ACC"
+1310,167,2020,"University of Georgia","SEC"
+788,167,2018,"Auburn University","SEC"
+1050,167,2019,NULL,NULL
+270,167,2016,NULL,NULL
+529,167,2017,NULL,NULL
+1051,168,2019,"University of Georgia","SEC"
+271,168,2016,"Baylor University","Big 12"
+1311,168,2020,"Boise State University","MW"
+789,168,2018,"Ohio State University","Big Ten"
+530,168,2017,"Wake Forest University","ACC"
+790,169,2018,"University of Mississippi","SEC"
+272,169,2016,"Georgia Southern University","SBC"
+1052,169,2019,NULL,NULL
+531,169,2017,"Oregon State University","PAC-12"
+1312,169,2020,"Temple University","AAC"
+273,170,2016,NULL,NULL
+1313,170,2020,"Texas Tech University","Big 12"
+791,170,2018,NULL,NULL
+532,170,2017,"University of South Florida","AAC"
+1053,170,2019,NULL,NULL
+533,171,2017,"University of Pittsburgh","ACC"
+274,171,2016,"University of Arkansas","SEC"
+1054,171,2019,"Auburn University","SEC"
+1314,171,2020,NULL,NULL
+792,171,2018,"Western Kentucky University","C-USA"
+793,172,2018,NULL,NULL
+1315,172,2020,NULL,NULL
+534,172,2017,"University of Georgia","SEC"
+1055,172,2019,"University of Washington","PAC-12"
+275,172,2016,"Colorado State University","MW"
+794,173,2018,"Florida State University","ACC"
+1056,173,2019,NULL,NULL
+1316,173,2020,"Tulane University","AAC"
+535,173,2017,"University of Utah","PAC-12"
+276,173,2016,NULL,NULL
+277,174,2016,"University of Mississippi","SEC"
+1317,174,2020,"North Carolina State University - Raleigh","ACC"
+536,174,2017,NULL,NULL
+1058,174,2019,"California State University-Fresno","MW"
+795,174,2018,"University of South Florida","AAC"
+797,175,2018,NULL,NULL
+278,175,2016,"The University of Akron","MAC"
+1059,175,2019,"Northern Illinois University","MAC"
+537,175,2017,"Purdue University - West Lafayette","Big Ten"
+1318,175,2020,NULL,NULL
+1319,176,2020,"University of Miami","ACC"
+538,176,2017,"University of Utah","PAC-12"
+1060,176,2019,"Stanford University","PAC-12"
+280,176,2016,"University of Nebraska - Lincoln","Big Ten"
+798,176,2018,"University of Tennessee","SEC"
+1320,177,2020,"University of Michigan-Ann Arbor","Big Ten"
+799,177,2018,"Wake Forest University","ACC"
+1061,177,2019,"Rutgers University","Big Ten"
+539,177,2017,"Louisiana Tech University","C-USA"
+281,177,2016,NULL,NULL
+800,178,2018,"Arizona State University","PAC-12"
+540,178,2017,"Louisiana State University - Baton Rouge","SEC"
+1321,178,2020,"Wake Forest University","ACC"
+1062,178,2019,"Washington State University","PAC-12"
+282,178,2016,"Georgia Institute of Technology","ACC"
+541,179,2017,NULL,NULL
+801,179,2018,"Tulane University","AAC"
+1322,179,2020,"University of Utah","PAC-12"
+1063,179,2019,"University of Georgia","SEC"
+283,179,2016,NULL,NULL
+1064,180,2019,NULL,NULL
+542,180,2017,"University of Miami","ACC"
+802,180,2018,NULL,NULL
+1324,180,2020,"University of Kansas","Big 12"
+284,180,2016,NULL,NULL
+1065,181,2019,"University of Miami","ACC"
+285,181,2016,NULL,NULL
+1325,181,2020,"California State University-Fresno","MW"
+543,181,2017,NULL,NULL
+803,181,2018,"University of Utah","PAC-12"
+286,182,2016,NULL,NULL
+1326,182,2020,"University of Michigan-Ann Arbor","Big Ten"
+1066,182,2019,NULL,NULL
+804,182,2018,NULL,NULL
+544,182,2017,"University of Texas at El Paso","C-USA"
+1067,183,2019,"Vanderbilt University","SEC"
+805,183,2018,"Arizona State University","PAC-12"
+287,183,2016,NULL,NULL
+1327,183,2020,NULL,NULL
+545,183,2017,"Georgia Southern University","SBC"
+546,184,2017,"University of Nebraska - Lincoln","Big Ten"
+806,184,2018,"Florida State University","ACC"
+1068,184,2019,"Old Dominion University","C-USA"
+1328,184,2020,"Baylor University","Big 12"
+288,184,2016,"University of South Carolina","SEC"
+1329,185,2020,"Louisiana State University - Baton Rouge","SEC"
+807,185,2018,"Clemson University","ACC"
+289,185,2016,NULL,NULL
+548,185,2017,"Florida State University","ACC"
+1069,185,2019,"University of Toledo","MAC"
+549,186,2017,"Virginia Polytechnic Institute and State University","ACC"
+290,186,2016,"Texas Tech University","Big 12"
+808,186,2018,"Temple University","AAC"
+1070,186,2019,"University of Maryland, College Park","Big Ten"
+1330,186,2020,"University of Notre Dame","ACC"
+1331,187,2020,"University of Michigan-Ann Arbor","Big Ten"
+550,187,2017,"University of Cincinnati","AAC"
+809,187,2018,"Clemson University","ACC"
+1071,187,2019,"University of Colorado Boulder","PAC-12"
+291,187,2016,NULL,NULL
+810,188,2018,"University of Louisiana at Lafayette","SBC"
+1072,188,2019,NULL,NULL
+1332,188,2020,"Georgia Southern University","SBC"
+551,188,2017,"University of Louisiana at Lafayette","SBC"
+292,188,2016,"The University of Texas at San Antonio","C-USA"
+552,189,2017,"Tulane University","AAC"
+1333,189,2020,"Oregon State University","PAC-12"
+293,189,2016,"Purdue University - West Lafayette","Big Ten"
+1073,189,2019,NULL,NULL
+811,189,2018,"Boston College","ACC"
+294,190,2016,"University of Kentucky","SEC"
+812,190,2018,"The University of Texas at Austin","Big 12"
+1074,190,2019,"University of Arkansas","SEC"
+1334,190,2020,"University of Georgia","SEC"
+553,190,2017,"University of Utah","PAC-12"
+295,191,2016,"University of Michigan-Ann Arbor","Big Ten"
+554,191,2017,"Louisiana Tech University","C-USA"
+813,191,2018,"Texas Tech University","Big 12"
+1075,191,2019,"University of Wyoming","MW"
+1335,191,2020,NULL,NULL
+1076,192,2019,NULL,NULL
+1336,192,2020,"University of Michigan-Ann Arbor","Big Ten"
+555,192,2017,NULL,NULL
+814,192,2018,NULL,NULL
+296,192,2016,NULL,NULL
+1077,193,2019,NULL,NULL
+815,193,2018,NULL,NULL
+297,193,2016,"University of Arkansas","SEC"
+1337,193,2020,NULL,NULL
+556,193,2017,NULL,NULL
+1078,194,2019,"University of Notre Dame","ACC"
+557,194,2017,NULL,NULL
+298,194,2016,"Colorado State University","MW"
+1338,194,2020,"University of Nebraska - Lincoln","Big Ten"
+816,194,2018,"Louisiana State University - Baton Rouge","SEC"
+558,195,2017,"Boise State University","MW"
+299,195,2016,"San Jose State University","MW"
+1079,195,2019,"Central Michigan University","MAC"
+1339,195,2020,"Wake Forest University","ACC"
+817,195,2018,"Rutgers University","Big Ten"
+1340,196,2020,"Temple University","AAC"
+559,196,2017,"University of Miami","ACC"
+1080,196,2019,"Rutgers University","Big Ten"
+818,196,2018,NULL,NULL
+300,196,2016,"Auburn University","SEC"
+1341,197,2020,"University of Utah","PAC-12"
+819,197,2018,NULL,NULL
+560,197,2017,"University of Michigan-Ann Arbor","Big Ten"
+1081,197,2019,NULL,NULL
+301,197,2016,NULL,NULL
+302,198,2016,NULL,NULL
+1082,198,2019,"University of Virginia","ACC"
+820,198,2018,"University of Tennessee","SEC"
+561,198,2017,"University of Mississippi","SEC"
+1342,198,2020,"University of Maryland, College Park","Big Ten"
+1343,199,2020,"Ohio State University","Big Ten"
+562,199,2017,"University of Wyoming","MW"
+1083,199,2019,NULL,NULL
+303,199,2016,"University of Mississippi","SEC"
+821,199,2018,"Washington State University","PAC-12"
+1344,200,2020,"University of Southern Mississippi","C-USA"
+1084,200,2019,"University of Houston","AAC"
+563,200,2017,"University of Pittsburgh","ACC"
+304,200,2016,"Stanford University","PAC-12"
+822,200,2018,NULL,NULL
+1345,201,2020,"Southern Methodist University","AAC"
+823,201,2018,"Louisiana Tech University","C-USA"
+305,201,2016,"University of Arkansas","SEC"
+1085,201,2019,"University of South Carolina","SEC"
+564,201,2017,"Virginia Polytechnic Institute and State University","ACC"
+1086,202,2019,"Ohio State University","Big Ten"
+565,202,2017,"University of Utah","PAC-12"
+1346,202,2020,"University of California, Berkeley","PAC-12"
+306,202,2016,NULL,NULL
+824,202,2018,NULL,NULL
+307,203,2016,"Virginia Polytechnic Institute and State University","ACC"
+825,203,2018,"University of Nebraska - Lincoln","Big Ten"
+1347,203,2020,"Oregon State University","PAC-12"
+1087,203,2019,NULL,NULL
+566,203,2017,"Coastal Carolina University","SBC"
+1348,204,2020,"University of Wyoming","MW"
+826,204,2018,NULL,NULL
+1088,204,2019,"University of Miami","ACC"
+567,204,2017,"University of Mississippi","SEC"
+308,204,2016,NULL,NULL
+568,205,2017,"University of Arkansas","SEC"
+1349,205,2020,"University of Michigan-Ann Arbor","Big Ten"
+1089,205,2019,"Kansas State University","Big 12"
+309,205,2016,NULL,NULL
+827,205,2018,NULL,NULL
+1350,206,2020,"Georgia Institute of Technology","ACC"
+1090,206,2019,"North Carolina State University - Raleigh","ACC"
+310,206,2016,"University of Southern Mississippi","C-USA"
+569,206,2017,"Virginia Polytechnic Institute and State University","ACC"
+828,206,2018,NULL,NULL
+311,207,2016,"Louisiana Tech University","C-USA"
+1351,207,2020,"Oregon State University","PAC-12"
+1091,207,2019,"The University of Akron","MAC"
+829,207,2018,"University of Notre Dame","ACC"
+570,207,2017,"University of Houston","AAC"
+312,208,2016,NULL,NULL
+830,208,2018,"Boise State University","MW"
+1092,208,2019,"Bowling Green State University","MAC"
+1352,208,2020,"University of Oregon","PAC-12"
+571,208,2017,"Auburn University","SEC"
+1093,209,2019,"Florida State University","ACC"
+572,209,2017,"Georgia State University","SBC"
+313,209,2016,"University of Virginia","ACC"
+831,209,2018,"University of Southern Mississippi","C-USA"
+1353,209,2020,NULL,NULL
+832,210,2018,"University of Miami","ACC"
+1354,210,2020,"Auburn University","SEC"
+573,210,2017,NULL,NULL
+314,210,2016,"Baylor University","Big 12"
+1094,210,2019,"Auburn University","SEC"
+315,211,2016,"Florida State University","ACC"
+1095,211,2019,NULL,NULL
+1355,211,2020,NULL,NULL
+833,211,2018,NULL,NULL
+574,211,2017,"University of California, Los Angeles","PAC-12"
+575,212,2017,"University of South Florida","AAC"
+834,212,2018,NULL,NULL
+1096,212,2019,"University of South Carolina","SEC"
+1356,212,2020,"Washington State University","PAC-12"
+316,212,2016,"Central Michigan University","MAC"
+576,213,2017,NULL,NULL
+1357,213,2020,"University of Michigan-Ann Arbor","Big Ten"
+1097,213,2019,NULL,NULL
+835,213,2018,"Appalachian State University","SBC"
+317,213,2016,"Michigan State University","Big Ten"
+577,214,2017,"University of Washington","PAC-12"
+318,214,2016,"University of Houston","AAC"
+1098,214,2019,"Utah State University","MW"
+836,214,2018,"Stanford University","PAC-12"
+1358,214,2020,"Florida State University","ACC"
+1100,215,2019,"University of Missouri","SEC"
+1360,215,2020,"Purdue University - West Lafayette","Big Ten"
+578,215,2017,"University of Miami","ACC"
+319,215,2016,NULL,NULL
+837,215,2018,NULL,NULL
+1101,216,2019,"University of Illinois at Urbana-Champaign","Big Ten"
+838,216,2018,"University of Washington","PAC-12"
+320,216,2016,"Eastern Michigan University","MAC"
+579,216,2017,"Florida State University","ACC"
+1361,216,2020,"University of Arkansas","SEC"
+321,217,2016,"Baylor University","Big 12"
+1362,217,2020,"University of Tennessee","SEC"
+1102,217,2019,"The University of Texas at Austin","Big 12"
+839,217,2018,"University of Washington","PAC-12"
+580,217,2017,NULL,NULL
+1363,218,2020,NULL,NULL
+1103,218,2019,"Ohio State University","Big Ten"
+581,218,2017,"University of South Carolina","SEC"
+322,218,2016,"University of South Carolina","SEC"
+840,218,2018,"Tulane University","AAC"
+842,219,2018,"Louisiana State University - Baton Rouge","SEC"
+1104,219,2019,"University of Maryland, College Park","Big Ten"
+1364,219,2020,"University of Iowa","Big Ten"
+323,219,2016,"University of Arizona","PAC-12"
+583,219,2017,"University of Miami","ACC"
+1105,220,2019,NULL,NULL
+324,220,2016,"University of Washington","PAC-12"
+843,220,2018,"Florida International University","C-USA"
+584,220,2017,NULL,NULL
+1365,220,2020,"Ohio State University","Big Ten"
+585,221,2017,"Washington State University","PAC-12"
+325,221,2016,"University of Illinois at Urbana-Champaign","Big Ten"
+844,221,2018,"University of Houston","AAC"
+1366,221,2020,"Florida International University","C-USA"
+1106,221,2019,"Tulane University","AAC"
+845,222,2018,"San Jose State University","MW"
+1107,222,2019,"Florida Atlantic University","C-USA"
+1367,222,2020,"Arizona State University","PAC-12"
+327,222,2016,"University of California, Los Angeles","PAC-12"
+586,222,2017,NULL,NULL
+328,223,2016,"Western Kentucky University","C-USA"
+846,223,2018,"Temple University","AAC"
+1108,223,2019,NULL,NULL
+587,223,2017,"University of South Carolina","SEC"
+1368,223,2020,"University of Memphis","AAC"
+1109,224,2019,"University of Georgia","SEC"
+847,224,2018,"University of Georgia","SEC"
+1369,224,2020,NULL,NULL
+588,224,2017,"Arizona State University","PAC-12"
+329,224,2016,"Michigan State University","Big Ten"
+1110,225,2019,NULL,NULL
+1370,225,2020,"Michigan State University","Big Ten"
+589,225,2017,"University of Notre Dame","ACC"
+848,225,2018,"University of California, Berkeley","PAC-12"
+330,225,2016,"Arizona State University","PAC-12"
+590,226,2017,NULL,NULL
+1111,226,2019,NULL,NULL
+849,226,2018,"University of Arkansas","SEC"
+331,226,2016,NULL,NULL
+1371,226,2020,"University of Colorado Boulder","PAC-12"
+591,227,2017,NULL,NULL
+1372,227,2020,NULL,NULL
+332,227,2016,"Vanderbilt University","SEC"
+850,227,2018,"Ohio University","MAC"
+1112,227,2019,NULL,NULL
+1373,228,2020,"Syracuse University","ACC"
+592,228,2017,"Florida State University","ACC"
+1113,228,2019,"Boston College","ACC"
+333,228,2016,"Syracuse University","ACC"
+851,228,2018,NULL,NULL
+852,229,2018,"The University of New Mexico - Albuquerque","MW"
+1114,229,2019,"University of Arizona","PAC-12"
+593,229,2017,"University of Miami","ACC"
+334,229,2016,"University of Houston","AAC"
+1374,229,2020,"North Carolina State University - Raleigh","ACC"
+594,230,2017,NULL,NULL
+1375,230,2020,"University of Memphis","AAC"
+853,230,2018,NULL,NULL
+335,230,2016,NULL,NULL
+1115,230,2019,NULL,NULL
+595,231,2017,NULL,NULL
+1376,231,2020,NULL,NULL
+854,231,2018,NULL,NULL
+336,231,2016,"University of California, Los Angeles","PAC-12"
+1116,231,2019,"University of Notre Dame","ACC"
+855,232,2018,"University of California, Berkeley","PAC-12"
+337,232,2016,"Boston College","ACC"
+596,232,2017,"Kansas State University","Big 12"
+1377,232,2020,"University of Nebraska - Lincoln","Big Ten"
+1117,232,2019,"University of Kentucky","SEC"
+1118,233,2019,"Auburn University","SEC"
+856,233,2018,NULL,NULL
+597,233,2017,"Georgia Institute of Technology","ACC"
+338,233,2016,"Louisiana State University - Baton Rouge","SEC"
+1378,233,2020,"Stanford University","PAC-12"
+598,234,2017,"University of Pittsburgh","ACC"
+1119,234,2019,"University of Washington","PAC-12"
+857,234,2018,NULL,NULL
+1379,234,2020,"Baylor University","Big 12"
+339,234,2016,"Louisiana State University - Baton Rouge","SEC"
+1120,235,2019,"Auburn University","SEC"
+1380,235,2020,"Ohio State University","Big Ten"
+340,235,2016,NULL,NULL
+858,235,2018,"Syracuse University","ACC"
+599,235,2017,"Auburn University","SEC"
+341,236,2016,"University of Washington","PAC-12"
+859,236,2018,NULL,NULL
+1381,236,2020,NULL,NULL
+600,236,2017,NULL,NULL
+1121,236,2019,NULL,NULL
+601,237,2017,"Virginia Polytechnic Institute and State University","ACC"
+860,237,2018,"San Diego State University","MW"
+1382,237,2020,"Tulane University","AAC"
+342,237,2016,"University of California, Berkeley","PAC-12"
+1122,237,2019,"University of Georgia","SEC"
+1383,238,2020,"University of South Carolina","SEC"
+1123,238,2019,NULL,NULL
+861,238,2018,NULL,NULL
+343,238,2016,"University of California, Los Angeles","PAC-12"
+602,238,2017,"Utah State University","MW"
+1124,239,2019,"University of Oregon","PAC-12"
+1384,239,2020,"University of Pittsburgh","ACC"
+603,239,2017,"Ohio State University","Big Ten"
+862,239,2018,NULL,NULL
+344,239,2016,NULL,NULL
+345,240,2016,"Florida State University","ACC"
+1385,240,2020,NULL,NULL
+1125,240,2019,"University of Utah","PAC-12"
+604,240,2017,"University of Miami","ACC"
+863,240,2018,"Middle Tennessee State University","C-USA"
+1386,241,2020,"Temple University","AAC"
+864,241,2018,"Virginia Polytechnic Institute and State University","ACC"
+346,241,2016,"Clemson University","ACC"
+605,241,2017,"University of California, Berkeley","PAC-12"
+1126,241,2019,"University of Oregon","PAC-12"
+865,242,2018,"University of Miami","ACC"
+1127,242,2019,"University of Cincinnati","AAC"
+1387,242,2020,"University of Miami","ACC"
+606,242,2017,NULL,NULL
+347,242,2016,"University of Georgia","SEC"
+1128,243,2019,NULL,NULL
+866,243,2018,NULL,NULL
+1388,243,2020,"Marshall University","C-USA"
+348,243,2016,"University of California, Berkeley","PAC-12"
+607,243,2017,"Baylor University","Big 12"
+867,244,2018,"Southern Methodist University","AAC"
+349,244,2016,"Clemson University","ACC"
+608,244,2017,"University of Toledo","MAC"
+1129,244,2019,NULL,NULL
+1389,244,2020,"University of Iowa","Big Ten"
+1130,245,2019,"Syracuse University","ACC"
+868,245,2018,"Louisiana State University - Baton Rouge","SEC"
+350,245,2016,"University of Illinois at Urbana-Champaign","Big Ten"
+1390,245,2020,"University of Louisiana at Lafayette","SBC"
+609,245,2017,"North Carolina State University - Raleigh","ACC"
+1131,246,2019,"University of Mississippi","SEC"
+869,246,2018,NULL,NULL
+351,246,2016,"Temple University","AAC"
+610,246,2017,"University of Colorado Boulder","PAC-12"
+1391,246,2020,NULL,NULL
+352,247,2016,"Clemson University","ACC"
+1392,247,2020,NULL,NULL
+611,247,2017,"Louisiana State University - Baton Rouge","SEC"
+870,247,2018,NULL,NULL
+1132,247,2019,"Colorado State University","MW"
+871,248,2018,NULL,NULL
+1393,248,2020,"Miami University-Oxford","MAC"
+353,248,2016,"University of Iowa","Big Ten"
+1133,248,2019,NULL,NULL
+612,248,2017,NULL,NULL
+872,249,2018,"University of Toledo","MAC"
+613,249,2017,NULL,NULL
+354,249,2016,"Western Kentucky University","C-USA"
+1134,249,2019,"Temple University","AAC"
+1394,249,2020,NULL,NULL
+614,250,2017,"Eastern Michigan University","MAC"
+355,250,2016,"University of Arizona","PAC-12"
+873,250,2018,"Florida State University","ACC"
+1135,250,2019,"United States Air Force Academy","MW"
+1395,250,2020,"Clemson University","ACC"
+356,251,2016,"University of Oregon","PAC-12"
+1136,251,2019,"Texas Tech University","Big 12"
+1396,251,2020,"Louisiana State University - Baton Rouge","SEC"
+615,251,2017,"University at Buffalo","MAC"
+874,251,2018,NULL,NULL
+357,252,2016,NULL,NULL
+616,252,2017,"North Carolina State University - Raleigh","ACC"
+1137,252,2019,"University of Mississippi","SEC"
+875,252,2018,"University of Mississippi","SEC"
+1397,252,2020,"Florida State University","ACC"
+1138,253,2019,NULL,NULL
+617,253,2017,"University of Mississippi","SEC"
+876,253,2018,"Florida State University","ACC"
+1398,253,2020,NULL,NULL
+358,253,2016,"University of Southern Mississippi","C-USA"
+877,254,2018,"University of Cincinnati","AAC"
+1139,254,2019,"University of California, Los Angeles","PAC-12"
+1399,254,2020,NULL,NULL
+878,255,2018,NULL,NULL
+1400,255,2020,"University of Georgia","SEC"
+879,256,2018,"Southern Methodist University","AAC"

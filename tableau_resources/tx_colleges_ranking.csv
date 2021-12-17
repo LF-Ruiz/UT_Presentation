@@ -1,0 +1,34 @@
+"institution","city","state","zip","wranking","nranking","year"
+"The University of Texas at Austin","Austin","TX","78712",40,27,2018
+"The University of Texas at Austin","Austin","TX","78712",41,25,2020
+"The University of Texas at Austin","Austin","TX","78712",44,30,2016
+"The University of Texas at Austin","Austin","TX","78712",45,28,2019
+"The University of Texas at Austin","Austin","TX","78712",51,30,2017
+"Rice University","Houston","TX","77005",70,34,2018
+"Rice University","Houston","TX","77005",72,38,2016
+"Rice University","Houston","TX","77005",74,37,2017
+"Rice University","Houston","TX","77005",95,41,2019
+"Baylor College of Medicine","Houston","TX","77030-349",101,46,2019
+"Baylor College of Medicine","Houston","TX","77030-349",101,47,2018
+"Baylor College of Medicine","Houston","TX","77030-349",101,49,2017
+"Baylor College of Medicine","Houston","TX","77030-349",101,51,2016
+"Rice University","Houston","TX","77005",101,42,2020
+"Baylor College of Medicine","Houston","TX","77030-349",151,57,2020
+"University of Houston","Houston","TX","77204-201",201,66,2020
+"University of Houston","Houston","TX","77204-201",201,67,2019
+"University of Houston","Houston","TX","77204-201",201,70,2018
+"University of Houston","Houston","TX","77204-201",201,71,2017
+"University of Houston","Houston","TX","77204-201",201,72,2016
+"University of North Texas","Denton","TX","76203-127",301,96,2018
+"University of North Texas","Denton","TX","76203-127",301,99,2016
+"University of North Texas","Denton","TX","76203-127",301,100,2017
+"Texas Tech University","Lubbock","TX","79409-500",401,115,2020
+"Texas Tech University","Lubbock","TX","79409-500",401,118,2018
+"Texas Tech University","Lubbock","TX","79409-500",401,120,2016
+"University of North Texas","Denton","TX","76203-127",401,115,2020
+"University of North Texas","Denton","TX","76203-127",401,117,2019
+"Baylor University","Waco","TX","76798",501,134,2020
+"Baylor University","Waco","TX","76798",501,138,2019
+"Southern Methodist University","Dallas","TX","75275-022",501,134,2020
+"Southern Methodist University","Dallas","TX","75275-022",501,138,2019
+"Texas Tech University","Lubbock","TX","79409-500",501,138,2019

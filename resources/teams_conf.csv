@@ -1,0 +1,291 @@
+﻿i_id,Institution,Location,Enrollment,Endowment (millions),Nickname,Conference,c_id
+1228,Baylor University,"Waco, Texas","20,626","$1,850 ",Bears,Big 12,6784
+5388,Iowa State University,"Ames, Iowa","35,000","$1,102 ",Cyclones,Big 12,6784
+5655,Kansas State University,"Manhattan, Kansas","22,221",$510 ,Wildcats,Big 12,6784
+8002,Oklahoma State University,"Stillwater, Oklahoma","25,295","$1,210 ",Cowboys/Cowgirls,Big 12,6784
+10559,Texas Christian University,"Fort Worth, Texas","11,379","$1,710 ",Horned Frogs,Big 12,6784
+10578,Texas Tech University,"Lubbock, Texas","40,322","$1,320 ",Red Raiders,Big 12,6784
+11369,University of Kansas,"Lawrence, Kansas","28,423","$1,820 ",Jayhawks,Big 12,6784
+11514,University of Oklahoma,"Norman, Oklahoma","28,564","$1,736 ",Sooners,Big 12,6784
+10802,The University of Texas at Austin,"Austin, Texas","51,832","$30,100 ",Longhorns,Big 12,6784
+12284,West Virginia University,"Morgantown, West Virginia","26,269",$590 ,Mountaineers,Big 12,6784
+11313,University of Florida,"Gainesville, Florida","53,481","$2,300.00 ",Gators,SEC,8588
+11320,University of Georgia,"Athens, Georgia","39,147","$1,400.00 ",Bulldogs,SEC,8588
+11374,University of Kentucky,"Lexington, Kentucky","31,057","$1,300.00 ",Wildcats,SEC,8588
+11453,University of Missouri,"Columbia, Missouri","31,105","$1,700.00 ",Tigers,SEC,8588
+11674,University of South Carolina,"Columbia, South Carolina","35,468",$800.00 ,Gamecocks,SEC,8588
+11713,University of Tennessee,"Knoxville, Tennessee","30,559","$1,300.00 ",Volunteers,SEC,8588
+11915,Vanderbilt University,"Nashville, Tennessee","13,537","$10,900.00 ",Commodores,SEC,8588
+10771,The University of Alabama,"Tuscaloosa, Alabama","37,842",$800.00 ,Crimson Tide,SEC,8588
+11186,University of Arkansas,"Fayetteville, Arkansas","29,068","$1,200.00 ",Razorbacks,SEC,8588
+893,Auburn University,"Auburn, Alabama","30,737",$800.00 ,Tigers,SEC,8588
+6245,Louisiana State University - Baton Rouge,"Baton Rouge, Louisiana","34,290","$1,000.00 ",Tigers,SEC,8588
+11450,University of Mississippi,"Oxford, Mississippi","21,676",$700.00 ,Rebels,SEC,8588
+7049,Mississippi State University,"Starkville, Mississippi","22,986",$500.00 ,Bulldogs,SEC,8588
+10551,Texas A&M University,"College Station, Texas","71,109","$13,600.00 ",Aggies,SEC,8588
+11257,University of Central Florida,"Orlando, Florida","68,571",$165 ,Knights,AAC,5440
+11265,University of Cincinnati,"Cincinnati, Ohio","45,949","$1,453 ",Bearcats,AAC,5440
+3416,East Carolina University,"Greenville, North Carolina","28,718",$213 ,Pirates,AAC,5440
+11347,University of Houston,"Houston, Texas","47,090",$960 ,Cougars,AAC,5440
+11435,University of Memphis,"Memphis, Tennessee","21,458",$223 ,Tigers,AAC,5440
+11684,University of South Florida,"Tampa, Florida","50,830",$690 ,Bulls,AAC,5440
+9934,Southern Methodist University,"Dallas, Texas","11,649","$1,660 ",Mustangs,AAC,5440
+10498,Temple University,"Philadelphia, Pennsylvania","39,755",$644 ,Owls,AAC,5440
+10986,Tulane University,"New Orleans, Louisiana","11,722","$1,430 ",Green Wave,AAC,5440
+11728,University of Tulsa,"Tulsa, Oklahoma","3,343","$1,114 ",Golden Hurricane,AAC,5440
+12374,Wichita State University,"Wichita, Kansas","15,778",$276 ,Shockers,AAC,5440
+1430,Boston College,"Chestnut Hill, Massachusetts","14,513","$2,520 ",Eagles,ACC,2061
+2527,Clemson University,"Clemson, South Carolina","24,387",$774 ,Tigers,ACC,2061
+4033,Florida State University,"Tallahassee, Florida","41,900",$700 ,Seminoles,ACC,2061
+11404,University of Louisville,"Louisville, Kentucky","22,640",$720 ,Cardinals,ACC,2061
+7692,North Carolina State University - Raleigh,"Raleigh, North Carolina","35,479","$1,400 ",Wolfpack,ACC,2061
+11511,University of Notre Dame,"Notre Dame, Indiana","12,292","$13,800 ",Fighting Irish,ACC,2061
+10253,Syracuse University,"Syracuse, New York","22,484","$1,390 ",Orange,ACC,2061
+12163,Wake Forest University,"Winston-Salem, North Carolina","8,116","$1,370 ",Demon Deacons,ACC,2061
+3292,Duke University,"Durham, North Carolina","15,892","$12,700 ",Blue Devils,ACC,2061
+4277,Georgia Institute of Technology,"Atlanta, Georgia","32,718","$2,170 ",Yellow Jackets,ACC,2061
+11437,University of Miami,"Coral Gables, Florida","17,331","$1,050 ",Hurricanes,ACC,2061
+11495,University of North Carolina at Chapel Hill,"Chapel Hill, North Carolina","29,847","$3,670 ",Tar Heels,ACC,2061
+11615,University of Pittsburgh,"Pittsburgh, Pennsylvania","28,664","$4,310 ",Panthers,ACC,2061
+11746,University of Virginia,"Charlottesville, Virginia","24,360","$11,700 ",Cavaliers,ACC,2061
+12006,Virginia Polytechnic Institute and State University,"Blacksburg, Virginia","33,403","$1,358 ",Hokies,ACC,2061
+5216,Indiana University Bloomington,"Bloomington, Indiana","42,552","$2,426 ",Hoosiers,Big Ten,7907
+11423,"University of Maryland, College Park","College Park, Maryland","40,709","$1,496 ",Terrapins,Big Ten,7907
+11438,University of Michigan-Ann Arbor,"Ann Arbor, Michigan","47,907","$12,477 ",Wolverines,Big Ten,7907
+6916,Michigan State University,"East Lansing, Michigan","49,695","$3,069 ",Spartans,Big Ten,7907
+7977,Ohio State University,"Columbus, Ohio","61,369","$5,287 ",Buckeyes,Big Ten,7907
+8420,Pennsylvania State University,"University Park, Pennsylvania","45,901","$3,403 ",Nittany Lions,Big Ten,7907
+9080,Rutgers University,"New Brunswick–Piscataway,","50,411","$1,484 ",Scarlet Knights,Big Ten,7907
+11357,University of Illinois at Urbana-Champaign,"Urbana-Champaign, Illinois","52,331","$2,404 ",Fighting Illini,Big Ten,7907
+11362,University of Iowa,"Iowa City, Iowa","30,448","$2,526 ",Hawkeyes,Big Ten,7907
+11445,"University of Minnesota, Twin Cities","Minneapolis-St. Paul, Minnesota","52,017","$3,872 ",Golden Gophers,Big Ten,7907
+11472,University of Nebraska - Lincoln,"Lincoln, Nebraska","25,057","$1,735 ",Cornhuskers,Big Ten,7907
+7839,Northwestern University,"Evanston, Illinois","22,316","$10,927 ",Wildcats,Big Ten,7907
+8651,Purdue University - West Lafayette,"West Lafayette, Indiana","45,869","$2,590 ",Boilermakers,Big Ten,7907
+11758,University of Wisconsin - Madison,"Madison, Wisconsin","45,540","$3,179 ",Badgers,Big Ten,7907
+11172,University of Alabama at Birmingham,"Birmingham, Alabama","21,923",$537.30 ,Blazers,C-USA,2946
+3990,Florida Atlantic University,"Boca Raton, Florida","29,772",$227 ,Owls,C-USA,2946
+4015,Florida International University,"University Park, Florida","58,064",$216.30 ,Panthers,C-USA,2946
+6256,Louisiana Tech University,"Ruston, Louisiana","12,467",$106.90 ,Bulldogs & Lady Techsters,C-USA,2946
+6684,Marshall University,"Huntington, West Virginia","13,204",$147.20 ,Thundering Herd,C-USA,2946
+6939,Middle Tennessee State University,"Murfreesboro, Tennessee","21,913",$105.60 ,Blue Raiders,C-USA,2946
+11496,University of North Carolina at Charlotte,"Charlotte, North Carolina","30,146",$230.35 ,49ers,C-USA,2946
+11503,University of North Texas,"Denton, Texas","42,372",$217.80 ,Mean Green,C-USA,2946
+8011,Old Dominion University,"Norfolk, Virginia","24,176",$261.70 ,Monarchs & Lady Monarchs[e],C-USA,2946
+8950,Rice University,"Houston, Texas","7,124","$6,480 ",Owls,C-USA,2946
+11690,University of Southern Mississippi,"Hattiesburg, Mississippi","14,509",$104.90 ,Golden Eagles,C-USA,2946
+11715,University of Texas at El Paso,"El Paso, Texas","25,151",$241.70 ,Miners,C-USA,2946
+10804,The University of Texas at San Antonio,"San Antonio, Texas","34,734",$181.40 ,Roadrunners,C-USA,2946
+12305,Western Kentucky University,"Bowling Green, Kentucky","19,456",$175.20 ,Hilltoppers & Lady Toppers,C-USA,2946
+10770,The University of Akron,"Akron, Ohio","18,730",$236 ,Zips,MAC,6845
+1436,Bowling Green State University,"Bowling Green, Ohio","17,540",$175 ,Falcons,MAC,6845
+11162,University at Buffalo,"Buffalo, New York","31,923",$795 ,Bulls,MAC,6845
+5760,Kent State University,"Kent, Ohio","28,122",$146 ,Golden Flashes,MAC,6845
+6897,Miami University-Oxford,"Oxford, Ohio","19,933",$555 ,RedHawks,MAC,6845
+7979,Ohio University,"Athens, Ohio","28,750",$762 ,Bobcats,MAC,6845
+1165,Ball State University,"Muncie, Indiana","21,597",$213 ,Cardinals,MAC,6845
+2298,Central Michigan University,"Mount Pleasant, Michigan","21,705",$189 ,Chippewas,MAC,6845
+3449,Eastern Michigan University,"Ypsilanti, Michigan","18,838",$78 ,Eagles,MAC,6845
+7777,Northern Illinois University,"DeKalb, Illinois","17,169",$80 ,Huskies,MAC,6845
+11717,University of Toledo,"Toledo, Ohio","20,304",$454 ,Rockets,MAC,6845
+12306,Western Michigan University,"Kalamazoo, Michigan","22,562",$405 ,Broncos,MAC,6845
+11092,United States Air Force Academy,"Colorado Springs, Colorado","4,304",$98.90 ,Falcons,MW,8019
+1414,Boise State University,"Boise, Idaho","25,540",$113.80 ,Broncos,MW,8019
+2032,California State University-Fresno,"Fresno, California","25,341",$170.70 ,Bulldogs,MW,8019
+2676,Colorado State University,"Fort Collins, Colorado","34,166",$393.10 ,Rams,MW,8019
+11481,University of Nevada-Reno,"Reno, Nevada","20,718",$367.40 ,Wolf Pack,MW,8019
+11480,University of Nevada-Las Vegas,"Paradise, Nevada","31,142",$305.70 ,Rebels,MW,8019
+10786,The University of New Mexico - Albuquerque,"Albuquerque, New Mexico","25,441",$442.40 ,Lobos,MW,8019
+9521,San Diego State University,"San Diego, California","35,578",$330.20 ,Aztecs,MW,8019
+9535,San Jose State University,"San Jose, California","33,025",$148.70 ,Spartans,MW,8019
+11826,Utah State University,"Logan, Utah","27,691",$427.40 ,Aggies,MW,8019
+11779,University of Wyoming,"Laramie, Wyoming","12,450",$585.90 ,Cowboys & Cowgirls,MW,8019
+11185,University of Arizona,"Tucson, Arizona","43,625",980,Wildcats,PAC-12,4065
+783,Arizona State University,"Tempe, Arizona","71,946",950,Sun Devils,PAC-12,4065
+11227,"University of California, Berkeley","Berkeley, California","41,910",5000,Golden Bears,PAC-12,4065
+11230,"University of California, Los Angeles","Los Angeles, California","45,428",5540,Bruins,PAC-12,4065
+11269,University of Colorado Boulder,"Boulder, Colorado","33,246",1520,Buffaloes,PAC-12,4065
+11519,University of Oregon,"Eugene, Oregon","22,980",910,Ducks,PAC-12,4065
+8055,Oregon State University,"Corvallis, Oregon","31,904",700,Beavers,PAC-12,4065
+11687,University of Southern California,"Los Angeles, California","48,500",5910,Trojans,PAC-12,4065
+10107,Stanford University,"Stanford, California","16,336",28940,Cardinal,PAC-12,4065
+11736,University of Utah,"Salt Lake City, Utah","33,000",1070,Utes,PAC-12,4065
+11751,University of Washington,"Seattle, Washington","46,081",3070,Huskies,PAC-12,4065
+12205,Washington State University,"Pullman, Washington","30,614",1080,Cougars,PAC-12,4065
+739,Appalachian State University,"Boone, North Carolina","20,023",$122 ,Mountaineers,SBC,6493
+796,Arkansas State University,"Jonesboro, Arkansas","13,891",$84 ,Red Wolves,SBC,6493
+2560,Coastal Carolina University,"Conway, South Carolina","10,894",$51 ,Chanticleers,SBC,6493
+4286,Georgia Southern University,"Statesboro, Georgia","27,459",$56 ,Eagles,SBC,6493
+4288,Georgia State University,"Atlanta, Georgia","53,619",$179 ,Panthers,SBC,6493
+11192,University of Arkansas at Little Rock,"Little Rock, Arkansas","9,579",$80 ,Trojans,SBC,6493
+11399,University of Louisiana at Lafayette,"Lafayette, Louisiana","19,188",$153 ,Ragin' Cajuns,SBC,6493
+11400,University of Louisiana at Monroe,"Monroe, Louisiana","9,060",$23 ,Warhawks,SBC,6493
+11671,University of South Alabama,"Mobile, Alabama","14,834",$576 ,Jaguars,SBC,6493
+10577,Texas State University-San Marcos,"San Marcos, Texas","38,231",$208 ,Bobcats,SBC,6493
+10801,The University of Texas at Arlington,"Arlington, Texas","42,863",$159 ,Mavericks,SBC,6493
+10974,Troy University,"Troy, Alabama","17,494",$129 ,Trojans,SBC,6493
+5215,Indiana State University,"Terre Haute, Indiana","12,144",,Sycamores,MVFC,1825
+5171,Illinois State University,"Normal, Illinois","20,635",,Redbirds,MVFC,1825
+7060,Missouri State University,"Springfield, Missouri","23,502",,Bears,MVFC,1825
+11501,University of North Dakota,"Grand Forks, North Dakota","13,772",,Fighting Hawks,MVFC,1825
+7709,North Dakota State University,"Fargo, North Dakota","12,461",,Bison,MVFC,1825
+11508,University of Northern Iowa,"Cedar Falls, Iowa","10,497",,Panthers,MVFC,1825
+11683,University of South Dakota,"Vermillion, South Dakota","9,971",,Coyotes,MVFC,1825
+9819,South Dakota State University,"Brookings, South Dakota","11,405",,Jackrabbits,MVFC,1825
+9927,Southern Illinois University Carbondale,"Carbondale, Illinois","11,366",,Salukis,MVFC,1825
+12302,Western Illinois University,"Macomb, Illinois","7,490",,Leathernecks,MVFC,1825
+12554,Youngstown State University,"Youngstown, Ohio","12,155",,Penguins,MVFC,1825
+3461,Eastern Washington University,"Cheney, Washington","12,607",,Eagles,Big Sky Conference,1410
+11355,University of Idaho,"Moscow, Idaho","11,814",,Vandals,Big Sky Conference,1410
+5154,Idaho State University,"Pocatello, Idaho","12,805",,Bengals,Big Sky Conference,1410
+10784,The University of Montana,"Missoula, Montana","10,104",,Grizzlies,Big Sky Conference,1410
+7096,Montana State University,"Bozeman, Montana","16,766",,Bobcats,Big Sky Conference,1410
+7773,Northern Arizona University,"Flagstaff, Arizona","22,791",,Lumberjacks,Big Sky Conference,1410
+11507,University of Northern Colorado,"Greeley, Colorado","12,862",,Bears,Big Sky Conference,1410
+8575,Portland State University,"Portland, Oregon","27,285",,Vikings,Big Sky Conference,1410
+2038,California State University-Sacramento,"Sacramento, California","31,181",,Hornets,Big Sky Conference,1410
+9951,Southern Utah University,"Cedar City, Utah","10,196",,Thunderbirds,Big Sky Conference,1410
+12234,Weber State University,"Ogden, Utah","27,465",,Wildcats,Big Sky Conference,1410
+2068,Campbell University,"Buies Creek, North Carolina","6,448",,Fighting Camels,Big South Conference,2489
+2388,Charleston Southern University,"North Charleston, South Carolina","3,414",,Buccaneers,Big South Conference,2489
+4234,Gardner-Webb University,"Boiling Springs, North Carolina","3,594",,Runnin' Bulldogs,Big South Conference,2489
+4586,Hampton University,"Hampton, Virginia","4,321",,Pirates,Big South Conference,2489
+4760,High Point University,"High Point, North Carolina","4,545",,Panthers,Big South Conference,2489
+6222,Longwood University,"Farmville, Virginia","4,470",,Lancers,Big South Conference,2489
+7689,North Carolina A & T State University,"Greensboro, North Carolina","12,753",,Aggies,Big South Conference,2489
+8595,Presbyterian College,"Clinton, South Carolina","1,330",,Blue Hose,Big South Conference,2489
+8836,Radford University,"Radford, Virginia","10,700",,Highlanders,Big South Conference,2489
+11494,University of North Carolina at Asheville,"Asheville, North Carolina","3,762",,Bulldogs,Big South Conference,2489
+11682,University of South Carolina-Upstate,"Spartanburg, South Carolina","6,000",,Spartans,Big South Conference,2489
+12419,Winthrop University,"Rock Hill, South Carolina","6,073",,Eagles,Big South Conference,2489
+2607,College of Charleston,"Charleston, South Carolina","10,783",$103 ,Cougars,CAA,8725
+11293,University of Delaware,"Newark, Delaware","23,281","$1,450 ",Fightin' Blue Hens,CAA,8725
+3032,Drexel University,"Philadelphia, Pennsylvania","22,412",$798 ,Dragons,CAA,8725
+3542,Elon University,"Elon, North Carolina","6,991",$262 ,Phoenix,CAA,8725
+4789,Hofstra University,"Hempstead, New York","10,871",$637 ,Pride,CAA,8725
+5491,James Madison University,"Harrisonburg, Virginia","21,787",$117 ,Dukes,CAA,8725
+7770,Northeastern University,"Boston, Massachusetts","21,627","$1,070 ",Huskies,CAA,8725
+10898,Towson University,"Towson, Maryland","22,923",$88 ,Tigers,CAA,8725
+11499,University of North Carolina at Wilmington,"Wilmington, North Carolina","17,499",$104 ,Seahawks,CAA,8725
+2643,College of William and Mary,"Williamsburg, Virginia","8,817",$968 ,Tribe,CAA,8725
+1542,Brown University,"Providence, Rhode Island","10,257","$4,700 ",Bears,Ivy League,10209
+2705,Columbia University,"New York City, New York","30,810","$10,870 ",Lions,Ivy League,10209
+2832,Cornell University,"Ithaca, New York","24,027","$7,230 ",Big Red,Ivy League,10209
+3081,Dartmouth College,"Hanover, New Hampshire","6,608","$5,490 ",Big Green,Ivy League,10209
+4659,Harvard University,"Cambridge, Massachusetts","20,739","$38,300 ",Crimson,Ivy League,10209
+11536,University of Pennsylvania,"Philadelphia, Pennsylvania","22,432","$13,780 ",Quakers,Ivy League,10209
+8606,Princeton University,"Princeton, New Jersey","8,374","$25,920 ",Tigers,Ivy League,10209
+12510,Yale University,"New Haven, Connecticut","13,609","$29,350 ",Bulldogs,Ivy League,10209
+2824,Coppin State University,"Baltimore, Maryland","2,348",,Eagles,MEAC,5741
+3177,Delaware State University,"Dover, Delaware","4,768",,Hornets,MEAC,5741
+4841,Howard University,"Washington, D.C.","9,399",,Bison/Lady Bison,MEAC,5741
+11420,University of Maryland Eastern Shore,"Princess Anne, Maryland","2,888",,Hawks,MEAC,5741
+7134,Morgan State University,"Baltimore, Maryland","7,763",,Bears,MEAC,5741
+7679,Norfolk State University,"Norfolk, Virginia","5,601",,Spartans,MEAC,5741
+7690,North Carolina Central University,"Durham, North Carolina","8,011",,Eagles,MEAC,5741
+9809,South Carolina State University,"Orangeburg, South Carolina","2,479",,Bulldogs/Lady Bulldogs,MEAC,5741
+1556,Bryant University,"Smithfield, Rhode Island","3,499","$174,200,000 ",Bulldogs,NEC,3381
+2286,Central Connecticut State University,"New Britain, Connecticut","9,546","$63,000,000 ",Blue Devils,NEC,3381
+3895,Fairleigh Dickinson University,"Teaneck, New Jersey","8,590","$100,000,000 ",Knights,NEC,3381
+6217,Long Island University,Brooklyn and,"16,958","$96,987,000 ",Sharks,NEC,3381
+6859,Merrimack College,"North Andover, Massachusetts","3,726","$50,568,000 ",Warriors,NEC,3381
+7166,Mount St. Mary's University,"Emmitsburg, Maryland","1,889","$47,605,000 ",Mountaineers,NEC,3381
+9396,Sacred Heart University,"Fairfield, Connecticut","5,974","$137,027,000 ",Pioneers,NEC,3381
+10090,St. Francis College,"Brooklyn, New York","2,363","$77,536,000 ",Terriers,NEC,3381
+9420,Saint Francis University,"Loretto, Pennsylvania","2,111","$44,863,000 ",Red Flash,NEC,3381
+12162,Wagner College,"Staten Island, New York","1,762","$82,141,000 ",Seahawks,NEC,3381
+919,Austin Peay State University,"Clarksville, Tennessee","10,344",,Governors,NEC,3381
+3442,Eastern Illinois University,"Charleston, Illinois","8,626",,Panthers,OVC,1493
+7214,Murray State University,"Murray, Kentucky","10,495",,Racers,OVC,1493
+9863,Southeast Missouri State University,"Cape Girardeau, Missouri","11,978",,Redhawks,OVC,1493
+10507,Tennessee State University,"Nashville, Tennessee","8,775",,Tigers/Lady Tigers,OVC,1493
+10508,Tennessee Technological University,"Cookeville, Tennessee","10,492",,Golden Eagles,OVC,1493
+10793,The University of Tennessee,"Martin, Tennessee","6,705",,Skyhawks,OVC,1493
+654,American University,"Washington, D.C.","6,028","$708,000,000 ",Eagles,Patriot League,5961
+11095,United States Military Academy,"West Point, New York","4,686",N/A,Black Knights,Patriot League,5961
+1432,Boston University,"Boston, Massachusetts","15,803","$2,430,000,000 ",Terriers,Patriot League,5961
+1582,Bucknell University,"Lewisburg, Pennsylvania","3,650","$801,000,000 ",Bison,Patriot League,5961
+2590,Colgate University,"Hamilton, New York","2,837","$908,000,000 ",Raiders,Patriot League,5961
+2649,College of the Holy Cross,"Worcester, Massachusetts","3,174","$767,600,000 ",Crusaders,Patriot League,5961
+5961,Lafayette College,"Easton, Pennsylvania","2,382","$693,700,000 ",Leopards,Patriot League,5961
+6095,Lehigh University,"Bethlehem, Pennsylvania","5,047","$1,400,000,000 ",Mountain Hawks,Patriot League,5961
+6271,Loyola University Maryland,"Baltimore, Maryland","4,068","$206,000,000 ",Greyhounds,Patriot League,5961
+11096,United States Naval Academy,"Annapolis, Maryland","4,400",N/A,Midshipmen,Patriot League,5961
+1606,Butler University,"Indianapolis, Indiana","3,897",,Bulldogs,PFL,4593
+3091,Davidson College,"Davidson, North Carolina","1,950",,Wildcats,PFL,4593
+11291,University of Dayton,"Dayton, Ohio","8,353",,Flyers,PFL,4593
+3280,Drake University,"Des Moines, Iowa","3,164",,Bulldogs,PFL,4593
+6675,Marist College,"Poughkeepsie, New York","6,200",,Red Foxes,PFL,4593
+7130,Morehead State University,"Morehead, Kentucky","11,358",,Eagles,PFL,4593
+8595,Presbyterian College,"Clinton, South Carolina","1,172",,Blue Hose,PFL,4593
+11697,University of St Thomas,"St. Paul, Minnesota","9,878",,Tommies,PFL,4593
+11654,University of San Diego,"San Diego, California","4,904",,Toreros,PFL,4593
+10149,Stetson University,"DeLand, Florida","4,330",,Hatters,PFL,4593
+11913,Valparaiso University,"Valparaiso, Indiana","2,917",,Beacons,PFL,4593
+10793,The University of Tennessee at Chattanooga,"Chattanooga, Tennessee","11,728",$147.10 ,Mocs,SoCon,3853
+2476,Citadel Military College of South Carolina,"Charleston, South Carolina","3,693",$305.80 ,Bulldogs,SoCon,3853
+3427,East Tennessee State University,"Johnson City, Tennessee","9,151",$130.10 ,Buccaneers,SoCon,3853
+4146,Furman University,"Greenville, South Carolina","2,629",$694 ,Paladins,SoCon,3853
+6833,Mercer University,"Macon, Georgia","9,026",$424 ,Bears,SoCon,3853
+9506,Samford University,"Homewood, Alabama","5,729",$297 ,Bulldogs,SoCon,3853
+11497,University of North Carolina at Greensboro,"Greensboro, North Carolina","19,764",$310.30 ,Spartans,SoCon,3853
+12005,Virginia Military Institute,"Lexington, Virginia","1,772",$539.60 ,Keydets,SoCon,3853
+12296,Western Carolina University,"Cullowhee, North Carolina","12,243",$88.90 ,Catamounts,SoCon,3853
+12428,Wofford College,"Spartanburg, South Carolina","1,773",$208.10 ,Terriers,SoCon,3853
+4830,Houston Baptist University,"Houston, Texas","4,120",,Huskies,SLC,8827
+11789,University of the Incarnate Word,"San Antonio, Texas","10,984",,Cardinals,SLC,8827
+6761,McNeese State University,"Lake Charles, Louisiana","7,648",,Cowboys/Cowgirls,SLC,8827
+11489,University of New Orleans,"New Orleans, Louisiana","8,151",,Privateers,SLC,8827
+7666,Nicholls State University,"Thibodaux, Louisiana","6,366",,Colonels,SLC,8827
+7837,Northwestern State University of Louisiana,"Natchitoches, Louisiana","10,979",,Demons/Lady Demons,SLC,8827
+9881,Southeastern Louisiana University,"Hammond, Louisiana","14,327",,Lions/Lady Lions,SLC,8827
+10546,Texas A & M University-Corpus Christi,"Corpus Christi, Texas","11,929",,Islanders,SLC,8827
+466,Alabama A & M University,"Normal, Alabama","6,172",,Bulldogs (men's),SWAC,1593
+468,Alabama State University,"Montgomery, Alabama","4,190",,Hornets (men's),SWAC,1593
+1337,Bethune-Cookman University,"Daytona Beach, Florida","2,901",,Wildcats (men's),SWAC,1593
+3989,Florida Agricultural and Mechanical University,"Tallahassee, Florida","9,626",,Rattlers (men's),SWAC,1593
+5480,Jackson State University,"Jackson, Mississippi","6,375",,Tigers (men's),SWAC,1593
+7051,Mississippi Valley State University,"Itta Bena, Mississippi","2,147",,Delta Devils (men's),SWAC,1593
+491,Alcorn State University,"Lorman, Mississippi","3,523",,Braves (men's),SWAC,1593
+4355,Grambling State University,"Grambling, Louisiana","5,438",,Tigers (men's),SWAC,1593
+8585,Prairie View A & M University,"Prairie View, Texas","9,350",,Panthers (men's),SWAC,1593
+9950,Southern University,"Baton Rouge, Louisiana","7,140",,Jaguars (men's),SWAC,1593
+10571,Texas Southern University,"Houston, Texas","7,524",,Tigers (men's),SWAC,1593
+11194,University of Arkansas at Pine Bluff,"Pine Bluff, Arkansas","2,498",,Golden Lions (men's),SWAC,1593
+341,Abilene Christian University,"Abilene, Texas","5,334","$638,000,000 ",Wildcats,WAC,7676
+1999,California Baptist University,"Riverside, California","11,491","$103,827,086 ",Lancers,WAC,7676
+2422,Chicago State University,"Chicago, Illinois","2,620","$5,157,070 ",Cougars,WAC,7676
+3244,Dixie State College of Utah,"St. George, Utah","12,650","$16,300,000 ",Trailblazers,WAC,7676
+4356,Grand Canyon University,"Phoenix, Arizona","25,000","$21,600,000 ",Antelopes,WAC,7676
+5993,Lamar University,"Beaumont, Texas","17,488","$128,500,000[10]",Cardinals & Lady Cardinals,WAC,7676
+7615,New Mexico State University,"Las Cruces, New Mexico","21,694","$176,266,000 ",Aggies,WAC,7676
+9504,Sam Houston State University,"Huntsville, Texas","21,679","$116,839,000 ",Bearkats,WAC,7676
+9661,Seattle University,"Seattle, Washington","7,755","$241,200,000 ",Redhawks,WAC,7676
+10145,Stephen F Austin State University,"Nacogdoches, Texas","11,946","$81,700,000 ",Lumberjacks & Ladyjacks,WAC,7676
+10456,Tarleton State University,"Stephenville, Texas","13,996","$42,000,000 ",Texans,WAC,7676
+12576,The University of Texas at Rio Grande Valley,"Edinburg, Texas","32,419","$46,130,000 ",Vaqueros,WAC,7676
+11829,Utah Valley University,"Orem, Utah","41,728","$34,800,000 ",Wolverines,WAC,7676
+11082,Eastern Kentucky University,"Richmond, Kentucky","15,816",$54 ,Colonels,OVC,1493
+10335,Pennsylvania State University,,,,,Big Ten,7907
+11622,Brigham Young University,,,,,Independent,5923
+14420,University of Manitoba,,,,,Foreign,1
+15211,Western Michigan University,,,,,MAC,6845
+16002,University of Massachusetts Amherst,,,,,Independent,5923
+16792,Grand Valley State University,,,,,DIV-II,3948
+16381,Navy,,,,,Independent,5923
+16972,Liberty University,,,,,Independent,5923
+17563,University of Connecticut,,,,,Independent,5923
+19092,Bellarmine University,"Louisville, Kentucky","3,369",,Knights,ASUN,5497
+19818,University of Central Arkansas,"Conway, Arkansas","10,869",,Bears & Sugar Bears,ASUN,5497
+20545,Eastern Kentucky University,"Richmond, Kentucky","16,959",,Colonels,ASUN,5497
+21272,Florida Gulf Coast University,"Fort Myers, Florida","15,076",,Eagles,ASUN,5497
+21998,Jacksonville University,"Jacksonville, Florida","4,213",,Dolphins,ASUN,5497
+22725,Jacksonville State University,"Jacksonville, Alabama","9,238",,Gamecocks,ASUN,5497
+23452,Kennesaw State University,"Kennesaw, Georgia","41,181",,Owls,ASUN,5497
+24178,Liberty University,"Lynchburg, Virginia","15,000",,Flames & Lady Flames,ASUN,5497
+24905,Lipscomb University,"Nashville, Tennessee","4,620",,Bisons,ASUN,5497
+25632,University of North Alabama,"Florence, Alabama","7,650",,Lions,ASUN,5497
+26358,University of North Florida,"Jacksonville, Florida","16,309",,Ospreys,ASUN,5497
+27085,Stetson University,"DeLand, Florida","4,330",,Hatters,ASUN,5497
+27995,University of Rhode Island,,,,,CAA,8725
+28760,Saint John's University in Collegeville,,,,,DIV-III,6358

@@ -1,0 +1,291 @@
+i_id,c_id,Institution
+1228,6784,Baylor University
+5388,6784,Iowa State University
+5655,6784,Kansas State University
+8002,6784,Oklahoma State University
+10559,6784,Texas Christian University
+10578,6784,Texas Tech University
+11369,6784,University of Kansas
+11514,6784,University of Oklahoma
+10802,6784,The University of Texas at Austin
+12284,6784,West Virginia University
+11313,8588,University of Florida
+11320,8588,University of Georgia
+11374,8588,University of Kentucky
+11453,8588,University of Missouri
+11674,8588,University of South Carolina
+11713,8588,University of Tennessee
+11915,8588,Vanderbilt University
+10771,8588,The University of Alabama
+11186,8588,University of Arkansas
+893,8588,Auburn University
+6245,8588,Louisiana State University - Baton Rouge
+11450,8588,University of Mississippi
+7049,8588,Mississippi State University
+10551,8588,Texas A&M University
+11257,5440,University of Central Florida
+11265,5440,University of Cincinnati
+3416,5440,East Carolina University
+11347,5440,University of Houston
+11435,5440,University of Memphis
+11684,5440,University of South Florida
+9934,5440,Southern Methodist University
+10498,5440,Temple University
+10986,5440,Tulane University
+11728,5440,University of Tulsa
+12374,5440,Wichita State University
+1430,2061,Boston College
+2527,2061,Clemson University
+4033,2061,Florida State University
+11404,2061,University of Louisville
+7692,2061,North Carolina State University - Raleigh
+11511,2061,University of Notre Dame
+10253,2061,Syracuse University
+12163,2061,Wake Forest University
+3292,2061,Duke University
+4277,2061,Georgia Institute of Technology
+11437,2061,University of Miami
+11495,2061,University of North Carolina at Chapel Hill
+11615,2061,University of Pittsburgh
+11746,2061,University of Virginia
+12006,2061,Virginia Polytechnic Institute and State University
+5216,7907,Indiana University Bloomington
+11423,7907,"University of Maryland, College Park"
+11438,7907,University of Michigan-Ann Arbor
+6916,7907,Michigan State University
+7977,7907,Ohio State University
+8420,7907,Pennsylvania State University
+9080,7907,Rutgers University
+11357,7907,University of Illinois at Urbana-Champaign
+11362,7907,University of Iowa
+11445,7907,"University of Minnesota, Twin Cities"
+11472,7907,University of Nebraska - Lincoln
+7839,7907,Northwestern University
+8651,7907,Purdue University - West Lafayette
+11758,7907,University of Wisconsin - Madison
+11172,2946,University of Alabama at Birmingham
+3990,2946,Florida Atlantic University
+4015,2946,Florida International University
+6256,2946,Louisiana Tech University
+6684,2946,Marshall University
+6939,2946,Middle Tennessee State University
+11496,2946,University of North Carolina at Charlotte
+11503,2946,University of North Texas
+8011,2946,Old Dominion University
+8950,2946,Rice University
+11690,2946,University of Southern Mississippi
+11715,2946,University of Texas at El Paso
+10804,2946,The University of Texas at San Antonio
+12305,2946,Western Kentucky University
+10770,6845,The University of Akron
+1436,6845,Bowling Green State University
+11162,6845,University at Buffalo
+5760,6845,Kent State University
+6897,6845,Miami University-Oxford
+7979,6845,Ohio University
+1165,6845,Ball State University
+2298,6845,Central Michigan University
+3449,6845,Eastern Michigan University
+7777,6845,Northern Illinois University
+11717,6845,University of Toledo
+12306,6845,Western Michigan University
+11092,8019,United States Air Force Academy
+1414,8019,Boise State University
+2032,8019,California State University-Fresno
+2676,8019,Colorado State University
+11481,8019,University of Nevada-Reno
+11480,8019,University of Nevada-Las Vegas
+10786,8019,The University of New Mexico - Albuquerque
+9521,8019,San Diego State University
+9535,8019,San Jose State University
+11826,8019,Utah State University
+11779,8019,University of Wyoming
+11185,4065,University of Arizona
+783,4065,Arizona State University
+11227,4065,"University of California, Berkeley"
+11230,4065,"University of California, Los Angeles"
+11269,4065,University of Colorado Boulder
+11519,4065,University of Oregon
+8055,4065,Oregon State University
+11687,4065,University of Southern California
+10107,4065,Stanford University
+11736,4065,University of Utah
+11751,4065,University of Washington
+12205,4065,Washington State University
+739,6493,Appalachian State University
+796,6493,Arkansas State University
+2560,6493,Coastal Carolina University
+4286,6493,Georgia Southern University
+4288,6493,Georgia State University
+11192,6493,University of Arkansas at Little Rock
+11399,6493,University of Louisiana at Lafayette
+11400,6493,University of Louisiana at Monroe
+11671,6493,University of South Alabama
+10577,6493,Texas State University-San Marcos
+10801,6493,The University of Texas at Arlington
+10974,6493,Troy University
+5215,1825,Indiana State University
+5171,1825,Illinois State University
+7060,1825,Missouri State University
+11501,1825,University of North Dakota
+7709,1825,North Dakota State University
+11508,1825,University of Northern Iowa
+11683,1825,University of South Dakota
+9819,1825,South Dakota State University
+9927,1825,Southern Illinois University Carbondale
+12302,1825,Western Illinois University
+12554,1825,Youngstown State University
+3461,1410,Eastern Washington University
+11355,1410,University of Idaho
+5154,1410,Idaho State University
+10784,1410,The University of Montana
+7096,1410,Montana State University
+7773,1410,Northern Arizona University
+11507,1410,University of Northern Colorado
+8575,1410,Portland State University
+2038,1410,California State University-Sacramento
+9951,1410,Southern Utah University
+12234,1410,Weber State University
+2068,2489,Campbell University
+2388,2489,Charleston Southern University
+4234,2489,Gardner-Webb University
+4586,2489,Hampton University
+4760,2489,High Point University
+6222,2489,Longwood University
+7689,2489,North Carolina A & T State University
+8595,2489,Presbyterian College
+8836,2489,Radford University
+11494,2489,University of North Carolina at Asheville
+11682,2489,University of South Carolina-Upstate
+12419,2489,Winthrop University
+2607,8725,College of Charleston
+11293,8725,University of Delaware
+3032,8725,Drexel University
+3542,8725,Elon University
+4789,8725,Hofstra University
+5491,8725,James Madison University
+7770,8725,Northeastern University
+10898,8725,Towson University
+11499,8725,University of North Carolina at Wilmington
+2643,8725,College of William and Mary
+1542,10209,Brown University
+2705,10209,Columbia University
+2832,10209,Cornell University
+3081,10209,Dartmouth College
+4659,10209,Harvard University
+11536,10209,University of Pennsylvania
+8606,10209,Princeton University
+12510,10209,Yale University
+2824,5741,Coppin State University
+3177,5741,Delaware State University
+4841,5741,Howard University
+11420,5741,University of Maryland Eastern Shore
+7134,5741,Morgan State University
+7679,5741,Norfolk State University
+7690,5741,North Carolina Central University
+9809,5741,South Carolina State University
+1556,3381,Bryant University
+2286,3381,Central Connecticut State University
+3895,3381,Fairleigh Dickinson University
+6217,3381,Long Island University
+6859,3381,Merrimack College
+7166,3381,Mount St. Mary's University
+9396,3381,Sacred Heart University
+10090,3381,St. Francis College
+9420,3381,Saint Francis University
+12162,3381,Wagner College
+919,3381,Austin Peay State University
+3442,1493,Eastern Illinois University
+7214,1493,Murray State University
+9863,1493,Southeast Missouri State University
+10507,1493,Tennessee State University
+10508,1493,Tennessee Technological University
+10793,1493,The University of Tennessee
+654,5961,American University
+11095,5961,United States Military Academy
+1432,5961,Boston University
+1582,5961,Bucknell University
+2590,5961,Colgate University
+2649,5961,College of the Holy Cross
+5961,5961,Lafayette College
+6095,5961,Lehigh University
+6271,5961,Loyola University Maryland
+11096,5961,United States Naval Academy
+1606,4593,Butler University
+3091,4593,Davidson College
+11291,4593,University of Dayton
+3280,4593,Drake University
+6675,4593,Marist College
+7130,4593,Morehead State University
+8595,4593,Presbyterian College
+11697,4593,University of St Thomas
+11654,4593,University of San Diego
+10149,4593,Stetson University
+11913,4593,Valparaiso University
+10793,3853,The University of Tennessee at Chattanooga
+2476,3853,Citadel Military College of South Carolina
+3427,3853,East Tennessee State University
+4146,3853,Furman University
+6833,3853,Mercer University
+9506,3853,Samford University
+11497,3853,University of North Carolina at Greensboro
+12005,3853,Virginia Military Institute
+12296,3853,Western Carolina University
+12428,3853,Wofford College
+4830,8827,Houston Baptist University
+11789,8827,University of the Incarnate Word
+6761,8827,McNeese State University
+11489,8827,University of New Orleans
+7666,8827,Nicholls State University
+7837,8827,Northwestern State University of Louisiana
+9881,8827,Southeastern Louisiana University
+10546,8827,Texas A & M University-Corpus Christi
+466,1593,Alabama A & M University
+468,1593,Alabama State University
+1337,1593,Bethune-Cookman University
+3989,1593,Florida Agricultural and Mechanical University
+5480,1593,Jackson State University
+7051,1593,Mississippi Valley State University
+491,1593,Alcorn State University
+4355,1593,Grambling State University
+8585,1593,Prairie View A & M University
+9950,1593,Southern University
+10571,1593,Texas Southern University
+11194,1593,University of Arkansas at Pine Bluff
+341,7676,Abilene Christian University
+1999,7676,California Baptist University
+2422,7676,Chicago State University
+3244,7676,Dixie State College of Utah
+4356,7676,Grand Canyon University
+5993,7676,Lamar University
+7615,7676,New Mexico State University
+9504,7676,Sam Houston State University
+9661,7676,Seattle University
+10145,7676,Stephen F Austin State University
+10456,7676,Tarleton State University
+12576,7676,The University of Texas at Rio Grande Valley
+11829,7676,Utah Valley University
+11082,1493,Eastern Kentucky University
+10335,7907,Pennsylvania State University
+11622,5923,Brigham Young University
+14420,1,University of Manitoba
+15211,6845,Western Michigan University
+16002,5923,University of Massachusetts Amherst
+16792,3948,Grand Valley State University
+16381,5923,Navy
+16972,5923,Liberty University
+17563,5923,University of Connecticut
+19092,5497,Bellarmine University
+19818,5497,University of Central Arkansas
+20545,5497,Eastern Kentucky University
+21272,5497,Florida Gulf Coast University
+21998,5497,Jacksonville University
+22725,5497,Jacksonville State University
+23452,5497,Kennesaw State University
+24178,5497,Liberty University
+24905,5497,Lipscomb University
+25632,5497,University of North Alabama
+26358,5497,University of North Florida
+27085,5497,Stetson University
+27995,8725,University of Rhode Island
+28760,6358,Saint John's University in Collegeville
