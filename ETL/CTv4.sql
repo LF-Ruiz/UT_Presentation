@@ -59,10 +59,7 @@ CREATE TABLE "ncaa_conferences" (
 CREATE TABLE "ncaa_teams" (
     "i_id" INT   NOT NULL,
     "c_id" INT   NOT NULL,
-    "t_name" VARCHAR   NOT NULL,
-    "number_players" INT,
-    "revenue" FLOAT,
-    "year" INT
+    "t_name" VARCHAR   NOT NULL
 );
 
 CREATE TABLE "nba_player" (

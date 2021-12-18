@@ -10011,6 +10011,7 @@ i_id,city,state,zip
 10547,Galveston,TX,77554
 10548,Kingsville,TX,78363
 10549,Texarkana,TX,75505
+10551,Texas A&M University,TX,77843
 10550,College Station,TX,77840
 10552,Houston,TX,77063
 10553,Houston,TX,77063
@@ -11587,3 +11588,35 @@ i_id,city,state,zip
 12568,Berkeley,CA,94704
 12574,Barrington,RI,2806
 12575,Plainfield,NJ,7060
+10551,College Station,TX,77843
+11227,Berkeley,CA,94720
+11615,Pittsburgh,PA,15260
+11265,Cincinnati,OH,45221
+11445,Minneapolis,MN,55455
+11674,Columbia,SC,29208
+11453,University,MS,38677
+4277,Atlanta,GA,30332
+6245,Baton Rouge,LA,70803
+16381,Maryland,VA,21402
+7615,Las Cruces,NM,88003
+7692,Raleigh,NC,27695
+7979,Athens,OH,45701-297
+8002,Stillwater,OK,74078
+11758,Madison,WI,53706
+11751,Seattle,WA,98195
+11746,Charlottesville, VA ,22904
+11715,El Paso,TX,79968
+11713,Knoxville,TN,37996
+11514,Norman,OK,73019
+11472,Amherst,MA,1003
+11429,Lincoln,NE, 68588
+11423,College Park,MD,20742
+11357,Champaign,IL,61801
+11230,LOS ANGELES,CA,90095
+11986,New Orleans,LA,70118
+10804,San Antonio,TX,78249
+8420,University Park,PA,16802
+8651,West Lafayette,IN,47907
+9080,Piscataway,NJ,8854
+10770,Akron,OH,44325
+10786,Albuquerque,NM,87131
