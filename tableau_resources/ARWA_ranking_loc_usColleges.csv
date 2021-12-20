@@ -1,485 +1,485 @@
-"institution","wranking","nranking","year","city","state","zip"
-"Harvard University",1,1,2016,"Cambridge","MA","2138"
-"Harvard University",1,1,2017,"Cambridge","MA","2138"
-"Harvard University",1,1,2018,"Cambridge","MA","2138"
-"Harvard University",1,1,2019,"Cambridge","MA","2138"
-"Harvard University",1,1,2020,"Cambridge","MA","2138"
-"Stanford University",2,2,2016,"Stanford","CA","94305"
-"Stanford University",2,2,2017,"Stanford","CA","94305"
-"Stanford University",2,2,2018,"Stanford","CA","94305"
-"Stanford University",2,2,2019,"Stanford","CA","94305"
-"Stanford University",2,2,2020,"Stanford","CA","94305"
-"Princeton University",6,5,2016,"Princeton","NJ","08544-007"
-"Princeton University",6,5,2017,"Princeton","NJ","08544-007"
-"Princeton University",6,5,2018,"Princeton","NJ","08544-007"
-"Princeton University",6,5,2019,"Princeton","NJ","08544-007"
-"Princeton University",6,5,2020,"Princeton","NJ","08544-007"
-"California Institute of Technology",8,6,2016,"Pasadena","CA","91125"
-"California Institute of Technology",8,7,2020,"Pasadena","CA","91125"
-"California Institute of Technology",9,7,2017,"Pasadena","CA","91125"
-"California Institute of Technology",9,7,2018,"Pasadena","CA","91125"
-"California Institute of Technology",9,7,2019,"Pasadena","CA","91125"
-"University of Chicago",10,8,2016,"Chicago","IL","60637"
-"University of Chicago",10,8,2017,"Chicago","IL","60637"
-"University of Chicago",10,8,2018,"Chicago","IL","60637"
-"University of Chicago",10,8,2019,"Chicago","IL","60637"
-"University of Chicago",10,8,2020,"Chicago","IL","60637"
-"Yale University",11,9,2016,"New Haven","CT","6520"
-"Yale University",11,9,2017,"New Haven","CT","6520"
-"Yale University",11,9,2019,"New Haven","CT","6520"
-"Yale University",11,9,2020,"New Haven","CT","6520"
-"Cornell University",12,10,2018,"Ithaca","NY","14853"
-"Yale University",12,10,2018,"New Haven","CT","6520"
-"Cornell University",12,10,2020,"Ithaca","NY","14853"
-"Cornell University",13,11,2016,"Ithaca","NY","14853"
-"Cornell University",13,11,2019,"Ithaca","NY","14853"
-"Cornell University",14,12,2017,"Ithaca","NY","14853"
-"Johns Hopkins University",15,12,2020,"Baltimore","MD","21218-268"
-"Johns Hopkins University",16,14,2016,"Baltimore","MD","21218-268"
-"University of Pennsylvania",16,14,2018,"Philadelphia","PA","19104-630"
-"Johns Hopkins University",16,13,2019,"Baltimore","MD","21218-268"
-"University of Pennsylvania",17,14,2017,"Philadelphia","PA","19104-630"
-"University of Pennsylvania",17,14,2019,"Philadelphia","PA","19104-630"
-"University of Pennsylvania",18,15,2016,"Philadelphia","PA","19104-630"
-"Johns Hopkins University",18,15,2017,"Baltimore","MD","21218-268"
-"Johns Hopkins University",18,15,2018,"Baltimore","MD","21218-268"
-"University of Pennsylvania",19,15,2020,"Philadelphia","PA","19104-630"
-"University of Michigan-Ann Arbor",20,16,2019,"Ann Arbor","MI","48109"
-"Northwestern University",22,18,2017,"Evanston","IL","60208"
-"University of Michigan-Ann Arbor",22,17,2020,"Ann Arbor","MI","48109"
-"University of Michigan-Ann Arbor",23,17,2016,"Ann Arbor","MI","48109"
-"University of Michigan-Ann Arbor",24,19,2017,"Ann Arbor","MI","48109"
-"Duke University",25,19,2016,"Durham","NC","27708"
-"Northwestern University",25,18,2018,"Evanston","IL","60208"
-"Northwestern University",26,20,2016,"Evanston","IL","60208"
-"Duke University",26,20,2017,"Durham","NC","27708"
-"Duke University",26,19,2018,"Durham","NC","27708"
-"University of Michigan-Ann Arbor",27,20,2018,"Ann Arbor","MI","48109"
-"Duke University",27,19,2020,"Durham","NC","27708"
-"New York University",27,19,2020,"New York","NY","10012-109"
-"Duke University",28,20,2019,"Durham","NC","27708"
-"New York University",29,22,2016,"New York","NY","10012-109"
-"New York University",29,22,2017,"New York","NY","10012-109"
-"Northwestern University",29,21,2019,"Evanston","IL","60208"
-"University of North Carolina at Chapel Hill",30,22,2018,"Chapel Hill","NC","27599"
-"Rockefeller University",30,22,2018,"New York","NY","10021-639"
-"New York University",30,22,2019,"New York","NY","10012-109"
-"University of North Carolina at Chapel Hill",30,21,2020,"Chapel Hill","NC","27599"
-"Northwestern University",30,21,2020,"Evanston","IL","60208"
-"New York University",32,24,2018,"New York","NY","10012-109"
-"University of North Carolina at Chapel Hill",33,23,2017,"Chapel Hill","NC","27599"
-"University of North Carolina at Chapel Hill",33,23,2019,"Chapel Hill","NC","27599"
-"University of North Carolina at Chapel Hill",35,25,2016,"Chapel Hill","NC","27599"
-"Rockefeller University",35,24,2019,"New York","NY","10021-639"
-"Rockefeller University",36,25,2017,"New York","NY","10021-639"
-"Rockefeller University",37,26,2016,"New York","NY","10021-639"
-"University of Colorado at Boulder",38,27,2016,"Boulder","CO","80309-001"
-"University of Colorado at Boulder",38,26,2018,"Boulder","CO","80309-001"
-"University of Colorado at Boulder",38,25,2019,"Boulder","CO","80309-001"
-"The University of Texas at Austin",40,27,2018,"Austin","TX","78712"
-"The University of Texas at Austin",41,25,2020,"Austin","TX","78712"
-"Heidelberg University",42,1,2017,"Tiffin","OH","44883-2462"
-"University of Colorado at Boulder",43,27,2017,"Boulder","CO","80309-001"
-"Rockefeller University",43,26,2020,"New York","NY","10021-639"
-"The University of Texas at Austin",44,30,2016,"Austin","TX","78712"
-"University of Colorado at Boulder",44,27,2020,"Boulder","CO","80309-001"
-"The University of Texas at Austin",45,28,2019,"Austin","TX","78712"
-"Heidelberg University",47,1,2016,"Tiffin","OH","44883-2462"
-"Heidelberg University",47,1,2018,"Tiffin","OH","44883-2462"
-"Heidelberg University",47,1,2019,"Tiffin","OH","44883-2462"
-"University of Southern California",49,31,2016,"Los Angeles","CA","90089"
-"Vanderbilt University",50,31,2018,"Nashville","TN","37240"
-"The University of Texas at Austin",51,30,2017,"Austin","TX","78712"
-"Vanderbilt University",52,31,2017,"Nashville","TN","37240"
-"University of Southern California",54,33,2017,"Los Angeles","CA","90089"
-"University of Southern California",55,32,2019,"Los Angeles","CA","90089"
-"Vanderbilt University",55,32,2019,"Nashville","TN","37240"
-"Heidelberg University",57,3,2020,"Tiffin","OH","44883-2462"
-"Vanderbilt University",60,34,2016,"Nashville","TN","37240"
-"University of Southern California",60,33,2018,"Los Angeles","CA","90089"
-"University of Southern California",61,32,2020,"Los Angeles","CA","90089"
-"Vanderbilt University",62,33,2020,"Nashville","TN","37240"
-"Carnegie Mellon University",68,36,2016,"Pittsburgh","PA","15213-389"
-"Boston University",70,34,2018,"Boston","MA","2215"
-"Rice University",70,34,2018,"Houston","TX","77005"
-"Rice University",72,38,2016,"Houston","TX","77005"
-"Rice University",74,37,2017,"Houston","TX","77005"
-"Boston University",75,39,2016,"Boston","MA","2215"
-"Boston University",76,36,2019,"Boston","MA","2215"
-"Carnegie Mellon University",80,40,2017,"Pittsburgh","PA","15213-389"
-"Boston University",80,40,2017,"Boston","MA","2215"
-"Brown University",84,38,2019,"Providence","RI","2912"
-"University of Florida",86,41,2018,"Gainesville","FL","32611"
-"University of Florida",88,46,2017,"Gainesville","FL","32611"
-"University of Florida",88,37,2020,"Gainesville","FL","32611"
-"University of Florida",90,45,2016,"Gainesville","FL","32611"
-"Brown University",90,45,2016,"Providence","RI","2912"
-"Boston University",90,38,2020,"Boston","MA","2215"
-"Carnegie Mellon University",91,43,2018,"Pittsburgh","PA","15213-389"
-"University of Florida",95,41,2019,"Gainesville","FL","32611"
-"Rice University",95,41,2019,"Houston","TX","77005"
-"Carnegie Mellon University",95,41,2019,"Pittsburgh","PA","15213-389"
-"Carnegie Mellon University",95,40,2020,"Pittsburgh","PA","15213-389"
-"University of Arizona",99,48,2017,"Tucson","AZ","85721-006"
-"University of Utah",100,50,2016,"Salt Lake City","UT","84112-900"
-"Emory University",101,51,2016,"Atlanta","GA","30322"
-"University of Rochester",101,51,2016,"Rochester","NY","14627-001"
-"Baylor College of Medicine",101,51,2016,"Houston","TX","77030-349"
-"Tufts University",101,51,2016,"Medford","MA","02155-555"
-"Case Western Reserve University",101,51,2016,"Cleveland","OH","44106"
-"University of Arizona",101,51,2016,"Tucson","AZ","85721-006"
-"Arizona State University",101,51,2016,"Tempe","AZ","85287"
-"Michigan State University",101,51,2016,"East Lansing","MI","48824-104"
-"University of Rochester",101,49,2017,"Rochester","NY","14627-001"
-"Baylor College of Medicine",101,49,2017,"Houston","TX","77030-349"
-"Brown University",101,49,2017,"Providence","RI","2912"
-"Case Western Reserve University",101,49,2017,"Cleveland","OH","44106"
-"Emory University",101,49,2017,"Atlanta","GA","30322"
-"University of Utah",101,49,2017,"Salt Lake City","UT","84112-900"
-"Michigan State University",101,49,2017,"East Lansing","MI","48824-104"
-"Arizona State University",101,49,2017,"Tempe","AZ","85287"
-"Case Western Reserve University",101,47,2018,"Cleveland","OH","44106"
-"Baylor College of Medicine",101,47,2018,"Houston","TX","77030-349"
-"Michigan State University",101,47,2018,"East Lansing","MI","48824-104"
-"Emory University",101,47,2018,"Atlanta","GA","30322"
-"University of Utah",101,47,2018,"Salt Lake City","UT","84112-900"
-"Brown University",101,47,2018,"Providence","RI","2912"
-"University of Arizona",101,47,2018,"Tucson","AZ","85721-006"
-"Arizona State University",101,47,2018,"Tempe","AZ","85287"
-"Case Western Reserve University",101,46,2019,"Cleveland","OH","44106"
-"University of Arizona",101,46,2019,"Tucson","AZ","85721-006"
-"University of Utah",101,46,2019,"Salt Lake City","UT","84112-900"
-"Emory University",101,46,2019,"Atlanta","GA","30322"
-"Michigan State University",101,46,2019,"East Lansing","MI","48824-104"
-"Baylor College of Medicine",101,46,2019,"Houston","TX","77030-349"
-"Arizona State University",101,46,2019,"Tempe","AZ","85287"
-"Emory University",101,42,2020,"Atlanta","GA","30322"
-"University of Utah",101,42,2020,"Salt Lake City","UT","84112-900"
-"University of Arizona",101,42,2020,"Tucson","AZ","85721-006"
-"Brown University",101,42,2020,"Providence","RI","2912"
-"Case Western Reserve University",101,42,2020,"Cleveland","OH","44106"
-"Michigan State University",101,42,2020,"East Lansing","MI","48824-104"
-"Rice University",101,42,2020,"Houston","TX","77005"
-"Arizona State University",101,42,2020,"Tempe","AZ","85287"
-"University of Miami",151,62,2016,"Coral Gables","FL","33124"
-"University of Delaware",151,62,2016,"Newark","DE","19716"
-"University of Hawaii at Manoa",151,62,2016,"Honolulu","HI","96822-230"
-"Oregon State University",151,62,2016,"Corvallis","OR","97331"
-"University of Iowa",151,62,2016,"Iowa City","IA","52242-131"
-"University of Iowa",151,61,2017,"Iowa City","IA","52242-131"
-"University of Miami",151,61,2017,"Coral Gables","FL","33124"
-"Tufts University",151,61,2017,"Medford","MA","02155-555"
-"Oregon State University",151,61,2017,"Corvallis","OR","97331"
-"University of Delaware",151,61,2017,"Newark","DE","19716"
-"University of Iowa",151,59,2018,"Iowa City","IA","52242-131"
-"Oregon State University",151,59,2018,"Corvallis","OR","97331"
-"University of Rochester",151,59,2018,"Rochester","NY","14627-001"
-"Tufts University",151,59,2018,"Medford","MA","02155-555"
-"Tufts University",151,59,2019,"Medford","MA","02155-555"
-"University of Rochester",151,59,2019,"Rochester","NY","14627-001"
-"University of Rochester",151,57,2020,"Rochester","NY","14627-001"
-"Baylor College of Medicine",151,57,2020,"Houston","TX","77030-349"
-"Tufts University",151,57,2020,"Medford","MA","02155-555"
-"University of Illinois at Chicago",201,72,2016,"Chicago","IL","60607"
-"University of Houston",201,72,2016,"Houston","TX","77204-201"
-"Medical University of South Carolina",201,72,2016,"Charleston","SC","29425-010"
-"Iowa State University",201,72,2016,"Ames","IA","50011"
-"University of Notre Dame",201,72,2016,"Notre Dame","IN","46556"
-"George Mason University",201,72,2016,"Fairfax","VA","22030-444"
-"Florida State University",201,72,2016,"Tallahassee","FL","32306-103"
-"Northeastern University",201,72,2016,"Boston","MA","2115"
-"Yeshiva University",201,72,2016,"New York","NY","10033-329"
-"Dartmouth College",201,72,2016,"Hanover","NH","03755-352"
-"University of South Florida",201,72,2016,"Tampa","FL","33620-995"
-"Colorado State University",201,72,2016,"Fort Collins","CO","80523-010"
-"Virginia Commonwealth University",201,72,2016,"Richmond","VA","23284-251"
-"University of Alabama at Birmingham",201,72,2016,"Birmingham","AL","35294-011"
-"Brandeis University",201,72,2016,"Waltham","MA","02454-911"
-"University of Kansas",201,72,2016,"Lawrence","KS","66045"
-"Stony Brook University",201,72,2016,"Stony Brook","NY","11794"
-"Colorado State University",201,71,2017,"Fort Collins","CO","80523-010"
-"University of Notre Dame",201,71,2017,"Notre Dame","IN","46556"
-"Stony Brook University",201,71,2017,"Stony Brook","NY","11794"
-"Virginia Commonwealth University",201,71,2017,"Richmond","VA","23284-251"
-"University of Alabama at Birmingham",201,71,2017,"Birmingham","AL","35294-011"
-"University of Kansas",201,71,2017,"Lawrence","KS","66045"
-"University of Oregon",201,71,2017,"Eugene","OR","97403"
-"Medical University of South Carolina",201,71,2017,"Charleston","SC","29425-010"
-"Iowa State University",201,71,2017,"Ames","IA","50011"
-"University of Houston",201,71,2017,"Houston","TX","77204-201"
-"University of Illinois at Chicago",201,71,2017,"Chicago","IL","60607"
-"Dartmouth College",201,71,2017,"Hanover","NH","03755-352"
-"Yeshiva University",201,71,2017,"New York","NY","10033-329"
-"Georgetown University",201,71,2017,"Washington","DC","20057"
-"Florida State University",201,71,2017,"Tallahassee","FL","32306-103"
-"University of Hawaii at Manoa",201,71,2017,"Honolulu","HI","96822-230"
-"University of South Florida",201,71,2017,"Tampa","FL","33620-995"
-"George Mason University",201,71,2017,"Fairfax","VA","22030-444"
-"University of Alabama at Birmingham",201,70,2018,"Birmingham","AL","35294-011"
-"Colorado State University",201,70,2018,"Fort Collins","CO","80523-010"
-"Brandeis University",201,70,2018,"Waltham","MA","02454-911"
-"University of Miami",201,70,2018,"Coral Gables","FL","33124"
-"George Mason University",201,70,2018,"Fairfax","VA","22030-444"
-"University of Delaware",201,70,2018,"Newark","DE","19716"
-"Virginia Polytechnic Institute and State University",201,70,2018,"Blacksburg","VA","24061-013"
-"Virginia Commonwealth University",201,70,2018,"Richmond","VA","23284-251"
-"University of Notre Dame",201,70,2018,"Notre Dame","IN","46556"
-"Iowa State University",201,70,2018,"Ames","IA","50011"
-"Georgetown University",201,70,2018,"Washington","DC","20057"
-"University of South Florida",201,70,2018,"Tampa","FL","33620-995"
-"University of Kansas",201,70,2018,"Lawrence","KS","66045"
-"University of Hawaii at Manoa",201,70,2018,"Honolulu","HI","96822-230"
-"University of Houston",201,70,2018,"Houston","TX","77204-201"
-"Dartmouth College",201,70,2018,"Hanover","NH","03755-352"
-"University of Illinois at Chicago",201,70,2018,"Chicago","IL","60607"
-"Florida State University",201,70,2018,"Tallahassee","FL","32306-103"
-"Iowa State University",201,67,2019,"Ames","IA","50011"
-"University of South Florida",201,67,2019,"Tampa","FL","33620-995"
-"George Mason University",201,67,2019,"Fairfax","VA","22030-444"
-"Florida State University",201,67,2019,"Tallahassee","FL","32306-103"
-"Oregon State University",201,67,2019,"Corvallis","OR","97331"
-"University of Miami",201,67,2019,"Coral Gables","FL","33124"
-"Colorado State University",201,67,2019,"Fort Collins","CO","80523-010"
-"Virginia Commonwealth University",201,67,2019,"Richmond","VA","23284-251"
-"University of Kansas",201,67,2019,"Lawrence","KS","66045"
-"University of Iowa",201,67,2019,"Iowa City","IA","52242-131"
-"Stony Brook University",201,67,2019,"Stony Brook","NY","11794"
-"University of Illinois at Chicago",201,67,2019,"Chicago","IL","60607"
-"University of Houston",201,67,2019,"Houston","TX","77204-201"
-"Virginia Polytechnic Institute and State University",201,67,2019,"Blacksburg","VA","24061-013"
-"University of Hawaii at Manoa",201,67,2019,"Honolulu","HI","96822-230"
-"University of Alabama at Birmingham",201,67,2019,"Birmingham","AL","35294-011"
-"University of Delaware",201,67,2019,"Newark","DE","19716"
-"Yeshiva University",201,67,2019,"New York","NY","10033-329"
-"University of Connecticut",201,67,2019,"Storrs","CT","6269"
-"Georgetown University",201,66,2020,"Washington","DC","20057"
-"Iowa State University",201,66,2020,"Ames","IA","50011"
-"University of Miami",201,66,2020,"Coral Gables","FL","33124"
-"Oregon State University",201,66,2020,"Corvallis","OR","97331"
-"University of Delaware",201,66,2020,"Newark","DE","19716"
-"Dartmouth College",201,66,2020,"Hanover","NH","03755-352"
-"University of Illinois at Chicago",201,66,2020,"Chicago","IL","60607"
-"Florida State University",201,66,2020,"Tallahassee","FL","32306-103"
-"University of Houston",201,66,2020,"Houston","TX","77204-201"
-"Virginia Polytechnic Institute and State University",201,66,2020,"Blacksburg","VA","24061-013"
-"University of Iowa",201,66,2020,"Iowa City","IA","52242-131"
-"University of Kansas",201,66,2020,"Lawrence","KS","66045"
-"University of Connecticut",201,66,2020,"Storrs","CT","6269"
-"George Mason University",201,66,2020,"Fairfax","VA","22030-444"
-"Stony Brook University",201,66,2020,"Stony Brook","NY","11794"
-"Virginia Commonwealth University",201,66,2020,"Richmond","VA","23284-251"
-"Colorado State University",201,66,2020,"Fort Collins","CO","80523-010"
-"University of South Florida",201,66,2020,"Tampa","FL","33620-995"
-"Yeshiva University",201,66,2020,"New York","NY","10033-329"
-"Georgetown University",301,99,2016,"Washington","DC","20057"
-"Thomas Jefferson University",301,99,2016,"Philadelphia","PA","19107"
-"University of Connecticut",301,99,2016,"Storrs","CT","6269"
-"Virginia Polytechnic Institute and State University",301,99,2016,"Blacksburg","VA","24061-013"
-"University of Kentucky",301,99,2016,"Lexington","KY","40506-003"
-"Rush University",301,99,2016,"Chicago","IL","60612"
-"Boston College",301,99,2016,"Chestnut Hill","MA","2467"
-"University of Vermont",301,99,2016,"Burlington","VT","05405-016"
-"University of North Texas",301,99,2016,"Denton","TX","76203-127"
-"University of Oregon",301,99,2016,"Eugene","OR","97403"
-"Wayne State University",301,99,2016,"Detroit","MI","48202"
-"Temple University",301,99,2016,"Philadelphia","PA","19122-609"
-"University of North Texas",301,100,2017,"Denton","TX","76203-127"
-"University of Connecticut",301,100,2017,"Storrs","CT","6269"
-"Virginia Polytechnic Institute and State University",301,100,2017,"Blacksburg","VA","24061-013"
-"University of Kentucky",301,100,2017,"Lexington","KY","40506-003"
-"Brandeis University",301,100,2017,"Waltham","MA","02454-911"
-"Brigham Young University",301,100,2017,"Provo","UT","84602"
-"Temple University",301,100,2017,"Philadelphia","PA","19122-609"
-"University of Vermont",301,100,2017,"Burlington","VT","05405-016"
-"Boston College",301,100,2017,"Chestnut Hill","MA","2467"
-"Wayne State University",301,100,2017,"Detroit","MI","48202"
-"University of Central Florida",301,100,2017,"Orlando","FL","32816"
-"University of Vermont",301,96,2018,"Burlington","VT","05405-016"
-"Boston College",301,96,2018,"Chestnut Hill","MA","2467"
-"Medical University of South Carolina",301,96,2018,"Charleston","SC","29425-010"
-"Stony Brook University",301,96,2018,"Stony Brook","NY","11794"
-"Temple University",301,96,2018,"Philadelphia","PA","19122-609"
-"University of Central Florida",301,96,2018,"Orlando","FL","32816"
-"University of Connecticut",301,96,2018,"Storrs","CT","6269"
-"University of Kentucky",301,96,2018,"Lexington","KY","40506-003"
-"University of North Texas",301,96,2018,"Denton","TX","76203-127"
-"University of Oregon",301,96,2018,"Eugene","OR","97403"
-"Washington State University",301,96,2018,"Pullman","WA","99164-100"
-"Yeshiva University",301,96,2018,"New York","NY","10033-329"
-"University of Notre Dame",301,95,2019,"Notre Dame","IN","46556"
-"University of Central Florida",301,95,2019,"Orlando","FL","32816"
-"Brandeis University",301,95,2019,"Waltham","MA","02454-911"
-"Washington State University",301,95,2019,"Pullman","WA","99164-100"
-"Georgetown University",301,95,2019,"Washington","DC","20057"
-"Rensselaer Polytechnic Institute",301,95,2019,"Troy","NY","12180-359"
-"Temple University",301,95,2019,"Philadelphia","PA","19122-609"
-"Kansas State University",301,95,2019,"Manhattan","KS","66506"
-"Dartmouth College",301,95,2019,"Hanover","NH","03755-352"
-"University of Vermont",301,95,2019,"Burlington","VT","05405-016"
-"University of Kentucky",301,95,2019,"Lexington","KY","40506-003"
-"University of Oregon",301,95,2019,"Eugene","OR","97403"
-"University of Kentucky",301,95,2020,"Lexington","KY","40506-003"
-"University of Alabama at Birmingham",301,95,2020,"Birmingham","AL","35294-011"
-"University of Oregon",301,95,2020,"Eugene","OR","97403"
-"Medical University of South Carolina",301,95,2020,"Charleston","SC","29425-010"
-"University of Hawaii at Manoa",301,95,2020,"Honolulu","HI","96822-230"
-"University of Vermont",301,95,2020,"Burlington","VT","05405-016"
-"Temple University",301,95,2020,"Philadelphia","PA","19122-609"
-"University of Notre Dame",301,95,2020,"Notre Dame","IN","46556"
-"Brandeis University",301,95,2020,"Waltham","MA","02454-911"
-"Washington State University",301,95,2020,"Pullman","WA","99164-100"
-"University of Central Florida",301,95,2020,"Orlando","FL","32816"
-"Rensselaer Polytechnic Institute",401,120,2016,"Troy","NY","12180-359"
-"Utah State University",401,120,2016,"Logan","UT","84322-140"
-"San Diego State University",401,120,2016,"San Diego","CA","92182"
-"Florida International University",401,120,2016,"Miami","FL","33199"
-"University of Central Florida",401,120,2016,"Orlando","FL","32816"
-"Texas Tech University",401,120,2016,"Lubbock","TX","79409-500"
-"Washington State University",401,120,2016,"Pullman","WA","99164-100"
-"Brigham Young University",401,120,2016,"Provo","UT","84602"
-"Wake Forest University",401,120,2016,"Winston Salem","NC","27106"
-"University of Wyoming",401,120,2016,"Laramie","WY","82071"
-"West Virginia University",401,120,2016,"Morgantown","WV","26506-620"
-"Thomas Jefferson University",401,120,2017,"Philadelphia","PA","19107"
-"West Virginia University",401,120,2017,"Morgantown","WV","26506-620"
-"Washington State University",401,120,2017,"Pullman","WA","99164-100"
-"Rush University",401,120,2017,"Chicago","IL","60612"
-"Northwest University",401,34,2017,"Kirkland","WA","98083-057"
-"Concordia University",401,18,2017,"Portland","OR","97211-609"
-"University of Wyoming",401,120,2017,"Laramie","WY","82071"
-"Florida International University",401,120,2017,"Miami","FL","33199"
-"University of Maine",401,118,2018,"Orono","ME","4469"
-"Wayne State University",401,118,2018,"Detroit","MI","48202"
-"West Virginia University",401,118,2018,"Morgantown","WV","26506-620"
-"Brigham Young University",401,118,2018,"Provo","UT","84602"
-"Utah State University",401,118,2018,"Logan","UT","84322-140"
-"University of Wyoming",401,118,2018,"Laramie","WY","82071"
-"Texas Tech University",401,118,2018,"Lubbock","TX","79409-500"
-"University of Wisconsin-Milwaukee",401,118,2018,"Milwaukee","WI","53211"
-"Thomas Jefferson University",401,118,2018,"Philadelphia","PA","19107"
-"Kansas State University",401,118,2018,"Manhattan","KS","66506"
-"Florida International University",401,118,2018,"Miami","FL","33199"
-"Mississippi State University",401,118,2018,"Mississippi State","MS","39762"
-"Rush University",401,118,2018,"Chicago","IL","60612"
-"University of Wyoming",401,117,2019,"Laramie","WY","82071"
-"Thomas Jefferson University",401,117,2019,"Philadelphia","PA","19107"
-"Utah State University",401,117,2019,"Logan","UT","84322-140"
-"Wayne State University",401,117,2019,"Detroit","MI","48202"
-"Wake Forest University",401,117,2019,"Winston Salem","NC","27106"
-"Boston College",401,117,2019,"Chestnut Hill","MA","2467"
-"West Virginia University",401,117,2019,"Morgantown","WV","26506-620"
-"Medical University of South Carolina",401,117,2019,"Charleston","SC","29425-010"
-"Brigham Young University",401,117,2019,"Provo","UT","84602"
-"University of North Texas",401,117,2019,"Denton","TX","76203-127"
-"Florida International University",401,117,2019,"Miami","FL","33199"
-"Clemson University",401,117,2019,"Clemson","SC","29634"
-"Brigham Young University",401,115,2020,"Provo","UT","84602"
-"Wake Forest University",401,115,2020,"Winston Salem","NC","27106"
-"Utah State University",401,115,2020,"Logan","UT","84322-140"
-"West Virginia University",401,115,2020,"Morgantown","WV","26506-620"
-"San Diego State University",401,115,2020,"San Diego","CA","92182"
-"Georgia State University",401,115,2020,"Atlanta","GA","30302-308"
-"University of California-Merced",401,115,2020,"Merced","CA","95343"
-"University of North Texas",401,115,2020,"Denton","TX","76203-127"
-"Texas Tech University",401,115,2020,"Lubbock","TX","79409-500"
-"Florida International University",401,115,2020,"Miami","FL","33199"
-"University of Maine",401,115,2020,"Orono","ME","4469"
-"Rensselaer Polytechnic Institute",401,115,2020,"Troy","NY","12180-359"
-"Kansas State University",401,115,2020,"Manhattan","KS","66506"
-"Montana State University",501,138,2019,"Bozeman","MT","59717"
-"Texas Tech University",501,138,2019,"Lubbock","TX","79409-500"
-"Southern Methodist University",501,138,2019,"Dallas","TX","75275-022"
-"San Diego State University",501,138,2019,"San Diego","CA","92182"
-"Rush University",501,138,2019,"Chicago","IL","60612"
-"Baylor University",501,138,2019,"Waco","TX","76798"
-"University of Maine",501,138,2019,"Orono","ME","4469"
-"Northern Arizona University",501,138,2019,"Flagstaff","AZ","86011-413"
-"Mississippi State University",501,138,2019,"Mississippi State","MS","39762"
-"Georgia State University",501,138,2019,"Atlanta","GA","30302-308"
-"Auburn University",501,138,2019,"Auburn University","AL","36849"
-"Auburn University",501,134,2020,"Auburn University","AL","36849"
-"Northern Arizona University",501,134,2020,"Flagstaff","AZ","86011-413"
-"Baylor University",501,134,2020,"Waco","TX","76798"
-"Mississippi State University",501,134,2020,"Mississippi State","MS","39762"
-"Wayne State University",501,134,2020,"Detroit","MI","48202"
-"Boston College",501,134,2020,"Chestnut Hill","MA","2467"
-"Southern Methodist University",501,134,2020,"Dallas","TX","75275-022"
-"Rush University",501,134,2020,"Chicago","IL","60612"
-"Thomas Jefferson University",501,134,2020,"Philadelphia","PA","19107"
-"University of Wyoming",501,134,2020,"Laramie","WY","82071"
-"University of New England",501,24,2020,"Biddeford","ME","4005"
-"University of Idaho",501,134,2020,"Moscow","ID","83844-228"
-"Clemson University",501,134,2020,"Clemson","SC","29634"
-"Loyola University Chicago",501,134,2020,"Chicago","IL","60611-981"
-"University of Nevada-Las Vegas",501,134,2020,"Las Vegas","NV","89154"
-"Loyola University Chicago",601,156,2019,"Chicago","IL","60611-981"
-"Colorado School of Mines",601,156,2019,"Golden","CO","80401"
-"University of Nebraska Medical Center",601,156,2019,"Omaha","NE","68198-781"
-"Medical College of Wisconsin",601,156,2019,"Milwaukee","WI","53226-050"
-"University of Idaho",601,156,2019,"Moscow","ID","83844-228"
-"University of Rhode Island",601,156,2019,"Kingston","RI","2881"
-"Syracuse University",601,156,2019,"Syracuse","NY","13244-110"
-"Brescia University",601,25,2019,"Owensboro","KY","42301-302"
-"University of Louisville",601,156,2019,"Louisville","KY","40292-000"
-"Lehigh University",601,156,2019,"Bethlehem","PA","18015"
-"Old Dominion University",601,156,2019,"Norfolk","VA","23529"
-"Northwest University",601,73,2019,"Kirkland","WA","98083-057"
-"University of New England",601,26,2019,"Biddeford","ME","4005"
-"Northwest University",601,85,2020,"Kirkland","WA","98083-057"
-"University of Wisconsin-Milwaukee",601,155,2020,"Milwaukee","WI","53211"
-"Concordia University",601,21,2020,"Portland","OR","97211-609"
-"Swarthmore College",601,155,2020,"Swarthmore","PA","19081"
-"Syracuse University",601,155,2020,"Syracuse","NY","13244-110"
-"University of Toledo",601,155,2020,"Toledo","OH","43606-339"
-"Medical College of Wisconsin",601,155,2020,"Milwaukee","WI","53226-050"
-"Colorado School of Mines",601,155,2020,"Golden","CO","80401"
-"University of Louisville",601,155,2020,"Louisville","KY","40292-000"
-"University of Nebraska Medical Center",601,155,2020,"Omaha","NE","68198-781"
-"Swarthmore College",701,172,2019,"Swarthmore","PA","19081"
-"Michigan Technological University",701,172,2019,"Houghton","MI","49931-129"
-"East Carolina University",701,172,2019,"Greenville","NC","27858-435"
-"Amherst College",701,172,2019,"Amherst","MA","01002-500"
-"University of Nevada-Las Vegas",701,172,2019,"Las Vegas","NV","89154"
-"Stevens Institute of Technology",701,172,2019,"Hoboken","NJ","07030-599"
-"University of Arkansas for Medical Sciences",701,172,2019,"Little Rock","AR","72205"
-"Brescia University",701,31,2020,"Owensboro","KY","42301-302"
-"Lehigh University",701,176,2020,"Bethlehem","PA","18015"
-"Old Dominion University",701,176,2020,"Norfolk","VA","23529"
-"Michigan Technological University",701,176,2020,"Houghton","MI","49931-129"
-"University of Arkansas for Medical Sciences",701,176,2020,"Little Rock","AR","72205"
-"Haverford College",801,182,2019,"Haverford","PA","19041-139"
-"Portland State University",801,182,2019,"Portland","OR","97201"
-"College of William and Mary",801,182,2019,"Williamsburg","VA","23187-879"
-"University of Toledo",801,182,2019,"Toledo","OH","43606-339"
-"Concordia University",801,26,2019,"Portland","OR","97211-609"
-"University of Mississippi",801,182,2019,"University","MS","38677-1848"
-"Lincoln University",801,8,2019,"Jefferson City","MO","65102-002"
-"University of Arkansas at Little Rock",801,182,2019,"Little Rock","AR","72204"
-"Portland State University",801,182,2020,"Portland","OR","97201"
-"South Dakota State University",801,182,2020,"Brookings","SD","57007-189"
-"Florida Atlantic University",801,182,2020,"Boca Raton","FL","33431-099"
-"Lincoln University",801,7,2020,"Jefferson City","MO","65102-002"
-"University of Rhode Island",801,182,2020,"Kingston","RI","2881"
-"Amherst College",801,182,2020,"Amherst","MA","01002-500"
-"Haverford College",801,182,2020,"Haverford","PA","19041-139"
-"Boise State University",801,182,2020,"Boise","ID","83725"
-"University of Denver",901,193,2019,"Denver","CO","80208"
-"Union College",901,193,2019,"Schenectady","NY","12308-231"
-"Williams College",901,193,2019,"Williamstown","MA","1267"
-"Clark University",901,193,2019,"Worcester","MA","01610-147"
-"Florida Atlantic University",901,193,2019,"Boca Raton","FL","33431-099"
-"New Jersey Institute of Technology",901,193,2019,"Newark","NJ","7102"
-"Worcester Polytechnic Institute",901,193,2019,"Worcester","MA","1609"
-"University of North Carolina at Charlotte",901,193,2019,"Charlotte","NC","28223-000"
-"University of New Orleans",901,193,2019,"New Orleans","LA","70148"
-"Stevens Institute of Technology",901,191,2020,"Hoboken","NJ","07030-599"
-"University of North Carolina at Greensboro",901,191,2020,"Greensboro","NC","27402-617"
-"University of Arkansas at Little Rock",901,191,2020,"Little Rock","AR","72204"
-"University of North Carolina at Charlotte",901,191,2020,"Charlotte","NC","28223-000"
-"University of Denver",901,191,2020,"Denver","CO","80208"
-"Williams College",901,191,2020,"Williamstown","MA","1267"
-"Worcester Polytechnic Institute",901,191,2020,"Worcester","MA","1609"
-"Howard University",901,191,2020,"Washington","DC","20059-000"
-"East Carolina University",901,191,2020,"Greenville","NC","27858-435"
-"College of William and Mary",901,191,2020,"Williamsburg","VA","23187-879"
-"New Jersey Institute of Technology",901,191,2020,"Newark","NJ","7102"
+institution,wranking,nranking,year,city,state,zip
+Harvard University,1,1,2016,Cambridge,MA,2138
+Harvard University,1,1,2017,Cambridge,MA,2138
+Harvard University,1,1,2018,Cambridge,MA,2138
+Harvard University,1,1,2019,Cambridge,MA,2138
+Harvard University,1,1,2020,Cambridge,MA,2138
+Stanford University,2,2,2016,Stanford,CA,94305
+Stanford University,2,2,2017,Stanford,CA,94305
+Stanford University,2,2,2018,Stanford,CA,94305
+Stanford University,2,2,2019,Stanford,CA,94305
+Stanford University,2,2,2020,Stanford,CA,94305
+Princeton University,6,5,2016,Princeton,NJ,08544-007
+Princeton University,6,5,2017,Princeton,NJ,08544-007
+Princeton University,6,5,2018,Princeton,NJ,08544-007
+Princeton University,6,5,2019,Princeton,NJ,08544-007
+Princeton University,6,5,2020,Princeton,NJ,08544-007
+California Institute of Technology,8,6,2016,Pasadena,CA,91125
+California Institute of Technology,8,7,2020,Pasadena,CA,91125
+California Institute of Technology,9,7,2017,Pasadena,CA,91125
+California Institute of Technology,9,7,2018,Pasadena,CA,91125
+California Institute of Technology,9,7,2019,Pasadena,CA,91125
+University of Chicago,10,8,2016,Chicago,IL,60637
+University of Chicago,10,8,2017,Chicago,IL,60637
+University of Chicago,10,8,2018,Chicago,IL,60637
+University of Chicago,10,8,2019,Chicago,IL,60637
+University of Chicago,10,8,2020,Chicago,IL,60637
+Yale University,11,9,2016,New Haven,CT,6520
+Yale University,11,9,2017,New Haven,CT,6520
+Yale University,11,9,2019,New Haven,CT,6520
+Yale University,11,9,2020,New Haven,CT,6520
+Cornell University,12,10,2018,Ithaca,NY,14853
+Yale University,12,10,2018,New Haven,CT,6520
+Cornell University,12,10,2020,Ithaca,NY,14853
+Cornell University,13,11,2016,Ithaca,NY,14853
+Cornell University,13,11,2019,Ithaca,NY,14853
+Cornell University,14,12,2017,Ithaca,NY,14853
+Johns Hopkins University,15,12,2020,Baltimore,MD,21218-268
+Johns Hopkins University,16,14,2016,Baltimore,MD,21218-268
+University of Pennsylvania,16,14,2018,Philadelphia,PA,19104-630
+Johns Hopkins University,16,13,2019,Baltimore,MD,21218-268
+University of Pennsylvania,17,14,2017,Philadelphia,PA,19104-630
+University of Pennsylvania,17,14,2019,Philadelphia,PA,19104-630
+University of Pennsylvania,18,15,2016,Philadelphia,PA,19104-630
+Johns Hopkins University,18,15,2017,Baltimore,MD,21218-268
+Johns Hopkins University,18,15,2018,Baltimore,MD,21218-268
+University of Pennsylvania,19,15,2020,Philadelphia,PA,19104-630
+University of Michigan-Ann Arbor,20,16,2019,Ann Arbor,MI,48109
+Northwestern University,22,18,2017,Evanston,IL,60208
+University of Michigan-Ann Arbor,22,17,2020,Ann Arbor,MI,48109
+University of Michigan-Ann Arbor,23,17,2016,Ann Arbor,MI,48109
+University of Michigan-Ann Arbor,24,19,2017,Ann Arbor,MI,48109
+Duke University,25,19,2016,Durham,NC,27708
+Northwestern University,25,18,2018,Evanston,IL,60208
+Northwestern University,26,20,2016,Evanston,IL,60208
+Duke University,26,20,2017,Durham,NC,27708
+Duke University,26,19,2018,Durham,NC,27708
+University of Michigan-Ann Arbor,27,20,2018,Ann Arbor,MI,48109
+Duke University,27,19,2020,Durham,NC,27708
+New York University,27,19,2020,New York,NY,10012-109
+Duke University,28,20,2019,Durham,NC,27708
+New York University,29,22,2016,New York,NY,10012-109
+New York University,29,22,2017,New York,NY,10012-109
+Northwestern University,29,21,2019,Evanston,IL,60208
+University of North Carolina at Chapel Hill,30,22,2018,Chapel Hill,NC,27599
+Rockefeller University,30,22,2018,New York,NY,10021-639
+New York University,30,22,2019,New York,NY,10012-109
+University of North Carolina at Chapel Hill,30,21,2020,Chapel Hill,NC,27599
+Northwestern University,30,21,2020,Evanston,IL,60208
+New York University,32,24,2018,New York,NY,10012-109
+University of North Carolina at Chapel Hill,33,23,2017,Chapel Hill,NC,27599
+University of North Carolina at Chapel Hill,33,23,2019,Chapel Hill,NC,27599
+University of North Carolina at Chapel Hill,35,25,2016,Chapel Hill,NC,27599
+Rockefeller University,35,24,2019,New York,NY,10021-639
+Rockefeller University,36,25,2017,New York,NY,10021-639
+Rockefeller University,37,26,2016,New York,NY,10021-639
+University of Colorado at Boulder,38,27,2016,Boulder,CO,80309-001
+University of Colorado at Boulder,38,26,2018,Boulder,CO,80309-001
+University of Colorado at Boulder,38,25,2019,Boulder,CO,80309-001
+The University of Texas at Austin,40,27,2018,Austin,TX,78712
+The University of Texas at Austin,41,25,2020,Austin,TX,78712
+Heidelberg University,42,1,2017,Tiffin,OH,44883-2462
+University of Colorado at Boulder,43,27,2017,Boulder,CO,80309-001
+Rockefeller University,43,26,2020,New York,NY,10021-639
+The University of Texas at Austin,44,30,2016,Austin,TX,78712
+University of Colorado at Boulder,44,27,2020,Boulder,CO,80309-001
+The University of Texas at Austin,45,28,2019,Austin,TX,78712
+Heidelberg University,47,1,2016,Tiffin,OH,44883-2462
+Heidelberg University,47,1,2018,Tiffin,OH,44883-2462
+Heidelberg University,47,1,2019,Tiffin,OH,44883-2462
+University of Southern California,49,31,2016,Los Angeles,CA,90089
+Vanderbilt University,50,31,2018,Nashville,TN,37240
+The University of Texas at Austin,51,30,2017,Austin,TX,78712
+Vanderbilt University,52,31,2017,Nashville,TN,37240
+University of Southern California,54,33,2017,Los Angeles,CA,90089
+University of Southern California,55,32,2019,Los Angeles,CA,90089
+Vanderbilt University,55,32,2019,Nashville,TN,37240
+Heidelberg University,57,3,2020,Tiffin,OH,44883-2462
+Vanderbilt University,60,34,2016,Nashville,TN,37240
+University of Southern California,60,33,2018,Los Angeles,CA,90089
+University of Southern California,61,32,2020,Los Angeles,CA,90089
+Vanderbilt University,62,33,2020,Nashville,TN,37240
+Carnegie Mellon University,68,36,2016,Pittsburgh,PA,15213-389
+Boston University,70,34,2018,Boston,MA,2215
+Rice University,70,34,2018,Houston,TX,77005
+Rice University,72,38,2016,Houston,TX,77005
+Rice University,74,37,2017,Houston,TX,77005
+Boston University,75,39,2016,Boston,MA,2215
+Boston University,76,36,2019,Boston,MA,2215
+Carnegie Mellon University,80,40,2017,Pittsburgh,PA,15213-389
+Boston University,80,40,2017,Boston,MA,2215
+Brown University,84,38,2019,Providence,RI,2912
+University of Florida,86,41,2018,Gainesville,FL,32611
+University of Florida,88,46,2017,Gainesville,FL,32611
+University of Florida,88,37,2020,Gainesville,FL,32611
+University of Florida,90,45,2016,Gainesville,FL,32611
+Brown University,90,45,2016,Providence,RI,2912
+Boston University,90,38,2020,Boston,MA,2215
+Carnegie Mellon University,91,43,2018,Pittsburgh,PA,15213-389
+University of Florida,95,41,2019,Gainesville,FL,32611
+Rice University,95,41,2019,Houston,TX,77005
+Carnegie Mellon University,95,41,2019,Pittsburgh,PA,15213-389
+Carnegie Mellon University,95,40,2020,Pittsburgh,PA,15213-389
+University of Arizona,99,48,2017,Tucson,AZ,85721-006
+University of Utah,100,50,2016,Salt Lake City,UT,84112-900
+Emory University,101,51,2016,Atlanta,GA,30322
+University of Rochester,101,51,2016,Rochester,NY,14627-001
+Baylor College of Medicine,101,51,2016,Houston,TX,77030-349
+Tufts University,101,51,2016,Medford,MA,02155-555
+Case Western Reserve University,101,51,2016,Cleveland,OH,44106
+University of Arizona,101,51,2016,Tucson,AZ,85721-006
+Arizona State University,101,51,2016,Tempe,AZ,85287
+Michigan State University,101,51,2016,East Lansing,MI,48824-104
+University of Rochester,101,49,2017,Rochester,NY,14627-001
+Baylor College of Medicine,101,49,2017,Houston,TX,77030-349
+Brown University,101,49,2017,Providence,RI,2912
+Case Western Reserve University,101,49,2017,Cleveland,OH,44106
+Emory University,101,49,2017,Atlanta,GA,30322
+University of Utah,101,49,2017,Salt Lake City,UT,84112-900
+Michigan State University,101,49,2017,East Lansing,MI,48824-104
+Arizona State University,101,49,2017,Tempe,AZ,85287
+Case Western Reserve University,101,47,2018,Cleveland,OH,44106
+Baylor College of Medicine,101,47,2018,Houston,TX,77030-349
+Michigan State University,101,47,2018,East Lansing,MI,48824-104
+Emory University,101,47,2018,Atlanta,GA,30322
+University of Utah,101,47,2018,Salt Lake City,UT,84112-900
+Brown University,101,47,2018,Providence,RI,2912
+University of Arizona,101,47,2018,Tucson,AZ,85721-006
+Arizona State University,101,47,2018,Tempe,AZ,85287
+Case Western Reserve University,101,46,2019,Cleveland,OH,44106
+University of Arizona,101,46,2019,Tucson,AZ,85721-006
+University of Utah,101,46,2019,Salt Lake City,UT,84112-900
+Emory University,101,46,2019,Atlanta,GA,30322
+Michigan State University,101,46,2019,East Lansing,MI,48824-104
+Baylor College of Medicine,101,46,2019,Houston,TX,77030-349
+Arizona State University,101,46,2019,Tempe,AZ,85287
+Emory University,101,42,2020,Atlanta,GA,30322
+University of Utah,101,42,2020,Salt Lake City,UT,84112-900
+University of Arizona,101,42,2020,Tucson,AZ,85721-006
+Brown University,101,42,2020,Providence,RI,2912
+Case Western Reserve University,101,42,2020,Cleveland,OH,44106
+Michigan State University,101,42,2020,East Lansing,MI,48824-104
+Rice University,101,42,2020,Houston,TX,77005
+Arizona State University,101,42,2020,Tempe,AZ,85287
+University of Miami,151,62,2016,Coral Gables,FL,33124
+University of Delaware,151,62,2016,Newark,DE,19716
+University of Hawaii at Manoa,151,62,2016,Honolulu,HI,96822-230
+Oregon State University,151,62,2016,Corvallis,OR,97331
+University of Iowa,151,62,2016,Iowa City,IA,52242-131
+University of Iowa,151,61,2017,Iowa City,IA,52242-131
+University of Miami,151,61,2017,Coral Gables,FL,33124
+Tufts University,151,61,2017,Medford,MA,02155-555
+Oregon State University,151,61,2017,Corvallis,OR,97331
+University of Delaware,151,61,2017,Newark,DE,19716
+University of Iowa,151,59,2018,Iowa City,IA,52242-131
+Oregon State University,151,59,2018,Corvallis,OR,97331
+University of Rochester,151,59,2018,Rochester,NY,14627-001
+Tufts University,151,59,2018,Medford,MA,02155-555
+Tufts University,151,59,2019,Medford,MA,02155-555
+University of Rochester,151,59,2019,Rochester,NY,14627-001
+University of Rochester,151,57,2020,Rochester,NY,14627-001
+Baylor College of Medicine,151,57,2020,Houston,TX,77030-349
+Tufts University,151,57,2020,Medford,MA,02155-555
+University of Illinois at Chicago,201,72,2016,Chicago,IL,60607
+University of Houston,201,72,2016,Houston,TX,77204-201
+Medical University of South Carolina,201,72,2016,Charleston,SC,29425-010
+Iowa State University,201,72,2016,Ames,IA,50011
+University of Notre Dame,201,72,2016,Notre Dame,IN,46556
+George Mason University,201,72,2016,Fairfax,VA,22030-444
+Florida State University,201,72,2016,Tallahassee,FL,32306-103
+Northeastern University,201,72,2016,Boston,MA,2115
+Yeshiva University,201,72,2016,New York,NY,10033-329
+Dartmouth College,201,72,2016,Hanover,NH,03755-352
+University of South Florida,201,72,2016,Tampa,FL,33620-995
+Colorado State University,201,72,2016,Fort Collins,CO,80523-010
+Virginia Commonwealth University,201,72,2016,Richmond,VA,23284-251
+University of Alabama at Birmingham,201,72,2016,Birmingham,AL,35294-011
+Brandeis University,201,72,2016,Waltham,MA,02454-911
+University of Kansas,201,72,2016,Lawrence,KS,66045
+Stony Brook University,201,72,2016,Stony Brook,NY,11794
+Colorado State University,201,71,2017,Fort Collins,CO,80523-010
+University of Notre Dame,201,71,2017,Notre Dame,IN,46556
+Stony Brook University,201,71,2017,Stony Brook,NY,11794
+Virginia Commonwealth University,201,71,2017,Richmond,VA,23284-251
+University of Alabama at Birmingham,201,71,2017,Birmingham,AL,35294-011
+University of Kansas,201,71,2017,Lawrence,KS,66045
+University of Oregon,201,71,2017,Eugene,OR,97403
+Medical University of South Carolina,201,71,2017,Charleston,SC,29425-010
+Iowa State University,201,71,2017,Ames,IA,50011
+University of Houston,201,71,2017,Houston,TX,77204-201
+University of Illinois at Chicago,201,71,2017,Chicago,IL,60607
+Dartmouth College,201,71,2017,Hanover,NH,03755-352
+Yeshiva University,201,71,2017,New York,NY,10033-329
+Georgetown University,201,71,2017,Washington,DC,20057
+Florida State University,201,71,2017,Tallahassee,FL,32306-103
+University of Hawaii at Manoa,201,71,2017,Honolulu,HI,96822-230
+University of South Florida,201,71,2017,Tampa,FL,33620-995
+George Mason University,201,71,2017,Fairfax,VA,22030-444
+University of Alabama at Birmingham,201,70,2018,Birmingham,AL,35294-011
+Colorado State University,201,70,2018,Fort Collins,CO,80523-010
+Brandeis University,201,70,2018,Waltham,MA,02454-911
+University of Miami,201,70,2018,Coral Gables,FL,33124
+George Mason University,201,70,2018,Fairfax,VA,22030-444
+University of Delaware,201,70,2018,Newark,DE,19716
+Virginia Polytechnic Institute and State University,201,70,2018,Blacksburg,VA,24061-013
+Virginia Commonwealth University,201,70,2018,Richmond,VA,23284-251
+University of Notre Dame,201,70,2018,Notre Dame,IN,46556
+Iowa State University,201,70,2018,Ames,IA,50011
+Georgetown University,201,70,2018,Washington,DC,20057
+University of South Florida,201,70,2018,Tampa,FL,33620-995
+University of Kansas,201,70,2018,Lawrence,KS,66045
+University of Hawaii at Manoa,201,70,2018,Honolulu,HI,96822-230
+University of Houston,201,70,2018,Houston,TX,77204-201
+Dartmouth College,201,70,2018,Hanover,NH,03755-352
+University of Illinois at Chicago,201,70,2018,Chicago,IL,60607
+Florida State University,201,70,2018,Tallahassee,FL,32306-103
+Iowa State University,201,67,2019,Ames,IA,50011
+University of South Florida,201,67,2019,Tampa,FL,33620-995
+George Mason University,201,67,2019,Fairfax,VA,22030-444
+Florida State University,201,67,2019,Tallahassee,FL,32306-103
+Oregon State University,201,67,2019,Corvallis,OR,97331
+University of Miami,201,67,2019,Coral Gables,FL,33124
+Colorado State University,201,67,2019,Fort Collins,CO,80523-010
+Virginia Commonwealth University,201,67,2019,Richmond,VA,23284-251
+University of Kansas,201,67,2019,Lawrence,KS,66045
+University of Iowa,201,67,2019,Iowa City,IA,52242-131
+Stony Brook University,201,67,2019,Stony Brook,NY,11794
+University of Illinois at Chicago,201,67,2019,Chicago,IL,60607
+University of Houston,201,67,2019,Houston,TX,77204-201
+Virginia Polytechnic Institute and State University,201,67,2019,Blacksburg,VA,24061-013
+University of Hawaii at Manoa,201,67,2019,Honolulu,HI,96822-230
+University of Alabama at Birmingham,201,67,2019,Birmingham,AL,35294-011
+University of Delaware,201,67,2019,Newark,DE,19716
+Yeshiva University,201,67,2019,New York,NY,10033-329
+University of Connecticut,201,67,2019,Storrs,CT,6269
+Georgetown University,201,66,2020,Washington,DC,20057
+Iowa State University,201,66,2020,Ames,IA,50011
+University of Miami,201,66,2020,Coral Gables,FL,33124
+Oregon State University,201,66,2020,Corvallis,OR,97331
+University of Delaware,201,66,2020,Newark,DE,19716
+Dartmouth College,201,66,2020,Hanover,NH,03755-352
+University of Illinois at Chicago,201,66,2020,Chicago,IL,60607
+Florida State University,201,66,2020,Tallahassee,FL,32306-103
+University of Houston,201,66,2020,Houston,TX,77204-201
+Virginia Polytechnic Institute and State University,201,66,2020,Blacksburg,VA,24061-013
+University of Iowa,201,66,2020,Iowa City,IA,52242-131
+University of Kansas,201,66,2020,Lawrence,KS,66045
+University of Connecticut,201,66,2020,Storrs,CT,6269
+George Mason University,201,66,2020,Fairfax,VA,22030-444
+Stony Brook University,201,66,2020,Stony Brook,NY,11794
+Virginia Commonwealth University,201,66,2020,Richmond,VA,23284-251
+Colorado State University,201,66,2020,Fort Collins,CO,80523-010
+University of South Florida,201,66,2020,Tampa,FL,33620-995
+Yeshiva University,201,66,2020,New York,NY,10033-329
+Georgetown University,301,99,2016,Washington,DC,20057
+Thomas Jefferson University,301,99,2016,Philadelphia,PA,19107
+University of Connecticut,301,99,2016,Storrs,CT,6269
+Virginia Polytechnic Institute and State University,301,99,2016,Blacksburg,VA,24061-013
+University of Kentucky,301,99,2016,Lexington,KY,40506-003
+Rush University,301,99,2016,Chicago,IL,60612
+Boston College,301,99,2016,Chestnut Hill,MA,2467
+University of Vermont,301,99,2016,Burlington,VT,05405-016
+University of North Texas,301,99,2016,Denton,TX,76203-127
+University of Oregon,301,99,2016,Eugene,OR,97403
+Wayne State University,301,99,2016,Detroit,MI,48202
+Temple University,301,99,2016,Philadelphia,PA,19122-609
+University of North Texas,301,100,2017,Denton,TX,76203-127
+University of Connecticut,301,100,2017,Storrs,CT,6269
+Virginia Polytechnic Institute and State University,301,100,2017,Blacksburg,VA,24061-013
+University of Kentucky,301,100,2017,Lexington,KY,40506-003
+Brandeis University,301,100,2017,Waltham,MA,02454-911
+Brigham Young University,301,100,2017,Provo,UT,84602
+Temple University,301,100,2017,Philadelphia,PA,19122-609
+University of Vermont,301,100,2017,Burlington,VT,05405-016
+Boston College,301,100,2017,Chestnut Hill,MA,2467
+Wayne State University,301,100,2017,Detroit,MI,48202
+University of Central Florida,301,100,2017,Orlando,FL,32816
+University of Vermont,301,96,2018,Burlington,VT,05405-016
+Boston College,301,96,2018,Chestnut Hill,MA,2467
+Medical University of South Carolina,301,96,2018,Charleston,SC,29425-010
+Stony Brook University,301,96,2018,Stony Brook,NY,11794
+Temple University,301,96,2018,Philadelphia,PA,19122-609
+University of Central Florida,301,96,2018,Orlando,FL,32816
+University of Connecticut,301,96,2018,Storrs,CT,6269
+University of Kentucky,301,96,2018,Lexington,KY,40506-003
+University of North Texas,301,96,2018,Denton,TX,76203-127
+University of Oregon,301,96,2018,Eugene,OR,97403
+Washington State University,301,96,2018,Pullman,WA,99164-100
+Yeshiva University,301,96,2018,New York,NY,10033-329
+University of Notre Dame,301,95,2019,Notre Dame,IN,46556
+University of Central Florida,301,95,2019,Orlando,FL,32816
+Brandeis University,301,95,2019,Waltham,MA,02454-911
+Washington State University,301,95,2019,Pullman,WA,99164-100
+Georgetown University,301,95,2019,Washington,DC,20057
+Rensselaer Polytechnic Institute,301,95,2019,Troy,NY,12180-359
+Temple University,301,95,2019,Philadelphia,PA,19122-609
+Kansas State University,301,95,2019,Manhattan,KS,66506
+Dartmouth College,301,95,2019,Hanover,NH,03755-352
+University of Vermont,301,95,2019,Burlington,VT,05405-016
+University of Kentucky,301,95,2019,Lexington,KY,40506-003
+University of Oregon,301,95,2019,Eugene,OR,97403
+University of Kentucky,301,95,2020,Lexington,KY,40506-003
+University of Alabama at Birmingham,301,95,2020,Birmingham,AL,35294-011
+University of Oregon,301,95,2020,Eugene,OR,97403
+Medical University of South Carolina,301,95,2020,Charleston,SC,29425-010
+University of Hawaii at Manoa,301,95,2020,Honolulu,HI,96822-230
+University of Vermont,301,95,2020,Burlington,VT,05405-016
+Temple University,301,95,2020,Philadelphia,PA,19122-609
+University of Notre Dame,301,95,2020,Notre Dame,IN,46556
+Brandeis University,301,95,2020,Waltham,MA,02454-911
+Washington State University,301,95,2020,Pullman,WA,99164-100
+University of Central Florida,301,95,2020,Orlando,FL,32816
+Rensselaer Polytechnic Institute,401,120,2016,Troy,NY,12180-359
+Utah State University,401,120,2016,Logan,UT,84322-140
+San Diego State University,401,120,2016,San Diego,CA,92182
+Florida International University,401,120,2016,Miami,FL,33199
+University of Central Florida,401,120,2016,Orlando,FL,32816
+Texas Tech University,401,120,2016,Lubbock,TX,79409-500
+Washington State University,401,120,2016,Pullman,WA,99164-100
+Brigham Young University,401,120,2016,Provo,UT,84602
+Wake Forest University,401,120,2016,Winston Salem,NC,27106
+University of Wyoming,401,120,2016,Laramie,WY,82071
+West Virginia University,401,120,2016,Morgantown,WV,26506-620
+Thomas Jefferson University,401,120,2017,Philadelphia,PA,19107
+West Virginia University,401,120,2017,Morgantown,WV,26506-620
+Washington State University,401,120,2017,Pullman,WA,99164-100
+Rush University,401,120,2017,Chicago,IL,60612
+Northwest University,401,34,2017,Kirkland,WA,98083-057
+Concordia University,401,18,2017,Portland,OR,97211-609
+University of Wyoming,401,120,2017,Laramie,WY,82071
+Florida International University,401,120,2017,Miami,FL,33199
+University of Maine,401,118,2018,Orono,ME,4469
+Wayne State University,401,118,2018,Detroit,MI,48202
+West Virginia University,401,118,2018,Morgantown,WV,26506-620
+Brigham Young University,401,118,2018,Provo,UT,84602
+Utah State University,401,118,2018,Logan,UT,84322-140
+University of Wyoming,401,118,2018,Laramie,WY,82071
+Texas Tech University,401,118,2018,Lubbock,TX,79409-500
+University of Wisconsin-Milwaukee,401,118,2018,Milwaukee,WI,53211
+Thomas Jefferson University,401,118,2018,Philadelphia,PA,19107
+Kansas State University,401,118,2018,Manhattan,KS,66506
+Florida International University,401,118,2018,Miami,FL,33199
+Mississippi State University,401,118,2018,Mississippi State,MS,39762
+Rush University,401,118,2018,Chicago,IL,60612
+University of Wyoming,401,117,2019,Laramie,WY,82071
+Thomas Jefferson University,401,117,2019,Philadelphia,PA,19107
+Utah State University,401,117,2019,Logan,UT,84322-140
+Wayne State University,401,117,2019,Detroit,MI,48202
+Wake Forest University,401,117,2019,Winston Salem,NC,27106
+Boston College,401,117,2019,Chestnut Hill,MA,2467
+West Virginia University,401,117,2019,Morgantown,WV,26506-620
+Medical University of South Carolina,401,117,2019,Charleston,SC,29425-010
+Brigham Young University,401,117,2019,Provo,UT,84602
+University of North Texas,401,117,2019,Denton,TX,76203-127
+Florida International University,401,117,2019,Miami,FL,33199
+Clemson University,401,117,2019,Clemson,SC,29634
+Brigham Young University,401,115,2020,Provo,UT,84602
+Wake Forest University,401,115,2020,Winston Salem,NC,27106
+Utah State University,401,115,2020,Logan,UT,84322-140
+West Virginia University,401,115,2020,Morgantown,WV,26506-620
+San Diego State University,401,115,2020,San Diego,CA,92182
+Georgia State University,401,115,2020,Atlanta,GA,30302-308
+University of California-Merced,401,115,2020,Merced,CA,95343
+University of North Texas,401,115,2020,Denton,TX,76203-127
+Texas Tech University,401,115,2020,Lubbock,TX,79409-500
+Florida International University,401,115,2020,Miami,FL,33199
+University of Maine,401,115,2020,Orono,ME,4469
+Rensselaer Polytechnic Institute,401,115,2020,Troy,NY,12180-359
+Kansas State University,401,115,2020,Manhattan,KS,66506
+Montana State University,501,138,2019,Bozeman,MT,59717
+Texas Tech University,501,138,2019,Lubbock,TX,79409-500
+Southern Methodist University,501,138,2019,Dallas,TX,75275-022
+San Diego State University,501,138,2019,San Diego,CA,92182
+Rush University,501,138,2019,Chicago,IL,60612
+Baylor University,501,138,2019,Waco,TX,76798
+University of Maine,501,138,2019,Orono,ME,4469
+Northern Arizona University,501,138,2019,Flagstaff,AZ,86011-413
+Mississippi State University,501,138,2019,Mississippi State,MS,39762
+Georgia State University,501,138,2019,Atlanta,GA,30302-308
+Auburn University,501,138,2019,Auburn University,AL,36849
+Auburn University,501,134,2020,Auburn University,AL,36849
+Northern Arizona University,501,134,2020,Flagstaff,AZ,86011-413
+Baylor University,501,134,2020,Waco,TX,76798
+Mississippi State University,501,134,2020,Mississippi State,MS,39762
+Wayne State University,501,134,2020,Detroit,MI,48202
+Boston College,501,134,2020,Chestnut Hill,MA,2467
+Southern Methodist University,501,134,2020,Dallas,TX,75275-022
+Rush University,501,134,2020,Chicago,IL,60612
+Thomas Jefferson University,501,134,2020,Philadelphia,PA,19107
+University of Wyoming,501,134,2020,Laramie,WY,82071
+University of New England,501,24,2020,Biddeford,ME,4005
+University of Idaho,501,134,2020,Moscow,ID,83844-228
+Clemson University,501,134,2020,Clemson,SC,29634
+Loyola University Chicago,501,134,2020,Chicago,IL,60611-981
+University of Nevada-Las Vegas,501,134,2020,Las Vegas,NV,89154
+Loyola University Chicago,601,156,2019,Chicago,IL,60611-981
+Colorado School of Mines,601,156,2019,Golden,CO,80401
+University of Nebraska Medical Center,601,156,2019,Omaha,NE,68198-781
+Medical College of Wisconsin,601,156,2019,Milwaukee,WI,53226-050
+University of Idaho,601,156,2019,Moscow,ID,83844-228
+University of Rhode Island,601,156,2019,Kingston,RI,2881
+Syracuse University,601,156,2019,Syracuse,NY,13244-110
+Brescia University,601,25,2019,Owensboro,KY,42301-302
+University of Louisville,601,156,2019,Louisville,KY,40292-000
+Lehigh University,601,156,2019,Bethlehem,PA,18015
+Old Dominion University,601,156,2019,Norfolk,VA,23529
+Northwest University,601,73,2019,Kirkland,WA,98083-057
+University of New England,601,26,2019,Biddeford,ME,4005
+Northwest University,601,85,2020,Kirkland,WA,98083-057
+University of Wisconsin-Milwaukee,601,155,2020,Milwaukee,WI,53211
+Concordia University,601,21,2020,Portland,OR,97211-609
+Swarthmore College,601,155,2020,Swarthmore,PA,19081
+Syracuse University,601,155,2020,Syracuse,NY,13244-110
+University of Toledo,601,155,2020,Toledo,OH,43606-339
+Medical College of Wisconsin,601,155,2020,Milwaukee,WI,53226-050
+Colorado School of Mines,601,155,2020,Golden,CO,80401
+University of Louisville,601,155,2020,Louisville,KY,40292-000
+University of Nebraska Medical Center,601,155,2020,Omaha,NE,68198-781
+Swarthmore College,701,172,2019,Swarthmore,PA,19081
+Michigan Technological University,701,172,2019,Houghton,MI,49931-129
+East Carolina University,701,172,2019,Greenville,NC,27858-435
+Amherst College,701,172,2019,Amherst,MA,01002-500
+University of Nevada-Las Vegas,701,172,2019,Las Vegas,NV,89154
+Stevens Institute of Technology,701,172,2019,Hoboken,NJ,07030-599
+University of Arkansas for Medical Sciences,701,172,2019,Little Rock,AR,72205
+Brescia University,701,31,2020,Owensboro,KY,42301-302
+Lehigh University,701,176,2020,Bethlehem,PA,18015
+Old Dominion University,701,176,2020,Norfolk,VA,23529
+Michigan Technological University,701,176,2020,Houghton,MI,49931-129
+University of Arkansas for Medical Sciences,701,176,2020,Little Rock,AR,72205
+Haverford College,801,182,2019,Haverford,PA,19041-139
+Portland State University,801,182,2019,Portland,OR,97201
+College of William and Mary,801,182,2019,Williamsburg,VA,23187-879
+University of Toledo,801,182,2019,Toledo,OH,43606-339
+Concordia University,801,26,2019,Portland,OR,97211-609
+University of Mississippi,801,182,2019,University,MS,38677-1848
+Lincoln University,801,8,2019,Jefferson City,MO,65102-002
+University of Arkansas at Little Rock,801,182,2019,Little Rock,AR,72204
+Portland State University,801,182,2020,Portland,OR,97201
+South Dakota State University,801,182,2020,Brookings,SD,57007-189
+Florida Atlantic University,801,182,2020,Boca Raton,FL,33431-099
+Lincoln University,801,7,2020,Jefferson City,MO,65102-002
+University of Rhode Island,801,182,2020,Kingston,RI,2881
+Amherst College,801,182,2020,Amherst,MA,01002-500
+Haverford College,801,182,2020,Haverford,PA,19041-139
+Boise State University,801,182,2020,Boise,ID,83725
+University of Denver,901,193,2019,Denver,CO,80208
+Union College,901,193,2019,Schenectady,NY,12308-231
+Williams College,901,193,2019,Williamstown,MA,1267
+Clark University,901,193,2019,Worcester,MA,01610-147
+Florida Atlantic University,901,193,2019,Boca Raton,FL,33431-099
+New Jersey Institute of Technology,901,193,2019,Newark,NJ,7102
+Worcester Polytechnic Institute,901,193,2019,Worcester,MA,1609
+University of North Carolina at Charlotte,901,193,2019,Charlotte,NC,28223-000
+University of New Orleans,901,193,2019,New Orleans,LA,70148
+Stevens Institute of Technology,901,191,2020,Hoboken,NJ,07030-599
+University of North Carolina at Greensboro,901,191,2020,Greensboro,NC,27402-617
+University of Arkansas at Little Rock,901,191,2020,Little Rock,AR,72204
+University of North Carolina at Charlotte,901,191,2020,Charlotte,NC,28223-000
+University of Denver,901,191,2020,Denver,CO,80208
+Williams College,901,191,2020,Williamstown,MA,1267
+Worcester Polytechnic Institute,901,191,2020,Worcester,MA,1609
+Howard University,901,191,2020,Washington,DC,20059-000
+East Carolina University,901,191,2020,Greenville,NC,27858-435
+College of William and Mary,901,191,2020,Williamsburg,VA,23187-879
+New Jersey Institute of Technology,901,191,2020,Newark,NJ,7102

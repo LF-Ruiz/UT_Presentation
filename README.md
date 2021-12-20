@@ -115,7 +115,7 @@ That could be one of the reasons that moved UT to ask to join SEC.
 
 * Query to extract the NFL draft data joined with college location. Also, make a coeficient using Case statement for qualitative analysis.
 
-![draft](img/draft_query.png)
+![draft](img/draft_query.PNG)
 
 <br />
 <br />
