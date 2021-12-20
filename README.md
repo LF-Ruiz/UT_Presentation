@@ -1,6 +1,10 @@
 # UT College Football
 
-On July 2021, University of Texas announced that is leaving Big 12 Conference and officially asked to join SEC starting July 2025.
+![logo](img/unilogo.svg)
+
+On July 2021, University of Texas announced that is leaving Big 12 Conference and officially [asked to join SEC](https://www.texastribune.org/2021/07/26/university-texas-big-12/) starting July 2025.
+
+![news](img/news1.PNG)
 
 SEC is one the best conferences for college football, so that moves seems like a move to make a better football team, but, is that true? Let's see:
 
@@ -58,11 +62,14 @@ That could be one of the reasons that moved UT to ask to join SEC.
 
 - SEC is the first conference in number of picks for the five year period.
 
-##### **If finally, UT joins SEC is going to have more chances to improve, more players would want to play in the team and the fan base is going to grow. **
+## If finally, UT joins SEC is going to have more chances to improve, more players would want to play in the team and the fan base is going to grow.
 
 ### And, that is very good, because we all know that football is big deal in the Lone Star State, So the better is our football team, more options to increase the fundraise we are going to have. More funds means more resources and more resources mean a better university.  
 
-
+<br />
+<br />
+<br />
+<br />
 
 # Methodology:
 
@@ -82,6 +89,7 @@ That could be one of the reasons that moved UT to ask to join SEC.
 
     - Transform columns, data types, add id's, check the institutions names to make sure everything match. 
     - Pandas.
+    <br />
 ![Names](img/names_match.PNG)
 
 * Load
@@ -94,6 +102,22 @@ That could be one of the reasons that moved UT to ask to join SEC.
     - Export and check the SQL script to create the tables in a previously created database. 
     - Load the data into the database. 
 
+<br />
+<br />
+
+
 ### Query the SQL Database and download the csv files.
+
+* Query to extract the ARWU ranking data joined with the location for the US universities. Also, make a coeficient using Case statement for qualitative analysis.
+![uni](img/uni_query.PNG)
+
+<br />
+
+* Query to extract the NFL draft data joined with college location.
+<br />
+![draft](img/draft_query.png)
+
+<br />
+<br />
 
 ### Load the data to Tableau.
