@@ -87,7 +87,7 @@ That could be one of the reasons that moved UT to ask to join SEC.
 * Load
 
     - Make ERD (Entity Relationship Diagram) to build a SQL Database. I use [QuickDatabaseDiagram](https://www.quickdatabasediagrams.com/)
-![ERD](img/ERD_UT.PNG) 
+![ERD](img/ERD_UT.png) 
 
     - Take in consideration slow moving dimension to design the database.
 
