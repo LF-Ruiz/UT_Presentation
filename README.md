@@ -108,12 +108,12 @@ That could be one of the reasons that moved UT to ask to join SEC.
 
 ### Query the SQL Database and download the csv files.
 
-* Query to extract the ARWU ranking data joined with the location for the US universities. Also, make a coeficient using Case statement for qualitative analysis.
+* Query to extract the [ARWU ranking data](SQL/QueryRankingUS.sql) joined with the location for the US universities. Also, make a coeficient using Case statement for qualitative analysis.
 ![uni](img/uni_query.PNG)
 
 <br />
 
-* Query to extract the NFL draft data joined with college location. Also, make a coeficient using Case statement for qualitative analysis.
+* Query to extract the [NFL draft](SQL/QueryDraft.sql) data joined with college location. Also, make a coeficient using Case statement for qualitative analysis.
 
 ![draft](img/draft_query.PNG)
 
