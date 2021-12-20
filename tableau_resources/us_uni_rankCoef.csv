@@ -1,0 +1,801 @@
+"University","State","World Ranking","National Ranking","Year","Coeficient"
+"Harvard University","MA",1,1,2016,10
+"Harvard University","MA",1,1,2017,10
+"Harvard University","MA",1,1,2018,10
+"Harvard University","MA",1,1,2019,10
+"Harvard University","MA",1,1,2020,10
+"Stanford University","CA",2,2,2016,10
+"Stanford University","CA",2,2,2017,10
+"Stanford University","CA",2,2,2018,10
+"Stanford University","CA",2,2,2019,10
+"Stanford University","CA",2,2,2020,10
+"University of California, Berkeley","CA",3,3,2016,10
+"University of California, Berkeley","CA",5,4,2017,10
+"University of California, Berkeley","CA",5,4,2018,10
+"University of California, Berkeley","CA",5,4,2019,10
+"University of California, Berkeley","CA",5,4,2020,10
+"Princeton University","NJ",6,5,2016,9
+"Princeton University","NJ",6,5,2017,9
+"Princeton University","NJ",6,5,2018,9
+"Princeton University","NJ",6,5,2019,9
+"Princeton University","NJ",6,5,2020,9
+"California Institute of Technology","CA",8,6,2016,9
+"California Institute of Technology","CA",8,7,2020,9
+"California Institute of Technology","CA",9,7,2017,9
+"California Institute of Technology","CA",9,7,2018,9
+"California Institute of Technology","CA",9,7,2019,9
+"University of Chicago","IL",10,8,2016,9
+"University of Chicago","IL",10,8,2017,9
+"University of Chicago","IL",10,8,2018,9
+"University of Chicago","IL",10,8,2019,9
+"University of Chicago","IL",10,8,2020,9
+"Yale University","CT",11,9,2016,8
+"Yale University","CT",11,9,2017,8
+"University of California, Los Angeles","CA",11,9,2018,8
+"University of California, Los Angeles","CA",11,9,2018,8
+"University of California, Los Angeles","CA",11,9,2018,8
+"University of California, Los Angeles","CA",11,9,2019,8
+"University of California, Los Angeles","CA",11,9,2019,8
+"University of California, Los Angeles","CA",11,9,2019,8
+"Yale University","CT",11,9,2019,8
+"Yale University","CT",11,9,2020,8
+"University of California, Los Angeles","CA",12,10,2016,8
+"University of California, Los Angeles","CA",12,10,2016,8
+"University of California, Los Angeles","CA",12,10,2016,8
+"University of California, Los Angeles","CA",12,10,2017,8
+"University of California, Los Angeles","CA",12,10,2017,8
+"University of California, Los Angeles","CA",12,10,2017,8
+"Yale University","CT",12,10,2018,8
+"Cornell University","NY",12,10,2018,8
+"Cornell University","NY",12,10,2020,8
+"Cornell University","NY",13,11,2016,8
+"University of Washington","WA",13,11,2017,8
+"University of Washington","WA",13,11,2017,8
+"University of Washington","WA",13,11,2017,8
+"University of Washington","WA",13,11,2017,8
+"University of Washington","WA",13,11,2017,8
+"Cornell University","NY",13,11,2019,8
+"University of California, Los Angeles","CA",13,11,2020,8
+"University of California, Los Angeles","CA",13,11,2020,8
+"University of California, Los Angeles","CA",13,11,2020,8
+"Cornell University","NY",14,12,2017,8
+"University of Washington","WA",14,12,2018,8
+"University of Washington","WA",14,12,2018,8
+"University of Washington","WA",14,12,2018,8
+"University of Washington","WA",14,12,2018,8
+"University of Washington","WA",14,12,2018,8
+"University of Washington","WA",14,12,2019,8
+"University of Washington","WA",14,12,2019,8
+"University of Washington","WA",14,12,2019,8
+"University of Washington","WA",14,12,2019,8
+"University of Washington","WA",14,12,2019,8
+"University of Washington","WA",15,13,2016,8
+"University of Washington","WA",15,13,2016,8
+"University of Washington","WA",15,13,2016,8
+"University of Washington","WA",15,13,2016,8
+"University of Washington","WA",15,13,2016,8
+"Johns Hopkins University","MD",15,12,2020,8
+"Johns Hopkins University","MD",16,14,2016,8
+"University of Pennsylvania","PA",16,14,2018,8
+"Johns Hopkins University","MD",16,13,2019,8
+"University of Washington","WA",16,13,2020,8
+"University of Washington","WA",16,13,2020,8
+"University of Washington","WA",16,13,2020,8
+"University of Washington","WA",16,13,2020,8
+"University of Washington","WA",16,13,2020,8
+"University of Pennsylvania","PA",17,14,2017,8
+"University of Pennsylvania","PA",17,14,2019,8
+"University of Pennsylvania","PA",18,15,2016,8
+"Johns Hopkins University","MD",18,15,2017,8
+"Johns Hopkins University","MD",18,15,2018,8
+"University of Pennsylvania","PA",19,15,2020,8
+"University of Michigan-Ann Arbor","MI",20,16,2019,8
+"Northwestern University","IL",22,18,2017,8
+"University of Michigan-Ann Arbor","MI",22,17,2020,8
+"University of Michigan-Ann Arbor","MI",23,17,2016,8
+"University of Michigan-Ann Arbor","MI",24,19,2017,8
+"Duke University","NC",25,19,2016,8
+"Northwestern University","IL",25,18,2018,8
+"Northwestern University","IL",26,20,2016,8
+"Duke University","NC",26,20,2017,8
+"Duke University","NC",26,19,2018,8
+"University of Michigan-Ann Arbor","MI",27,20,2018,8
+"University of Wisconsin - Madison","WI",27,19,2019,8
+"Duke University","NC",27,19,2020,8
+"New York University","NY",27,19,2020,8
+"University of Wisconsin - Madison","WI",28,21,2016,8
+"University of Wisconsin - Madison","WI",28,21,2017,8
+"University of Wisconsin - Madison","WI",28,21,2018,8
+"Duke University","NC",28,20,2019,8
+"New York University","NY",29,22,2016,8
+"New York University","NY",29,22,2017,8
+"Northwestern University","IL",29,21,2019,8
+"University of Illinois at Urbana-Champaign","IL",30,23,2016,8
+"University of Illinois at Urbana-Champaign","IL",30,23,2016,8
+"University of Illinois at Urbana-Champaign","IL",30,23,2016,8
+"University of Illinois at Urbana-Champaign","IL",30,23,2016,8
+"University of North Carolina at Chapel Hill","NC",30,22,2018,8
+"Rockefeller University","NY",30,22,2018,8
+"New York University","NY",30,22,2019,8
+"Northwestern University","IL",30,21,2020,8
+"University of North Carolina at Chapel Hill","NC",30,21,2020,8
+"New York University","NY",32,24,2018,8
+"University of Wisconsin - Madison","WI",32,23,2020,8
+"University of Minnesota, Twin Cities","MN",33,24,2016,8
+"University of North Carolina at Chapel Hill","NC",33,23,2017,8
+"University of North Carolina at Chapel Hill","NC",33,23,2019,8
+"University of Minnesota, Twin Cities","MN",34,24,2017,8
+"University of North Carolina at Chapel Hill","NC",35,25,2016,8
+"Rockefeller University","NY",35,24,2019,8
+"Rockefeller University","NY",36,25,2017,8
+"Rockefeller University","NY",37,26,2016,8
+"University of Illinois at Urbana-Champaign","IL",37,26,2017,8
+"University of Illinois at Urbana-Champaign","IL",37,26,2017,8
+"University of Illinois at Urbana-Champaign","IL",37,26,2017,8
+"University of Illinois at Urbana-Champaign","IL",37,26,2017,8
+"University of Minnesota, Twin Cities","MN",37,25,2018,8
+"University of Colorado at Boulder","CO",38,27,2016,8
+"University of Colorado at Boulder","CO",38,26,2018,8
+"University of Colorado at Boulder","CO",38,25,2019,8
+"University of Illinois at Urbana-Champaign","IL",38,25,2019,8
+"University of Illinois at Urbana-Champaign","IL",38,25,2019,8
+"University of Illinois at Urbana-Champaign","IL",38,25,2019,8
+"University of Illinois at Urbana-Champaign","IL",38,25,2019,8
+"The University of Texas at Austin","TX",40,27,2018,8
+"University of Minnesota, Twin Cities","MN",40,24,2020,8
+"University of Illinois at Urbana-Champaign","IL",41,28,2018,8
+"University of Illinois at Urbana-Champaign","IL",41,28,2018,8
+"University of Illinois at Urbana-Champaign","IL",41,28,2018,8
+"University of Illinois at Urbana-Champaign","IL",41,28,2018,8
+"University of Minnesota, Twin Cities","MN",41,27,2019,8
+"The University of Texas at Austin","TX",41,25,2020,8
+"Heidelberg University","OH",42,1,2017,8
+"University of Colorado at Boulder","CO",43,27,2017,8
+"Rockefeller University","NY",43,26,2020,8
+"The University of Texas at Austin","TX",44,30,2016,8
+"University of Colorado at Boulder","CO",44,27,2020,8
+"The University of Texas at Austin","TX",45,28,2019,8
+"University of Illinois at Urbana-Champaign","IL",45,28,2020,8
+"University of Illinois at Urbana-Champaign","IL",45,28,2020,8
+"University of Illinois at Urbana-Champaign","IL",45,28,2020,8
+"University of Illinois at Urbana-Champaign","IL",45,28,2020,8
+"University of Maryland, College Park","MD",46,29,2019,8
+"University of Maryland, College Park","MD",46,29,2019,8
+"University of Maryland, College Park","MD",46,29,2019,8
+"University of Maryland, College Park","MD",46,29,2019,8
+"Heidelberg University","OH",47,1,2016,8
+"Heidelberg University","OH",47,1,2018,8
+"Heidelberg University","OH",47,1,2019,8
+"University of Southern California","CA",49,31,2016,8
+"Vanderbilt University","TN",50,31,2018,8
+"The University of Texas at Austin","TX",51,30,2017,7
+"University of Maryland, College Park","MD",51,32,2018,7
+"University of Maryland, College Park","MD",51,32,2018,7
+"University of Maryland, College Park","MD",51,32,2018,7
+"University of Maryland, College Park","MD",51,32,2018,7
+"University of Maryland, College Park","MD",52,32,2016,7
+"University of Maryland, College Park","MD",52,32,2016,7
+"University of Maryland, College Park","MD",52,32,2016,7
+"University of Maryland, College Park","MD",52,32,2016,7
+"Vanderbilt University","TN",52,31,2017,7
+"University of Maryland, College Park","MD",53,32,2017,7
+"University of Maryland, College Park","MD",53,32,2017,7
+"University of Maryland, College Park","MD",53,32,2017,7
+"University of Maryland, College Park","MD",53,32,2017,7
+"University of Maryland, College Park","MD",53,31,2020,7
+"University of Maryland, College Park","MD",53,31,2020,7
+"University of Maryland, College Park","MD",53,31,2020,7
+"University of Maryland, College Park","MD",53,31,2020,7
+"University of Southern California","CA",54,33,2017,7
+"University of Southern California","CA",55,32,2019,7
+"Vanderbilt University","TN",55,32,2019,7
+"Heidelberg University","OH",57,3,2020,7
+"Vanderbilt University","TN",60,34,2016,7
+"University of Southern California","CA",60,33,2018,7
+"University of Southern California","CA",61,32,2020,7
+"Vanderbilt University","TN",62,33,2020,7
+"Purdue University - West Lafayette","IN",63,35,2016,7
+"Carnegie Mellon University","PA",68,36,2016,7
+"Purdue University - West Lafayette","IN",70,34,2018,7
+"Boston University","MA",70,34,2018,7
+"Rice University","TX",70,34,2018,7
+"Rice University","TX",72,38,2016,7
+"Purdue University - West Lafayette","IN",72,35,2019,7
+"Rice University","TX",74,37,2017,7
+"Pennsylvania State University - University Park","PA",74,37,2018,7
+"Pennsylvania State University - University Park","PA",74,37,2018,7
+"Pennsylvania State University - University Park","PA",74,37,2018,7
+"Boston University","MA",75,39,2016,7
+"Boston University","MA",76,36,2019,7
+"Pennsylvania State University - University Park","PA",77,41,2016,7
+"Pennsylvania State University - University Park","PA",77,41,2016,7
+"Pennsylvania State University - University Park","PA",77,41,2016,7
+"Purdue University - West Lafayette","IN",77,38,2017,7
+"Rutgers, The State University of New Jersey - New Brunswick","NJ",79,39,2017,7
+"Georgia Institute of Technology","GA",79,38,2018,7
+"Purdue University - West Lafayette","IN",79,36,2020,7
+"Boston University","MA",80,40,2017,7
+"Carnegie Mellon University","PA",80,40,2017,7
+"Brown University","RI",84,38,2019,7
+"Georgia Institute of Technology","GA",85,43,2017,7
+"Pennsylvania State University - University Park","PA",85,43,2017,7
+"Pennsylvania State University - University Park","PA",85,43,2017,7
+"Pennsylvania State University - University Park","PA",85,43,2017,7
+"University of Florida","FL",86,41,2018,7
+"University of Florida","FL",88,46,2017,7
+"University of Florida","FL",88,37,2020,7
+"University of Florida","FL",90,45,2016,7
+"Brown University","RI",90,45,2016,7
+"Boston University","MA",90,38,2020,7
+"Carnegie Mellon University","PA",91,43,2018,7
+"Georgia Institute of Technology","GA",93,47,2016,7
+"University of Florida","FL",95,41,2019,7
+"Carnegie Mellon University","PA",95,41,2019,7
+"Rice University","TX",95,41,2019,7
+"Carnegie Mellon University","PA",95,40,2020,7
+"Rutgers, The State University of New Jersey - New Brunswick","NJ",96,48,2016,7
+"University of Pittsburgh","PA",96,41,2020,7
+"Pennsylvania State University - University Park","PA",98,44,2019,7
+"Pennsylvania State University - University Park","PA",98,44,2019,7
+"Pennsylvania State University - University Park","PA",98,44,2019,7
+"University of Arizona","AZ",99,48,2017,7
+"University of Utah","UT",100,50,2016,7
+"University of Arizona","AZ",101,51,2016,6
+"Arizona State University","AZ",101,51,2016,6
+"Emory University","GA",101,51,2016,6
+"Tufts University","MA",101,51,2016,6
+"Michigan State University","MI",101,51,2016,6
+"University of Rochester","NY",101,51,2016,6
+"Case Western Reserve University","OH",101,51,2016,6
+"Baylor College of Medicine","TX",101,51,2016,6
+"Texas A&M University","TX",101,51,2016,6
+"Texas A&M University","TX",101,51,2016,6
+"Arizona State University","AZ",101,49,2017,6
+"Emory University","GA",101,49,2017,6
+"Michigan State University","MI",101,49,2017,6
+"University of Rochester","NY",101,49,2017,6
+"Case Western Reserve University","OH",101,49,2017,6
+"Brown University","RI",101,49,2017,6
+"Texas A&M University","TX",101,49,2017,6
+"Baylor College of Medicine","TX",101,49,2017,6
+"Texas A&M University","TX",101,49,2017,6
+"University of Utah","UT",101,49,2017,6
+"Arizona State University","AZ",101,47,2018,6
+"University of Arizona","AZ",101,47,2018,6
+"Emory University","GA",101,47,2018,6
+"Michigan State University","MI",101,47,2018,6
+"Rutgers, The State University of New Jersey - New Brunswick","NJ",101,47,2018,6
+"Case Western Reserve University","OH",101,47,2018,6
+"Brown University","RI",101,47,2018,6
+"Baylor College of Medicine","TX",101,47,2018,6
+"University of Utah","UT",101,47,2018,6
+"Arizona State University","AZ",101,46,2019,6
+"University of Arizona","AZ",101,46,2019,6
+"Georgia Institute of Technology","GA",101,46,2019,6
+"Emory University","GA",101,46,2019,6
+"Michigan State University","MI",101,46,2019,6
+"Rutgers, The State University of New Jersey - New Brunswick","NJ",101,46,2019,6
+"Case Western Reserve University","OH",101,46,2019,6
+"Baylor College of Medicine","TX",101,46,2019,6
+"University of Utah","UT",101,46,2019,6
+"University of Arizona","AZ",101,42,2020,6
+"Arizona State University","AZ",101,42,2020,6
+"Georgia Institute of Technology","GA",101,42,2020,6
+"Emory University","GA",101,42,2020,6
+"Michigan State University","MI",101,42,2020,6
+"Rutgers, The State University of New Jersey - New Brunswick","NJ",101,42,2020,6
+"Case Western Reserve University","OH",101,42,2020,6
+"Pennsylvania State University - University Park","PA",101,42,2020,6
+"Pennsylvania State University - University Park","PA",101,42,2020,6
+"Pennsylvania State University - University Park","PA",101,42,2020,6
+"Brown University","RI",101,42,2020,6
+"Rice University","TX",101,42,2020,6
+"University of Utah","UT",101,42,2020,6
+"University of Delaware","DE",151,62,2016,6
+"University of Miami","FL",151,62,2016,6
+"University of Hawaii at Manoa","HI",151,62,2016,6
+"University of Iowa","IA",151,62,2016,6
+"University of Massachusetts Amherst","NE",151,62,2016,6
+"University of Massachusetts Amherst","NE",151,62,2016,6
+"University of Massachusetts Amherst","NE",151,62,2016,6
+"University of Massachusetts Amherst","NE",151,62,2016,6
+"Oregon State University","OR",151,62,2016,6
+"University of Virginia","VA",151,62,2016,6
+"University of Virginia","VA",151,62,2016,6
+"University of Virginia","VA",151,62,2016,6
+"University of Virginia","VA",151,62,2016,6
+"University of Virginia","VA",151,62,2016,6
+"University of Delaware","DE",151,61,2017,6
+"University of Miami","FL",151,61,2017,6
+"University of Iowa","IA",151,61,2017,6
+"University of Nebraska - Lincoln","MA",151,61,2017,6
+"Tufts University","MA",151,61,2017,6
+"University of Nebraska - Lincoln","MA",151,61,2017,6
+"University of Nebraska - Lincoln","MA",151,61,2017,6
+"University of Nebraska - Lincoln","MA",151,61,2017,6
+"University of Massachusetts Amherst","NE",151,61,2017,6
+"University of Massachusetts Amherst","NE",151,61,2017,6
+"University of Massachusetts Amherst","NE",151,61,2017,6
+"University of Massachusetts Amherst","NE",151,61,2017,6
+"Oregon State University","OR",151,61,2017,6
+"University of Virginia","VA",151,61,2017,6
+"University of Virginia","VA",151,61,2017,6
+"University of Virginia","VA",151,61,2017,6
+"University of Virginia","VA",151,61,2017,6
+"University of Virginia","VA",151,61,2017,6
+"University of Iowa","IA",151,59,2018,6
+"Tufts University","MA",151,59,2018,6
+"North Carolina State University - Raleigh","NC",151,59,2018,6
+"University of Massachusetts Amherst","NE",151,59,2018,6
+"University of Massachusetts Amherst","NE",151,59,2018,6
+"University of Massachusetts Amherst","NE",151,59,2018,6
+"University of Massachusetts Amherst","NE",151,59,2018,6
+"University of Rochester","NY",151,59,2018,6
+"Oregon State University","OR",151,59,2018,6
+"Texas A&M University","TX",151,59,2018,6
+"Texas A&M University","TX",151,59,2018,6
+"University of Virginia","VA",151,59,2018,6
+"University of Virginia","VA",151,59,2018,6
+"University of Virginia","VA",151,59,2018,6
+"University of Virginia","VA",151,59,2018,6
+"University of Virginia","VA",151,59,2018,6
+"Tufts University","MA",151,59,2019,6
+"University of Missouri - Columbia","MS",151,59,2019,6
+"University of Massachusetts Amherst","NE",151,59,2019,6
+"University of Massachusetts Amherst","NE",151,59,2019,6
+"University of Massachusetts Amherst","NE",151,59,2019,6
+"University of Massachusetts Amherst","NE",151,59,2019,6
+"University of Rochester","NY",151,59,2019,6
+"Texas A&M University","TX",151,59,2019,6
+"Texas A&M University","TX",151,59,2019,6
+"University of Virginia","VA",151,59,2019,6
+"University of Virginia","VA",151,59,2019,6
+"University of Virginia","VA",151,59,2019,6
+"University of Virginia","VA",151,59,2019,6
+"University of Virginia","VA",151,59,2019,6
+"Tufts University","MA",151,57,2020,6
+"University of Missouri - Columbia","MS",151,57,2020,6
+"University of Massachusetts Amherst","NE",151,57,2020,6
+"University of Massachusetts Amherst","NE",151,57,2020,6
+"University of Massachusetts Amherst","NE",151,57,2020,6
+"University of Massachusetts Amherst","NE",151,57,2020,6
+"University of Rochester","NY",151,57,2020,6
+"Texas A&M University","TX",151,57,2020,6
+"Texas A&M University","TX",151,57,2020,6
+"Baylor College of Medicine","TX",151,57,2020,6
+"University of Virginia","VA",151,57,2020,6
+"University of Virginia","VA",151,57,2020,6
+"University of Virginia","VA",151,57,2020,6
+"University of Virginia","VA",151,57,2020,6
+"University of Virginia","VA",151,57,2020,6
+"University of Alabama at Birmingham","AL",201,72,2016,5
+"Colorado State University","CO",201,72,2016,5
+"University of South Florida","FL",201,72,2016,5
+"Florida State University","FL",201,72,2016,5
+"Iowa State University","IA",201,72,2016,5
+"University of Illinois at Chicago","IL",201,72,2016,5
+"University of Notre Dame","IN",201,72,2016,5
+"University of Kansas","KS",201,72,2016,5
+"Northeastern University","MA",201,72,2016,5
+"University of Nebraska - Lincoln","MA",201,72,2016,5
+"University of Nebraska - Lincoln","MA",201,72,2016,5
+"University of Nebraska - Lincoln","MA",201,72,2016,5
+"Brandeis University","MA",201,72,2016,5
+"University of Nebraska - Lincoln","MA",201,72,2016,5
+"University of Missouri - Columbia","MS",201,72,2016,5
+"North Carolina State University - Raleigh","NC",201,72,2016,5
+"Dartmouth College","NH",201,72,2016,5
+"The University of New Mexico - Albuquerque","NM",201,72,2016,5
+"Stony Brook University","NY",201,72,2016,5
+"Yeshiva University","NY",201,72,2016,5
+"University of Cincinnati","OH",201,72,2016,5
+"Medical University of South Carolina","SC",201,72,2016,5
+"University of Houston","TX",201,72,2016,5
+"Virginia Commonwealth University","VA",201,72,2016,5
+"George Mason University","VA",201,72,2016,5
+"University of Alabama at Birmingham","AL",201,71,2017,5
+"Colorado State University","CO",201,71,2017,5
+"Georgetown University","DC",201,71,2017,5
+"University of South Florida","FL",201,71,2017,5
+"Florida State University","FL",201,71,2017,5
+"University of Hawaii at Manoa","HI",201,71,2017,5
+"Iowa State University","IA",201,71,2017,5
+"University of Illinois at Chicago","IL",201,71,2017,5
+"University of Notre Dame","IN",201,71,2017,5
+"University of Kansas","KS",201,71,2017,5
+"University of Missouri - Columbia","MS",201,71,2017,5
+"North Carolina State University - Raleigh","NC",201,71,2017,5
+"Dartmouth College","NH",201,71,2017,5
+"Yeshiva University","NY",201,71,2017,5
+"Stony Brook University","NY",201,71,2017,5
+"University of Oregon","OR",201,71,2017,5
+"Medical University of South Carolina","SC",201,71,2017,5
+"University of Tennessee - Knoxville","TN",201,71,2017,5
+"University of Tennessee - Knoxville","TN",201,71,2017,5
+"University of Tennessee - Knoxville","TN",201,71,2017,5
+"University of Tennessee - Knoxville","TN",201,71,2017,5
+"University of Houston","TX",201,71,2017,5
+"Virginia Commonwealth University","VA",201,71,2017,5
+"George Mason University","VA",201,71,2017,5
+"University of Alabama at Birmingham","AL",201,70,2018,5
+"Colorado State University","CO",201,70,2018,5
+"Georgetown University","DC",201,70,2018,5
+"University of Delaware","DE",201,70,2018,5
+"University of South Florida","FL",201,70,2018,5
+"University of Miami","FL",201,70,2018,5
+"Florida State University","FL",201,70,2018,5
+"University of Hawaii at Manoa","HI",201,70,2018,5
+"Iowa State University","IA",201,70,2018,5
+"University of Illinois at Chicago","IL",201,70,2018,5
+"University of Notre Dame","IN",201,70,2018,5
+"University of Kansas","KS",201,70,2018,5
+"University of Nebraska - Lincoln","MA",201,70,2018,5
+"Brandeis University","MA",201,70,2018,5
+"University of Nebraska - Lincoln","MA",201,70,2018,5
+"University of Nebraska - Lincoln","MA",201,70,2018,5
+"University of Nebraska - Lincoln","MA",201,70,2018,5
+"University of Missouri - Columbia","MS",201,70,2018,5
+"Dartmouth College","NH",201,70,2018,5
+"University of Tennessee - Knoxville","TN",201,70,2018,5
+"University of Tennessee - Knoxville","TN",201,70,2018,5
+"University of Tennessee - Knoxville","TN",201,70,2018,5
+"University of Tennessee - Knoxville","TN",201,70,2018,5
+"University of Houston","TX",201,70,2018,5
+"George Mason University","VA",201,70,2018,5
+"Virginia Polytechnic Institute and State University","VA",201,70,2018,5
+"Virginia Commonwealth University","VA",201,70,2018,5
+"University of Alabama at Birmingham","AL",201,67,2019,5
+"Colorado State University","CO",201,67,2019,5
+"University of Connecticut","CT",201,67,2019,5
+"University of Delaware","DE",201,67,2019,5
+"University of South Florida","FL",201,67,2019,5
+"University of Miami","FL",201,67,2019,5
+"Florida State University","FL",201,67,2019,5
+"University of Hawaii at Manoa","HI",201,67,2019,5
+"Iowa State University","IA",201,67,2019,5
+"University of Iowa","IA",201,67,2019,5
+"University of Illinois at Chicago","IL",201,67,2019,5
+"University of Kansas","KS",201,67,2019,5
+"University of Nebraska - Lincoln","MA",201,67,2019,5
+"University of Nebraska - Lincoln","MA",201,67,2019,5
+"University of Nebraska - Lincoln","MA",201,67,2019,5
+"University of Nebraska - Lincoln","MA",201,67,2019,5
+"North Carolina State University - Raleigh","NC",201,67,2019,5
+"Yeshiva University","NY",201,67,2019,5
+"Stony Brook University","NY",201,67,2019,5
+"Oregon State University","OR",201,67,2019,5
+"University of Tennessee - Knoxville","TN",201,67,2019,5
+"University of Tennessee - Knoxville","TN",201,67,2019,5
+"University of Tennessee - Knoxville","TN",201,67,2019,5
+"University of Tennessee - Knoxville","TN",201,67,2019,5
+"University of Houston","TX",201,67,2019,5
+"George Mason University","VA",201,67,2019,5
+"Virginia Commonwealth University","VA",201,67,2019,5
+"Virginia Polytechnic Institute and State University","VA",201,67,2019,5
+"Colorado State University","CO",201,66,2020,5
+"University of Connecticut","CT",201,66,2020,5
+"Georgetown University","DC",201,66,2020,5
+"University of Delaware","DE",201,66,2020,5
+"Florida State University","FL",201,66,2020,5
+"University of South Florida","FL",201,66,2020,5
+"University of Miami","FL",201,66,2020,5
+"Iowa State University","IA",201,66,2020,5
+"University of Iowa","IA",201,66,2020,5
+"University of Illinois at Chicago","IL",201,66,2020,5
+"University of Kansas","KS",201,66,2020,5
+"University of Nebraska - Lincoln","MA",201,66,2020,5
+"University of Nebraska - Lincoln","MA",201,66,2020,5
+"University of Nebraska - Lincoln","MA",201,66,2020,5
+"University of Nebraska - Lincoln","MA",201,66,2020,5
+"North Carolina State University - Raleigh","NC",201,66,2020,5
+"Dartmouth College","NH",201,66,2020,5
+"Stony Brook University","NY",201,66,2020,5
+"Yeshiva University","NY",201,66,2020,5
+"University of Cincinnati","OH",201,66,2020,5
+"Oregon State University","OR",201,66,2020,5
+"University of Tennessee - Knoxville","TN",201,66,2020,5
+"University of Tennessee - Knoxville","TN",201,66,2020,5
+"University of Tennessee - Knoxville","TN",201,66,2020,5
+"University of Tennessee - Knoxville","TN",201,66,2020,5
+"University of Houston","TX",201,66,2020,5
+"Virginia Polytechnic Institute and State University","VA",201,66,2020,5
+"Virginia Commonwealth University","VA",201,66,2020,5
+"George Mason University","VA",201,66,2020,5
+"University of Connecticut","CT",301,99,2016,5
+"Georgetown University","DC",301,99,2016,5
+"Rush University","IL",301,99,2016,5
+"University of Kentucky","KY",301,99,2016,5
+"Louisiana State University - Baton Rouge","LA",301,99,2016,5
+"Boston College","MA",301,99,2016,5
+"Wayne State University","MI",301,99,2016,5
+"University of Oregon","OR",301,99,2016,5
+"Thomas Jefferson University","PA",301,99,2016,5
+"Temple University","PA",301,99,2016,5
+"University of South Carolina - Columbia","SC",301,99,2016,5
+"University of Tennessee - Knoxville","TN",301,99,2016,5
+"University of Tennessee - Knoxville","TN",301,99,2016,5
+"University of Tennessee - Knoxville","TN",301,99,2016,5
+"University of Tennessee - Knoxville","TN",301,99,2016,5
+"University of North Texas","TX",301,99,2016,5
+"Virginia Polytechnic Institute and State University","VA",301,99,2016,5
+"University of Vermont","VT",301,99,2016,5
+"University of Manitoba","Canada",301,12,2017,5
+"University of Manitoba","Canada",301,12,2017,5
+"University of Manitoba","Canada",301,12,2017,5
+"University of Manitoba","Canada",301,12,2017,5
+"University of Connecticut","CT",301,100,2017,5
+"University of Central Florida","FL",301,100,2017,5
+"University of Kentucky","KY",301,100,2017,5
+"Louisiana State University - Baton Rouge","LA",301,100,2017,5
+"Boston College","MA",301,100,2017,5
+"Brandeis University","MA",301,100,2017,5
+"Wayne State University","MI",301,100,2017,5
+"The University of New Mexico - Albuquerque","NM",301,100,2017,5
+"University of Cincinnati","OH",301,100,2017,5
+"Temple University","PA",301,100,2017,5
+"University of South Carolina - Columbia","SC",301,100,2017,5
+"University of North Texas","TX",301,100,2017,5
+"Brigham Young University","UT",301,100,2017,5
+"Virginia Polytechnic Institute and State University","VA",301,100,2017,5
+"University of Vermont","VT",301,100,2017,5
+"University of Manitoba","Canada",301,13,2018,5
+"University of Manitoba","Canada",301,13,2018,5
+"University of Manitoba","Canada",301,13,2018,5
+"University of Manitoba","Canada",301,13,2018,5
+"University of Connecticut","CT",301,96,2018,5
+"University of Central Florida","FL",301,96,2018,5
+"University of Kentucky","KY",301,96,2018,5
+"Louisiana State University - Baton Rouge","LA",301,96,2018,5
+"Boston College","MA",301,96,2018,5
+"The University of New Mexico - Albuquerque","NM",301,96,2018,5
+"Stony Brook University","NY",301,96,2018,5
+"Yeshiva University","NY",301,96,2018,5
+"University of Cincinnati","OH",301,96,2018,5
+"University of Oregon","OR",301,96,2018,5
+"Temple University","PA",301,96,2018,5
+"Medical University of South Carolina","SC",301,96,2018,5
+"University of South Carolina - Columbia","SC",301,96,2018,5
+"University of North Texas","TX",301,96,2018,5
+"University of Vermont","VT",301,96,2018,5
+"Washington State University","WA",301,96,2018,5
+"University of Manitoba","Canada",301,13,2019,5
+"University of Manitoba","Canada",301,13,2019,5
+"University of Manitoba","Canada",301,13,2019,5
+"University of Manitoba","Canada",301,13,2019,5
+"Georgetown University","DC",301,95,2019,5
+"University of Central Florida","FL",301,95,2019,5
+"University of Notre Dame","IN",301,95,2019,5
+"Kansas State University","KS",301,95,2019,5
+"University of Kentucky","KY",301,95,2019,5
+"Louisiana State University - Baton Rouge","LA",301,95,2019,5
+"Brandeis University","MA",301,95,2019,5
+"Dartmouth College","NH",301,95,2019,5
+"The University of New Mexico - Albuquerque","NM",301,95,2019,5
+"Rensselaer Polytechnic Institute","NY",301,95,2019,5
+"University of Cincinnati","OH",301,95,2019,5
+"University of Oregon","OR",301,95,2019,5
+"Temple University","PA",301,95,2019,5
+"University of South Carolina - Columbia","SC",301,95,2019,5
+"University of Vermont","VT",301,95,2019,5
+"Washington State University","WA",301,95,2019,5
+"University of Alabama at Birmingham","AL",301,95,2020,5
+"University of Manitoba","Canada",301,13,2020,5
+"University of Manitoba","Canada",301,13,2020,5
+"University of Manitoba","Canada",301,13,2020,5
+"University of Manitoba","Canada",301,13,2020,5
+"University of Central Florida","FL",301,95,2020,5
+"University of Hawaii at Manoa","HI",301,95,2020,5
+"University of Notre Dame","IN",301,95,2020,5
+"University of Kentucky","KY",301,95,2020,5
+"Louisiana State University - Baton Rouge","LA",301,95,2020,5
+"Brandeis University","MA",301,95,2020,5
+"The University of New Mexico - Albuquerque","NM",301,95,2020,5
+"University of Oregon","OR",301,95,2020,5
+"Temple University","PA",301,95,2020,5
+"Medical University of South Carolina","SC",301,95,2020,5
+"University of South Carolina - Columbia","SC",301,95,2020,5
+"University of Vermont","VT",301,95,2020,5
+"Washington State University","WA",301,95,2020,5
+"San Diego State University","CA",401,120,2016,4
+"University of Manitoba","Canada",401,17,2016,4
+"University of Manitoba","Canada",401,17,2016,4
+"University of Manitoba","Canada",401,17,2016,4
+"University of Manitoba","Canada",401,17,2016,4
+"Florida International University","FL",401,120,2016,4
+"University of Central Florida","FL",401,120,2016,4
+"Wake Forest University","NC",401,120,2016,4
+"Rensselaer Polytechnic Institute","NY",401,120,2016,4
+"Oklahoma State University","OK",401,120,2016,4
+"Texas Tech University","TX",401,120,2016,4
+"Brigham Young University","UT",401,120,2016,4
+"Utah State University","UT",401,120,2016,4
+"Washington State University","WA",401,120,2016,4
+"West Virginia University","WV",401,120,2016,4
+"University of Wyoming","WY",401,120,2016,4
+"Florida International University","FL",401,120,2017,4
+"Rush University","IL",401,120,2017,4
+"New Mexico State University","NM",401,120,2017,4
+"Oklahoma State University","OK",401,120,2017,4
+"University of Oklahoma - Norman","OK",401,120,2017,4
+"University of Oklahoma - Norman","OK",401,120,2017,4
+"University of Oklahoma - Norman","OK",401,120,2017,4
+"University of Oklahoma - Norman","OK",401,120,2017,4
+"Concordia University","OR",401,18,2017,4
+"Thomas Jefferson University","PA",401,120,2017,4
+"Washington State University","WA",401,120,2017,4
+"Northwest University","WA",401,34,2017,4
+"West Virginia University","WV",401,120,2017,4
+"University of Wyoming","WY",401,120,2017,4
+"Florida International University","FL",401,118,2018,4
+"Rush University","IL",401,118,2018,4
+"Kansas State University","KS",401,118,2018,4
+"University of Maine","ME",401,118,2018,4
+"Wayne State University","MI",401,118,2018,4
+"Mississippi State University","MS",401,118,2018,4
+"Oklahoma State University","OK",401,118,2018,4
+"University of Oklahoma - Norman","OK",401,118,2018,4
+"University of Oklahoma - Norman","OK",401,118,2018,4
+"University of Oklahoma - Norman","OK",401,118,2018,4
+"University of Oklahoma - Norman","OK",401,118,2018,4
+"Thomas Jefferson University","PA",401,118,2018,4
+"Texas Tech University","TX",401,118,2018,4
+"Brigham Young University","UT",401,118,2018,4
+"Utah State University","UT",401,118,2018,4
+"University of Wisconsin-Milwaukee","WI",401,118,2018,4
+"West Virginia University","WV",401,118,2018,4
+"University of Wyoming","WY",401,118,2018,4
+"Florida International University","FL",401,117,2019,4
+"Tulane University","LA",401,117,2019,4
+"Tulane University","LA",401,117,2019,4
+"Boston College","MA",401,117,2019,4
+"Wayne State University","MI",401,117,2019,4
+"Wake Forest University","NC",401,117,2019,4
+"University of Oklahoma - Norman","OK",401,117,2019,4
+"University of Oklahoma - Norman","OK",401,117,2019,4
+"University of Oklahoma - Norman","OK",401,117,2019,4
+"University of Oklahoma - Norman","OK",401,117,2019,4
+"Thomas Jefferson University","PA",401,117,2019,4
+"Clemson University","SC",401,117,2019,4
+"Medical University of South Carolina","SC",401,117,2019,4
+"University of North Texas","TX",401,117,2019,4
+"Brigham Young University","UT",401,117,2019,4
+"Utah State University","UT",401,117,2019,4
+"West Virginia University","WV",401,117,2019,4
+"University of Wyoming","WY",401,117,2019,4
+"University of California-Merced","CA",401,115,2020,4
+"San Diego State University","CA",401,115,2020,4
+"Florida International University","FL",401,115,2020,4
+"Georgia State University","GA",401,115,2020,4
+"Kansas State University","KS",401,115,2020,4
+"University of Maine","ME",401,115,2020,4
+"Wake Forest University","NC",401,115,2020,4
+"Rensselaer Polytechnic Institute","NY",401,115,2020,4
+"University of Oklahoma - Norman","OK",401,115,2020,4
+"University of Oklahoma - Norman","OK",401,115,2020,4
+"University of Oklahoma - Norman","OK",401,115,2020,4
+"University of Oklahoma - Norman","OK",401,115,2020,4
+"Texas Tech University","TX",401,115,2020,4
+"University of North Texas","TX",401,115,2020,4
+"Brigham Young University","UT",401,115,2020,4
+"Utah State University","UT",401,115,2020,4
+"West Virginia University","WV",401,115,2020,4
+"Auburn University","AL",501,138,2019,4
+"Northern Arizona University","AZ",501,138,2019,4
+"San Diego State University","CA",501,138,2019,4
+"Georgia State University","GA",501,138,2019,4
+"Rush University","IL",501,138,2019,4
+"University of Maine","ME",501,138,2019,4
+"Mississippi State University","MS",501,138,2019,4
+"Montana State University","MT",501,138,2019,4
+"Oklahoma State University","OK",501,138,2019,4
+"Baylor University","TX",501,138,2019,4
+"Southern Methodist University","TX",501,138,2019,4
+"Texas Tech University","TX",501,138,2019,4
+"Auburn University","AL",501,134,2020,4
+"Northern Arizona University","AZ",501,134,2020,4
+"University of Idaho","ID",501,134,2020,4
+"Rush University","IL",501,134,2020,4
+"Loyola University Chicago","IL",501,134,2020,4
+"Boston College","MA",501,134,2020,4
+"University of New England","ME",501,24,2020,4
+"Wayne State University","MI",501,134,2020,4
+"Mississippi State University","MS",501,134,2020,4
+"University of Nevada-Las Vegas","NV",501,134,2020,4
+"Oklahoma State University","OK",501,134,2020,4
+"Thomas Jefferson University","PA",501,134,2020,4
+"Clemson University","SC",501,134,2020,4
+"Southern Methodist University","TX",501,134,2020,4
+"Baylor University","TX",501,134,2020,4
+"University of Wyoming","WY",501,134,2020,4
+"Colorado School of Mines","CO",601,156,2019,4
+"University of Idaho","ID",601,156,2019,4
+"Loyola University Chicago","IL",601,156,2019,4
+"University of Louisville","KY",601,156,2019,4
+"Brescia University","KY",601,25,2019,4
+"University of New England","ME",601,26,2019,4
+"University of Nebraska Medical Center","NE",601,156,2019,4
+"Syracuse University","NY",601,156,2019,4
+"Lehigh University","PA",601,156,2019,4
+"University of Rhode Island","RI",601,156,2019,4
+"The University of Texas at San Antonio","TX",601,156,2019,4
+"The University of Texas at San Antonio","TX",601,156,2019,4
+"The University of Texas at San Antonio","TX",601,156,2019,4
+"Old Dominion University","VA",601,156,2019,4
+"Northwest University","WA",601,73,2019,4
+"Medical College of Wisconsin","WI",601,156,2019,4
+"Colorado School of Mines","CO",601,155,2020,4
+"University of Louisville","KY",601,155,2020,4
+"Tulane University","LA",601,155,2020,4
+"Tulane University","LA",601,155,2020,4
+"University of Nebraska Medical Center","NE",601,155,2020,4
+"Syracuse University","NY",601,155,2020,4
+"University of Toledo","OH",601,155,2020,4
+"Ohio University","OH",601,155,2020,4
+"Concordia University","OR",601,21,2020,4
+"Swarthmore College","PA",601,155,2020,4
+"The University of Texas at San Antonio","TX",601,155,2020,4
+"University of Texas at El Paso","TX",601,155,2020,4
+"University of Texas at El Paso","TX",601,155,2020,4
+"The University of Texas at San Antonio","TX",601,155,2020,4
+"University of Texas at El Paso","TX",601,155,2020,4
+"University of Texas at El Paso","TX",601,155,2020,4
+"The University of Texas at San Antonio","TX",601,155,2020,4
+"Northwest University","WA",601,85,2020,4
+"University of Wisconsin-Milwaukee","WI",601,155,2020,4
+"Medical College of Wisconsin","WI",601,155,2020,4
+"University of Arkansas for Medical Sciences","AR",701,172,2019,4
+"Amherst College","MA",701,172,2019,4
+"Michigan Technological University","MI",701,172,2019,4
+"East Carolina University","NC",701,172,2019,4
+"Stevens Institute of Technology","NJ",701,172,2019,4
+"University of Nevada-Las Vegas","NV",701,172,2019,4
+"Ohio University","OH",701,172,2019,4
+"Swarthmore College","PA",701,172,2019,4
+"University of Texas at El Paso","TX",701,172,2019,4
+"University of Texas at El Paso","TX",701,172,2019,4
+"University of Texas at El Paso","TX",701,172,2019,4
+"University of Texas at El Paso","TX",701,172,2019,4
+"University of Arkansas for Medical Sciences","AR",701,176,2020,4
+"Brescia University","KY",701,31,2020,4
+"Michigan Technological University","MI",701,176,2020,4
+"Lehigh University","PA",701,176,2020,4
+"Old Dominion University","VA",701,176,2020,4
+"University of Arkansas at Little Rock","AR",801,182,2019,3
+"Lincoln University","MO",801,8,2019,3
+"University of Mississippi","MS",801,182,2019,3
+"The University of Akron","OH",801,182,2019,3
+"University of Toledo","OH",801,182,2019,3
+"Portland State University","OR",801,182,2019,3
+"Concordia University","OR",801,26,2019,3
+"Haverford College","PA",801,182,2019,3
+"College of William and Mary","VA",801,182,2019,3
+"Florida Atlantic University","FL",801,182,2020,3
+"Boise State University","ID",801,182,2020,3
+"Amherst College","MA",801,182,2020,3
+"Lincoln University","MO",801,7,2020,3
+"Portland State University","OR",801,182,2020,3
+"Haverford College","PA",801,182,2020,3
+"University of Rhode Island","RI",801,182,2020,3
+"South Dakota State University","SD",801,182,2020,3
+"University of Denver","CO",901,193,2019,3
+"Florida Atlantic University","FL",901,193,2019,3
+"University of New Orleans","LA",901,193,2019,3
+"Worcester Polytechnic Institute","MA",901,193,2019,3
+"Clark University","MA",901,193,2019,3
+"Williams College","MA",901,193,2019,3
+"University of North Carolina at Charlotte","NC",901,193,2019,3
+"New Jersey Institute of Technology","NJ",901,193,2019,3
+"New Mexico State University","NM",901,193,2019,3
+"Union College","NY",901,193,2019,3
+"University of Arkansas at Little Rock","AR",901,191,2020,3
+"University of Denver","CO",901,191,2020,3
+"Howard University","DC",901,191,2020,3
+"Worcester Polytechnic Institute","MA",901,191,2020,3
+"Williams College","MA",901,191,2020,3
+"University of North Carolina at Greensboro","NC",901,191,2020,3
+"East Carolina University","NC",901,191,2020,3
+"University of North Carolina at Charlotte","NC",901,191,2020,3
+"Stevens Institute of Technology","NJ",901,191,2020,3
+"New Jersey Institute of Technology","NJ",901,191,2020,3
+"The University of Akron","OH",901,191,2020,3
+"College of William and Mary","VA",901,191,2020,3
