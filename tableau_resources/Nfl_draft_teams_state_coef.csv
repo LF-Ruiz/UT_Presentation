@@ -1,0 +1,1236 @@
+player_id,Pick,Round,Year,College,Conference,State,Coeficient
+100,1,1,2016,"University of California, Berkeley",PAC-12,CA,10
+359,1,1,2017,Texas A&M University,SEC,TX,10
+618,1,1,2018,University of Oklahoma,Big 12,OK,10
+880,1,1,2019,University of Oklahoma,Big 12,OK,10
+1140,1,1,2020,Louisiana State University - Baton Rouge,SEC,LA,10
+101,2,1,2016,University of North Dakota,MVFC,ND,10
+360,2,1,2017,University of North Carolina at Greensboro,SoCon,NC,10
+619,2,1,2018,Pennsylvania State University,Big Ten,PA,10
+881,2,1,2019,Ohio State University,Big Ten,OH,10
+1141,2,1,2020,Ohio State University,Big Ten,OH,10
+102,3,1,2016,Ohio State University,Big Ten,OH,10
+361,3,1,2017,Stanford University,PAC-12,CA,10
+620,3,1,2018,University of South Carolina,SEC,SC,10
+882,3,1,2019,The University of Alabama,SEC,AL,10
+1142,3,1,2020,Ohio State University,Big Ten,OH,10
+103,4,1,2016,Ohio State University,Big Ten,OH,10
+362,4,1,2017,Louisiana State University - Baton Rouge,SEC,LA,10
+621,4,1,2018,Ohio State University,Big Ten,OH,10
+883,4,1,2019,Clemson University,ACC,SC,10
+1143,4,1,2020,University of Georgia,SEC,GA,10
+104,5,1,2016,Florida State University,ACC,FL,10
+622,5,1,2018,North Carolina State University - Raleigh,ACC,NC,10
+884,5,1,2019,Louisiana State University - Baton Rouge,SEC,LA,10
+1144,5,1,2020,The University of Alabama,SEC,AL,10
+105,6,1,2016,University of Notre Dame,ACC,IN,9
+364,6,1,2017,Louisiana State University - Baton Rouge,SEC,LA,9
+623,6,1,2018,University of Notre Dame,ACC,IN,9
+885,6,1,2019,Duke University,ACC,NC,9
+1145,6,1,2020,University of Oregon,PAC-12,OR,9
+106,7,1,2016,University of Oregon,PAC-12,OR,9
+365,7,1,2017,Clemson University,ACC,SC,9
+624,7,1,2018,University of Wyoming,MW,WY,9
+886,7,1,2019,University of Kentucky,SEC,KY,9
+1146,7,1,2020,Auburn University,SEC,AL,9
+107,8,1,2016,Michigan State University,Big Ten,MI,9
+366,8,1,2017,Stanford University,PAC-12,CA,9
+625,8,1,2018,University of Georgia,SEC,GA,9
+887,8,1,2019,University of Iowa,Big Ten,IA,9
+1147,8,1,2020,Clemson University,ACC,SC,9
+108,9,1,2016,University of Georgia,SEC,GA,9
+367,9,1,2017,University of Washington,PAC-12,WA,9
+626,9,1,2018,University of Notre Dame,ACC,IN,9
+888,9,1,2019,University of Houston,AAC,TX,9
+1148,9,1,2020,Florida State University,ACC,FL,9
+109,10,1,2016,Ohio State University,Big Ten,OH,9
+368,10,1,2017,Texas Tech University,Big 12,TX,9
+627,10,1,2018,"University of California, Los Angeles",PAC-12,CA,9
+889,10,1,2019,University of Michigan-Ann Arbor,Big Ten,MI,9
+1149,10,1,2020,The University of Alabama,SEC,AL,9
+110,11,1,2016,Florida State University,ACC,FL,8
+369,11,1,2017,Ohio State University,Big Ten,OH,8
+628,11,1,2018,The University of Alabama,SEC,AL,8
+890,11,1,2019,The University of Alabama,SEC,AL,8
+1150,11,1,2020,University of Louisville,ACC,KY,8
+111,12,1,2016,University of Louisville,ACC,KY,8
+370,12,1,2017,Clemson University,ACC,SC,8
+629,12,1,2018,University of Washington,PAC-12,WA,8
+891,12,1,2019,University of Michigan-Ann Arbor,Big Ten,MI,8
+1151,12,1,2020,The University of Alabama,SEC,AL,8
+112,13,1,2016,University of Mississippi,SEC,MS,8
+371,13,1,2017,Temple University,AAC,PA,8
+630,13,1,2018,The University of Alabama,SEC,AL,8
+892,13,1,2019,Clemson University,ACC,SC,8
+1152,13,1,2020,University of Iowa,Big Ten,IA,8
+113,14,1,2016,West Virginia University,Big 12,WV,8
+372,14,1,2017,University of Tennessee,SEC,TN,8
+631,14,1,2018,The University of Texas at San Antonio,C-USA,TX,8
+893,14,1,2019,Boston College,ACC,MA,8
+1153,14,1,2020,University of South Carolina,SEC,SC,8
+114,15,1,2016,Baylor University,Big 12,TX,8
+373,15,1,2017,Ohio State University,Big Ten,OH,8
+632,15,1,2018,"University of California, Los Angeles",PAC-12,CA,8
+894,15,1,2019,Ohio State University,Big Ten,OH,8
+1154,15,1,2020,The University of Alabama,SEC,AL,8
+115,16,1,2016,Ohio State University,Big Ten,OH,8
+374,16,1,2017,The University of Alabama,SEC,AL,8
+633,16,1,2018,Virginia Polytechnic Institute and State University,ACC,VA,8
+895,16,1,2019,Florida State University,ACC,FL,8
+1155,16,1,2020,Clemson University,ACC,SC,8
+116,17,1,2016,Florida State University,ACC,FL,8
+375,17,1,2017,The University of Alabama,SEC,AL,8
+634,17,1,2018,Florida State University,ACC,FL,8
+896,17,1,2019,Clemson University,ACC,SC,8
+1156,17,1,2020,University of Oklahoma,Big 12,OK,8
+117,18,1,2016,The University of Alabama,SEC,AL,8
+376,18,1,2017,University of South Carolina,SEC,SC,8
+635,18,1,2018,University of Louisville,ACC,KY,8
+897,18,1,2019,North Carolina State University - Raleigh,ACC,NC,8
+1157,18,1,2020,University of South Carolina,SEC,SC,8
+118,19,1,2016,Clemson University,ACC,SC,8
+377,19,1,2017,The University of Alabama,SEC,AL,8
+636,19,1,2018,Boise State University,MW,ID,8
+898,19,1,2019,Mississippi State University,SEC,MS,8
+1158,19,1,2020,Ohio State University,Big Ten,OH,8
+119,20,1,2016,Ohio State University,Big Ten,OH,8
+378,20,1,2017,University of Utah,PAC-12,UT,8
+637,20,1,2018,University of Arkansas,SEC,AR,8
+899,20,1,2019,University of Iowa,Big Ten,IA,8
+1159,20,1,2020,Louisiana State University - Baton Rouge,SEC,LA,8
+120,21,1,2016,University of Notre Dame,ACC,IN,8
+379,21,1,2017,Florida State University,ACC,FL,8
+638,21,1,2018,Ohio State University,Big Ten,OH,8
+900,21,1,2019,"University of Maryland, College Park",Big Ten,MD,8
+1160,21,1,2020,Texas Christian University,Big 12,TX,8
+121,22,1,2016,Texas Christian University,Big 12,TX,8
+380,22,1,2017,University of Missouri,SEC,MS,8
+639,22,1,2018,The University of Alabama,SEC,AL,8
+901,22,1,2019,Washington State University,PAC-12,WA,8
+1161,22,1,2020,Louisiana State University - Baton Rouge,SEC,LA,8
+122,23,1,2016,University of Mississippi,SEC,MS,8
+381,23,1,2017,University of Mississippi,SEC,MS,8
+640,23,1,2018,University of Georgia,SEC,GA,8
+902,23,1,2019,Alabama State University,SWAC,AL,8
+1162,23,1,2020,University of Oklahoma,Big 12,OK,8
+123,24,1,2016,University of Houston,AAC,TX,8
+382,24,1,2017,Ohio State University,Big Ten,OH,8
+641,24,1,2018,"University of Maryland, College Park",Big Ten,MD,8
+903,24,1,2019,The University of Alabama,SEC,AL,8
+1163,24,1,2020,University of Michigan-Ann Arbor,Big Ten,MI,8
+124,25,1,2016,University of Miami,ACC,FL,8
+383,25,1,2017,University of Michigan-Ann Arbor,Big Ten,MI,8
+642,25,1,2018,University of South Carolina,SEC,SC,8
+904,25,1,2019,University of Oklahoma,Big 12,OK,8
+1164,25,1,2020,Arizona State University,PAC-12,AZ,8
+125,26,1,2016,University of Memphis,AAC,TN,8
+384,26,1,2017,"University of California, Los Angeles",PAC-12,CA,8
+643,26,1,2018,The University of Alabama,SEC,AL,8
+905,26,1,2019,Mississippi State University,SEC,MS,8
+1165,26,1,2020,Utah State University,MW,UT,8
+126,27,1,2016,"University of California, Los Angeles",PAC-12,CA,8
+385,27,1,2017,Louisiana State University - Baton Rouge,SEC,LA,8
+644,27,1,2018,San Diego State University,MW,CA,8
+906,27,1,2019,Mississippi State University,SEC,MS,8
+1166,27,1,2020,Texas Tech University,Big 12,TX,8
+127,28,1,2016,Stanford University,PAC-12,CA,8
+386,28,1,2017,University of Michigan-Ann Arbor,Big Ten,MI,8
+645,28,1,2018,Virginia Polytechnic Institute and State University,ACC,VA,8
+907,28,1,2019,University of Notre Dame,ACC,IN,8
+1167,28,1,2020,Louisiana State University - Baton Rouge,SEC,LA,8
+128,29,1,2016,University of Mississippi,SEC,MS,8
+387,29,1,2017,University of Miami,ACC,FL,8
+646,29,1,2018,Florida State University,ACC,FL,8
+908,29,1,2019,Texas Christian University,Big 12,TX,8
+1168,29,1,2020,University of Georgia,SEC,GA,8
+129,30,1,2016,Louisiana Tech University,C-USA,LA,8
+388,30,1,2017,University of Wisconsin - Madison,Big Ten,WI,8
+647,30,1,2018,University of Central Florida,AAC,FL,8
+909,30,1,2019,University of Georgia,SEC,GA,8
+1169,30,1,2020,Auburn University,SEC,AL,8
+130,31,1,2016,Texas A&M University,SEC,TX,8
+389,31,1,2017,The University of Alabama,SEC,AL,8
+648,31,1,2018,University of Georgia,SEC,GA,8
+910,31,1,2019,University of Washington,PAC-12,WA,8
+1170,31,1,2020,Texas Christian University,Big 12,TX,8
+132,32,2,2016,Oklahoma State University,Big 12,OK,8
+390,32,1,2017,University of Wisconsin - Madison,Big Ten,WI,8
+649,32,1,2018,University of Louisville,ACC,KY,8
+911,32,1,2019,Arizona State University,PAC-12,AZ,8
+1171,32,1,2020,Louisiana State University - Baton Rouge,SEC,LA,8
+133,33,2,2016,Clemson University,ACC,SC,7
+392,33,2,2017,University of Washington,PAC-12,WA,7
+651,33,2,2018,University of Nevada-Reno,MW,NV,7
+913,33,2,2019,University of Washington,PAC-12,WA,7
+1173,33,2,2020,Clemson University,ACC,SC,7
+134,34,2,2016,University of Notre Dame,ACC,IN,7
+393,34,2,2017,The University of Alabama,SEC,AL,7
+652,34,2,2018,University of Texas at El Paso,C-USA,TX,7
+914,34,2,2019,Temple University,AAC,PA,7
+1174,34,2,2020,University of South Carolina,SEC,SC,7
+135,35,2,2016,University of Arkansas,SEC,AR,7
+394,35,2,2017,Michigan State University,Big Ten,MI,7
+653,35,2,2018,University of Georgia,SEC,GA,7
+915,35,2,2019,Florida State University,ACC,FL,7
+1175,35,2,2020,University of Georgia,SEC,GA,7
+136,36,2,2016,"University of California, Los Angeles",PAC-12,CA,7
+395,36,2,2017,University of Washington,PAC-12,WA,7
+654,36,2,2018,South Carolina State University,MEAC,SC,7
+916,36,2,2019,University of South Carolina,SEC,SC,7
+1176,36,2,2020,The University of Alabama,SEC,AL,7
+137,37,2,2016,Mississippi State University,SEC,MS,7
+396,37,2,2017,East Carolina University,AAC,NC,7
+655,37,2,2018,Auburn University,SEC,AL,7
+917,37,2,2019,University of Mississippi,SEC,MS,7
+138,38,2,2016,Baylor University,Big 12,TX,7
+397,38,2,2017,Western Kentucky University,C-USA,KY,7
+656,38,2,2018,University of South Carolina,SEC,SC,7
+918,38,2,2019,University of Oklahoma,Big 12,OK,7
+1178,38,2,2020,Pennsylvania State University,Big Ten,PA,7
+139,39,2,2016,Eastern Kentucky University,ASUN,LA,7
+139,39,2,2016,Eastern Kentucky University,OVC,LA,7
+398,39,2,2017,Florida State University,ACC,FL,7
+657,39,2,2018,University of Iowa,Big Ten,IA,7
+919,39,2,2019,Central Michigan University,MAC,MI,7
+1179,39,2,2020,University of Louisiana at Lafayette,SBC,LA,7
+140,40,2,2016,University of Oklahoma,Big 12,OK,7
+399,40,2,2017,Ohio State University,Big Ten,OH,7
+658,40,2,2018,Southern Methodist University,AAC,TX,7
+920,40,2,2019,Clemson University,ACC,SC,7
+1180,40,2,2020,Texas Christian University,Big 12,TX,7
+141,41,2,2016,The University of Alabama,SEC,AL,7
+400,41,2,2017,Florida State University,ACC,FL,7
+659,41,2,2018,Boston College,ACC,MA,7
+921,41,2,2019,Kansas State University,Big 12,KS,7
+1181,41,2,2020,University of Wisconsin - Madison,Big Ten,WI,7
+142,42,2,2016,Boise State University,MW,ID,7
+401,42,2,2017,University of Utah,PAC-12,UT,7
+660,42,2,2018,Pennsylvania State University,Big Ten,PA,7
+922,42,2,2019,University of Missouri,SEC,MS,7
+1182,42,2,2020,University of Colorado Boulder,PAC-12,CO,7
+143,43,2,2016,Pennsylvania State University,Big Ten,PA,7
+402,43,2,2017,University of Washington,PAC-12,WA,7
+661,43,2,2018,Auburn University,SEC,AL,7
+1183,43,2,2020,University of Notre Dame,ACC,IN,7
+144,44,2,2016,University of Illinois at Urbana-Champaign,Big Ten,IL,7
+403,44,2,2017,University of South Alabama,SBC,AL,7
+662,44,2,2018,University of Washington,PAC-12,WA,7
+924,44,2,2019,Mississippi State University,SEC,MS,7
+1184,44,2,2020,Louisiana State University - Baton Rouge,SEC,LA,7
+145,45,2,2016,The University of Alabama,SEC,AL,7
+663,45,2,2018,University of Iowa,Big Ten,IA,7
+925,45,2,2019,Vanderbilt University,SEC,TN,7
+1185,45,2,2020,"University of Minnesota, Twin Cities",Big Ten,MN,7
+146,46,2,2016,The University of Alabama,SEC,AL,7
+405,46,2,2017,Florida State University,ACC,FL,7
+664,46,2,2018,University of Mississippi,SEC,MS,7
+926,46,2,2019,Louisiana State University - Baton Rouge,SEC,LA,7
+1186,46,2,2020,Pennsylvania State University,Big Ten,PA,7
+147,47,2,2016,Ohio State University,Big Ten,OH,7
+406,47,2,2017,University of Houston,AAC,TX,7
+665,47,2,2018,Texas A&M University,SEC,TX,7
+927,47,2,2019,University of Utah,PAC-12,UT,7
+1187,47,2,2020,Auburn University,SEC,AL,7
+148,48,2,2016,Indiana State University,MVFC,IN,7
+407,48,2,2017,University of Oklahoma,Big 12,OK,7
+666,48,2,2018,University of South Carolina,SEC,SC,7
+928,48,2,2019,Texas A&M University,SEC,TX,7
+1188,48,2,2020,University of Tennessee,SEC,TN,7
+149,49,2,2016,The University of Alabama,SEC,AL,6
+408,49,2,2017,The University of Alabama,SEC,AL,6
+667,49,2,2018,South Dakota State University,MVFC,SD,6
+929,49,2,2019,Texas Christian University,Big 12,TX,6
+1189,49,2,2020,University of Notre Dame,ACC,IN,6
+150,50,2,2016,University of Notre Dame,ACC,IN,6
+409,50,2,2017,Texas A&M University,SEC,TX,6
+668,50,2,2018,The University of Texas at Austin,Big 12,TX,6
+930,50,2,2019,The University of Alabama,SEC,AL,6
+1190,50,2,2020,University of Utah,PAC-12,UT,6
+151,51,2,2016,Pennsylvania State University,Big Ten,PA,6
+410,51,2,2017,Florida State University,ACC,FL,6
+669,51,2,2018,University of Memphis,AAC,TN,6
+931,51,2,2019,University of Mississippi,SEC,MS,6
+1191,51,2,2020,The University of Alabama,SEC,AL,6
+152,52,2,2016,Louisiana State University - Baton Rouge,SEC,LA,6
+411,52,2,2017,University of Notre Dame,ACC,IN,6
+670,52,2,2018,Rutgers University,Big Ten,NJ,6
+932,52,2,2019,University of Washington,PAC-12,WA,6
+1192,52,2,2020,Florida State University,ACC,FL,6
+153,53,2,2016,University of South Carolina,SEC,SC,6
+412,53,2,2017,Florida State University,ACC,FL,6
+671,53,2,2018,University of North Carolina at Greensboro,SoCon,NC,6
+933,53,2,2019,Pennsylvania State University,Big Ten,PA,6
+1193,53,2,2020,University of Oklahoma,Big 12,OK,6
+154,54,2,2016,Clemson University,ACC,SC,6
+413,54,2,2017,Ohio State University,Big Ten,OH,6
+672,54,2,2018,Wake Forest University,ACC,NC,6
+934,54,2,2019,University of Kentucky,SEC,KY,6
+1194,54,2,2020,University of Iowa,Big Ten,IA,6
+155,55,2,2016,University of Pittsburgh,ACC,PA,6
+414,55,2,2017,The University of Alabama,SEC,AL,6
+673,55,2,2018,Louisiana State University - Baton Rouge,SEC,LA,6
+935,55,2,2019,Northern Illinois University,MAC,IL,6
+1195,55,2,2020,Ohio State University,Big Ten,OH,6
+156,56,2,2016,Kansas State University,Big 12,KS,6
+415,56,2,2017,Central Connecticut State University,NEC,CT,6
+674,56,2,2018,Florida State University,ACC,FL,6
+936,56,2,2019,University of Georgia,SEC,GA,6
+1196,56,2,2020,The University of Alabama,SEC,AL,6
+157,57,2,2016,Clemson University,ACC,SC,6
+416,57,2,2017,Vanderbilt University,SEC,TN,6
+675,57,2,2018,Sam Houston State University,WAC,TX,6
+937,57,2,2019,Stanford University,PAC-12,CA,6
+1197,57,2,2020,Florida State University,ACC,FL,6
+158,58,2,2016,"University of Maryland, College Park",Big Ten,MD,6
+417,58,2,2017,Louisiana State University - Baton Rouge,SEC,LA,6
+676,58,2,2018,University of Colorado Boulder,PAC-12,CO,6
+938,58,2,2019,University of Central Florida,AAC,FL,6
+1198,58,2,2020,Boise State University,MW,ID,6
+159,59,2,2016,Florida State University,ACC,FL,6
+677,59,2,2018,Louisiana State University - Baton Rouge,SEC,LA,6
+939,59,2,2019,Ohio State University,Big Ten,OH,6
+1199,59,2,2020,Baylor University,Big 12,TX,6
+160,60,2,2016,The University of Alabama,SEC,AL,6
+419,60,2,2017,University of Colorado Boulder,PAC-12,CO,6
+678,60,2,2018,Oklahoma State University,Big 12,OK,6
+940,60,2,2019,University of Delaware,CAA,DE,6
+1200,60,2,2020,University of Michigan-Ann Arbor,Big Ten,MI,6
+161,61,2,2016,Ohio State University,Big Ten,OH,6
+420,61,2,2017,North Carolina State University - Raleigh,ACC,NC,6
+679,61,2,2018,Louisiana State University - Baton Rouge,SEC,LA,6
+941,61,2,2019,University of Washington,PAC-12,WA,6
+1201,61,2,2020,Louisiana State University - Baton Rouge,SEC,LA,6
+162,62,2,2016,Samford University,SoCon,AL,6
+421,62,2,2017,University of South Carolina,SEC,SC,6
+680,62,2,2018,University of Pittsburgh,ACC,PA,6
+942,62,2,2019,University of Massachusetts Amherst,Independent,NE,6
+1202,62,2,2020,Boston College,ACC,MA,6
+163,63,2,2016,Georgia Institute of Technology,ACC,GA,6
+422,63,2,2017,Temple University,AAC,PA,6
+681,63,2,2018,Auburn University,SEC,AL,6
+943,63,2,2019,University of Virginia,ACC,VA,6
+1203,63,2,2020,Mississippi State University,SEC,MS,6
+165,64,3,2016,Middle Tennessee State University,C-USA,TN,6
+682,64,2,2018,Ohio State University,Big Ten,OH,6
+944,64,2,2019,University of Mississippi,SEC,MS,6
+1204,64,2,2020,Southern Illinois University Carbondale,MVFC,IL,6
+166,65,3,2016,Pennsylvania State University,Big Ten,PA,5
+425,65,3,2017,University of North Carolina at Charlotte,C-USA,NC,5
+684,65,3,2018,North Carolina A & T State University,Big South Conference,NC,5
+946,65,3,2019,Boston College,ACC,MA,5
+1206,65,3,2020,University of Wyoming,MW,WY,5
+167,66,3,2016,University of South Carolina,SEC,SC,5
+426,66,3,2017,University of Colorado Boulder,PAC-12,CO,5
+685,66,3,2018,University of Georgia,SEC,GA,5
+947,66,3,2019,University of Toledo,MAC,OH,5
+1207,66,3,2020,University of Memphis,AAC,TN,5
+168,67,3,2016,University of Nebraska - Lincoln,Big Ten,MA,5
+427,67,3,2017,University of Tennessee,SEC,TN,5
+686,67,3,2018,University of Miami,ACC,FL,5
+948,67,3,2019,Baylor University,Big 12,TX,5
+1208,67,3,2020,University of Notre Dame,ACC,IN,5
+169,68,3,2016,Mississippi State University,SEC,MS,5
+428,68,3,2017,University of Illinois at Urbana-Champaign,Big Ten,IL,5
+687,68,3,2018,Stanford University,PAC-12,CA,5
+949,68,3,2019,Florida State University,ACC,FL,5
+1209,68,3,2020,"University of California, Berkeley",PAC-12,CA,5
+170,69,3,2016,"University of Maryland, College Park",Big Ten,MD,5
+429,69,3,2017,Eastern Washington University,Big Sky Conference,WA,5
+688,69,3,2018,North Carolina State University - Raleigh,ACC,NC,5
+950,69,3,2019,San Jose State University,MW,CA,5
+1210,69,3,2020,Louisiana State University - Baton Rouge,SEC,LA,5
+171,70,3,2016,Brigham Young University,Independent,UT,5
+430,70,3,2017,Ohio State University,Big Ten,OH,5
+689,70,3,2018,Brigham Young University,Independent,UT,5
+951,70,3,2019,University of Memphis,AAC,TN,5
+1211,70,3,2020,The University of Texas at Austin,Big 12,TX,5
+172,71,3,2016,Boise State University,MW,ID,5
+431,71,3,2017,Indiana State University,MVFC,IN,5
+690,71,3,2018,University of Oregon,PAC-12,OR,5
+952,71,3,2019,Ohio State University,Big Ten,OH,5
+1212,71,3,2020,Texas A&M University,SEC,TX,5
+173,72,3,2016,Florida State University,ACC,FL,5
+432,72,3,2017,Western Kentucky University,C-USA,KY,5
+953,72,3,2019,North Carolina State University - Raleigh,ACC,NC,5
+1213,72,3,2020,University of Houston,AAC,TX,5
+174,73,3,2016,The University of Alabama,SEC,AL,5
+433,73,3,2017,Kansas State University,Big 12,KS,5
+692,73,3,2018,Ohio State University,Big Ten,OH,5
+954,73,3,2019,Iowa State University,Big 12,IA,5
+1214,73,3,2020,Ohio State University,Big Ten,OH,5
+175,74,3,2016,University of Notre Dame,ACC,IN,5
+434,74,3,2017,University of Michigan-Ann Arbor,Big Ten,MI,5
+693,74,3,2018,University of Louisville,ACC,KY,5
+955,74,3,2019,Florida Atlantic University,C-USA,FL,5
+1215,74,3,2020,University of Wisconsin - Madison,Big Ten,WI,5
+176,75,3,2016,Michigan State University,Big Ten,MI,5
+435,75,3,2017,Louisiana State University - Baton Rouge,SEC,LA,5
+694,75,3,2018,Florida State University,ACC,FL,5
+956,75,3,2019,Texas A&M University,SEC,TX,5
+1216,75,3,2020,Ohio State University,Big Ten,OH,5
+177,76,3,2016,Auburn University,SEC,AL,5
+436,76,3,2017,Florida State University,ACC,FL,5
+695,76,3,2018,Oklahoma State University,Big 12,OK,5
+957,76,3,2019,Ohio State University,Big Ten,OH,5
+1217,76,3,2020,University of Illinois at Urbana-Champaign,Big Ten,IL,5
+178,77,3,2016,West Virginia University,Big 12,WV,5
+437,77,3,2017,Texas A&M University,SEC,TX,5
+696,77,3,2018,Ohio State University,Big Ten,OH,5
+958,77,3,2019,University of Michigan-Ann Arbor,Big Ten,MI,5
+1218,77,3,2020,University of Iowa,Big Ten,IA,5
+179,78,3,2016,North Carolina State University - Raleigh,ACC,NC,5
+438,78,3,2017,The University of Alabama,SEC,AL,5
+697,78,3,2018,The University of Texas at Austin,Big 12,TX,5
+959,78,3,2019,University of Wisconsin - Madison,Big Ten,WI,5
+1219,78,3,2020,Temple University,AAC,PA,5
+180,79,3,2016,Oregon State University,PAC-12,OR,5
+439,79,3,2017,The University of Alabama,SEC,AL,5
+698,79,3,2018,University of South Carolina,SEC,SC,5
+960,79,3,2019,University of Michigan-Ann Arbor,Big Ten,MI,5
+1220,79,3,2020,Florida State University,ACC,FL,5
+181,80,3,2016,Ohio State University,Big Ten,OH,5
+440,80,3,2017,Ohio University,MAC,OH,5
+699,80,3,2018,Mississippi State University,SEC,MS,5
+961,80,3,2019,Brigham Young University,Independent,UT,5
+1221,80,3,2020,University of Kentucky,SEC,KY,5
+182,81,3,2016,Stanford University,PAC-12,CA,5
+441,81,3,2017,"University of California, Los Angeles",PAC-12,CA,5
+700,81,3,2018,Colorado State University,MW,CO,5
+962,81,3,2019,Boston College,ACC,MA,5
+1222,81,3,2020,University of South Carolina,SEC,SC,5
+183,82,3,2016,Texas Tech University,Big 12,TX,5
+442,82,3,2017,Louisiana Tech University,C-USA,LA,5
+701,82,3,2018,University of Louisiana at Lafayette,SBC,LA,5
+963,82,3,2019,University of North Carolina at Charlotte,C-USA,NC,5
+1223,82,3,2020,University of Oklahoma,Big 12,OK,5
+184,83,3,2016,University of Georgia,SEC,GA,5
+443,83,3,2017,Youngstown State University,MVFC,OH,5
+702,83,3,2018,University of Oklahoma,Big 12,OK,5
+964,83,3,2019,Michigan State University,Big Ten,MI,5
+1224,83,3,2020,Louisiana State University - Baton Rouge,SEC,LA,5
+185,84,3,2016,Virginia Polytechnic Institute and State University,ACC,VA,5
+444,84,3,2017,Pennsylvania State University,Big Ten,PA,5
+703,84,3,2018,North Carolina State University - Raleigh,ACC,NC,5
+965,84,3,2019,Western Illinois University,MVFC,IL,5
+1225,84,3,2020,The University of Alabama,SEC,AL,5
+186,85,3,2016,Ohio State University,Big Ten,OH,5
+445,85,3,2017,Troy University,SBC,AL,5
+704,85,3,2018,University of Tennessee,SEC,TN,5
+966,85,3,2019,Louisiana Tech University,C-USA,LA,5
+1226,85,3,2020,University of Utah,PAC-12,UT,5
+187,86,3,2016,Rutgers University,Big Ten,NJ,5
+446,86,3,2017,University of Toledo,MAC,OH,5
+705,86,3,2018,University of Oklahoma,Big 12,OK,5
+967,86,3,2019,San Diego State University,MW,CA,5
+1227,86,3,2020,University of Utah,PAC-12,UT,5
+188,87,3,2016,Utah State University,MW,UT,5
+447,87,3,2017,"University of California, Berkeley",PAC-12,CA,5
+706,87,3,2018,Louisiana State University - Baton Rouge,SEC,LA,5
+968,87,3,2019,The University of Alabama,SEC,AL,5
+1228,87,3,2020,The University of Alabama,SEC,AL,5
+189,88,3,2016,Utah State University,MW,UT,5
+448,88,3,2017,"University of California, Los Angeles",PAC-12,CA,5
+707,88,3,2018,Vanderbilt University,SEC,TN,5
+969,88,3,2019,University of Utah,PAC-12,UT,5
+1229,88,3,2020,The University of Texas at Austin,Big 12,TX,5
+190,89,3,2016,South Carolina State University,MEAC,SC,5
+449,89,3,2017,The University of Texas at Austin,Big 12,TX,5
+708,89,3,2018,Texas Christian University,Big 12,TX,5
+970,89,3,2019,Stanford University,PAC-12,CA,5
+1230,89,3,2020,Mississippi State University,SEC,MS,5
+191,90,3,2016,University of Notre Dame,ACC,IN,5
+450,90,3,2017,University of Central Florida,AAC,FL,5
+709,90,3,2018,University of South Florida,AAC,FL,5
+971,90,3,2019,Pennsylvania State University,Big Ten,PA,5
+1231,90,3,2020,Florida State University,ACC,FL,5
+192,91,3,2016,North Carolina State University - Raleigh,ACC,NC,5
+451,91,3,2017,Boston College,ACC,MA,5
+710,91,3,2018,University of Central Florida,AAC,FL,5
+1232,91,3,2020,"University of California, Los Angeles",PAC-12,CA,5
+193,92,3,2016,Texas A&M University,SEC,TX,5
+452,92,3,2017,University of Michigan-Ann Arbor,Big Ten,MI,5
+973,92,3,2019,University of South Carolina,SEC,SC,5
+1233,92,3,2020,The University of Texas at Austin,Big 12,TX,5
+194,93,3,2016,University of South Carolina,SEC,SC,5
+453,93,3,2017,Auburn University,SEC,AL,5
+712,93,3,2018,The University of Alabama,SEC,AL,5
+974,93,3,2019,University of Notre Dame,ACC,IN,5
+1234,93,3,2020,Appalachian State University,SBC,NC,5
+195,94,3,2016,Ohio State University,Big Ten,OH,5
+454,94,3,2017,University of Tennessee,SEC,TN,5
+975,94,3,2019,Auburn University,SEC,AL,5
+1235,94,3,2020,University of Cincinnati,AAC,OH,5
+196,95,3,2016,University of Michigan-Ann Arbor,Big Ten,MI,5
+455,95,3,2017,University of Michigan-Ann Arbor,Big Ten,MI,5
+714,95,3,2018,University of Southern Mississippi,C-USA,MS,5
+976,95,3,2019,Old Dominion University,C-USA,VA,5
+1236,95,3,2020,University of Arkansas,SEC,AR,5
+197,96,3,2016,University of Nebraska - Lincoln,Big Ten,MA,5
+456,96,3,2017,Northern Illinois University,MAC,IL,5
+715,96,3,2018,Stanford University,PAC-12,CA,5
+977,96,3,2019,University of Mississippi,SEC,MS,5
+1237,96,3,2020,Texas Christian University,Big 12,TX,5
+198,97,3,2016,Boise State University,MW,ID,4
+457,97,3,2017,Clemson University,ACC,SC,4
+716,97,3,2018,University of Michigan-Ann Arbor,Big Ten,MI,4
+978,97,3,2019,University of Oklahoma,Big 12,OK,4
+1238,97,3,2020,Louisiana State University - Baton Rouge,SEC,LA,4
+199,98,3,2016,Boston College,ACC,MA,4
+458,98,3,2017,Grambling State University,SWAC,LA,4
+717,98,3,2018,University of Central Florida,AAC,FL,4
+979,98,3,2019,Murray State University,OVC,KY,4
+1239,98,3,2020,Ohio State University,Big Ten,OH,4
+201,99,4,2016,University of Wisconsin - Madison,Big Ten,WI,4
+459,99,3,2017,West Virginia University,Big 12,WV,4
+718,99,3,2018,Boston College,ACC,MA,4
+980,99,3,2019,University of Kentucky,SEC,KY,4
+1240,99,3,2020,Central Connecticut State University,NEC,CT,4
+202,100,4,2016,Michigan State University,Big Ten,MI,4
+460,100,3,2017,Florida International University,C-USA,FL,4
+719,100,3,2018,Clemson University,ACC,SC,4
+981,100,3,2019,West Virginia University,Big 12,WV,4
+1241,100,3,2020,Clemson University,ACC,SC,4
+203,101,4,2016,University of Oklahoma,Big 12,OK,4
+461,101,3,2017,Lamar University,WAC,TX,4
+721,101,4,2018,Indiana State University,MVFC,IN,4
+982,101,3,2019,West Virginia University,Big 12,WV,4
+1242,101,3,2020,Virginia Polytechnic Institute and State University,ACC,VA,4
+204,102,4,2016,Ohio State University,Big Ten,OH,4
+462,102,3,2017,University of North Carolina at Greensboro,SoCon,NC,4
+722,102,4,2018,Ohio State University,Big Ten,OH,4
+983,102,3,2019,Boise State University,MW,ID,4
+1243,102,3,2020,University of North Carolina at Charlotte,C-USA,NC,4
+205,103,4,2016,University of Notre Dame,ACC,IN,4
+463,103,3,2017,Florida Atlantic University,C-USA,FL,4
+723,103,4,2018,Texas Tech University,Big 12,TX,4
+985,103,4,2019,Iowa State University,Big 12,IA,4
+1244,103,3,2020,University of Colorado Boulder,PAC-12,CO,4
+206,104,4,2016,Temple University,AAC,PA,4
+464,104,3,2017,University of Iowa,Big Ten,IA,4
+724,104,4,2018,North Carolina State University - Raleigh,ACC,NC,4
+986,104,4,2019,North Carolina State University - Raleigh,ACC,NC,4
+1245,104,3,2020,University of Utah,PAC-12,UT,4
+207,105,4,2016,University of Cincinnati,AAC,OH,4
+465,105,3,2017,University of Pittsburgh,ACC,PA,4
+725,105,4,2018,Florida State University,ACC,FL,4
+987,105,4,2019,Florida State University,ACC,FL,4
+1246,105,3,2020,University of Dayton,PFL,OH,4
+208,106,4,2016,"University of Minnesota, Twin Cities",Big Ten,MN,4
+466,106,3,2017,University of Michigan-Ann Arbor,Big Ten,MI,4
+726,106,4,2018,University of Iowa,Big Ten,IA,4
+988,106,4,2019,Eastern Michigan University,MAC,MI,4
+1247,106,3,2020,Mississippi State University,SEC,MS,4
+209,107,4,2016,University of Cincinnati,AAC,OH,4
+467,107,3,2017,Louisiana State University - Baton Rouge,SEC,LA,4
+727,107,4,2018,University of Miami,ACC,FL,4
+989,107,4,2019,University of Iowa,Big Ten,IA,4
+1249,107,4,2020,Appalachian State University,SBC,NC,4
+210,108,4,2016,North Carolina Central University,MEAC,NC,4
+469,108,4,2017,University of Wisconsin - Madison,Big Ten,WI,4
+990,108,4,2019,University of Notre Dame,ACC,IN,4
+1250,108,4,2020,Louisiana State University - Baton Rouge,SEC,LA,4
+211,109,4,2016,Clemson University,ACC,SC,4
+470,109,4,2017,University of Iowa,Big Ten,IA,4
+729,109,4,2018,Pennsylvania State University,Big Ten,PA,4
+991,109,4,2019,Michigan State University,Big Ten,MI,4
+1251,109,4,2020,Clemson University,ACC,SC,4
+212,110,4,2016,Western Kentucky University,C-USA,KY,4
+471,110,4,2017,University of Oklahoma,Big 12,OK,4
+730,110,4,2018,University of Wisconsin - Madison,Big Ten,WI,4
+992,110,4,2019,University of Utah,PAC-12,UT,4
+1252,110,4,2020,"University of California, Los Angeles",PAC-12,CA,4
+213,111,4,2016,Southern Utah University,Big Sky Conference,UT,4
+472,111,4,2017,University of Colorado Boulder,PAC-12,CO,4
+731,111,4,2018,Michigan State University,Big Ten,MI,4
+993,111,4,2019,Ohio State University,Big Ten,OH,4
+1253,111,4,2020,University of Georgia,SEC,GA,4
+214,112,4,2016,University of Georgia,SEC,GA,4
+473,112,4,2017,The University of Alabama,SEC,AL,4
+732,112,4,2018,University of Miami,ACC,FL,4
+994,112,4,2019,Stanford University,PAC-12,CA,4
+1254,112,4,2020,"University of California, Los Angeles",PAC-12,CA,4
+215,113,4,2016,West Virginia University,Big 12,WV,4
+474,113,4,2017,University of Miami,ACC,FL,4
+733,113,4,2018,Pennsylvania State University,Big Ten,PA,4
+995,113,4,2019,Oklahoma State University,Big 12,OK,4
+1255,113,4,2020,University of Notre Dame,ACC,IN,4
+216,114,4,2016,Auburn University,SEC,AL,4
+475,114,4,2017,University of Oklahoma,Big 12,OK,4
+734,114,4,2018,The University of Alabama,SEC,AL,4
+996,114,4,2019,University of Oklahoma,Big 12,OK,4
+1256,114,4,2020,University of Utah,PAC-12,UT,4
+217,115,4,2016,"University of Minnesota, Twin Cities",Big Ten,MN,4
+476,115,4,2017,University of Pittsburgh,ACC,PA,4
+735,115,4,2018,Western Kentucky University,C-USA,KY,4
+997,115,4,2019,The University of Alabama,SEC,AL,4
+1257,115,4,2020,Florida Atlantic University,C-USA,FL,4
+218,116,4,2016,The University of Texas at Austin,Big 12,TX,4
+477,116,4,2017,Auburn University,SEC,AL,4
+736,116,4,2018,University of Kansas,Big 12,KS,4
+998,116,4,2019,University of Iowa,Big Ten,IA,4
+1258,116,4,2020,Saint John's University in Collegeville,DIV-III,NULL,4
+219,117,4,2016,University of South Carolina,SEC,SC,4
+478,117,4,2017,Texas A&M University,SEC,TX,4
+737,117,4,2018,University of Pittsburgh,ACC,PA,4
+999,117,4,2019,Clemson University,ACC,SC,4
+1259,117,4,2020,University of South Carolina,SEC,SC,4
+220,118,4,2016,North Carolina State University - Raleigh,ACC,NC,4
+479,118,4,2017,University of North Carolina at Greensboro,SoCon,NC,4
+738,118,4,2018,The University of Alabama,SEC,AL,4
+1000,118,4,2019,University of Arkansas,SEC,AR,4
+1260,118,4,2020,University of Missouri,SEC,MS,4
+221,119,4,2016,San Jose State University,MW,CA,4
+480,119,4,2017,North Carolina A & T State University,Big South Conference,NC,4
+739,119,4,2018,West Virginia University,Big 12,WV,4
+1001,119,4,2019,University of Miami,ACC,FL,4
+1261,119,4,2020,California State University-Fresno,MW,CA,4
+222,120,4,2016,University of Manitoba,Foreign,Canada,4
+481,120,4,2017,University of Michigan-Ann Arbor,Big Ten,MI,4
+740,120,4,2018,University of Washington,PAC-12,WA,4
+1002,120,4,2019,West Virginia University,Big 12,WV,4
+1262,120,4,2020,Florida State University,ACC,FL,4
+482,121,4,2017,University of Utah,PAC-12,UT,4
+741,121,4,2018,Weber State University,Big Sky Conference,UT,4
+1003,121,4,2019,West Virginia University,Big 12,WV,4
+1263,121,4,2020,University of Kentucky,SEC,KY,4
+224,122,4,2016,Baylor University,Big 12,TX,4
+483,122,4,2017,San Diego State University,MW,CA,4
+742,122,4,2018,"University of California, Los Angeles",PAC-12,CA,4
+1004,122,4,2019,University of Kentucky,SEC,KY,4
+1264,122,4,2020,University of Washington,PAC-12,WA,4
+225,123,4,2016,Louisiana State University - Baton Rouge,SEC,LA,4
+484,123,4,2017,Michigan State University,Big Ten,MI,4
+743,123,4,2018,University of Notre Dame,ACC,IN,4
+1005,123,4,2019,University of Oklahoma,Big 12,OK,4
+1265,123,4,2020,University of Tulsa,AAC,OK,4
+226,124,4,2016,University of Miami,ACC,FL,4
+485,124,4,2017,University of Tennessee,SEC,TN,4
+744,124,4,2018,Texas A&M University,SEC,TX,4
+1006,124,4,2019,Wake Forest University,ACC,NC,4
+1266,124,4,2020,"University of Maryland, College Park",Big Ten,MD,4
+227,125,4,2016,Florida State University,ACC,FL,4
+486,125,4,2017,Eastern Washington University,Big Sky Conference,WA,4
+745,125,4,2018,University of Pittsburgh,ACC,PA,4
+1007,125,4,2019,Arizona State University,PAC-12,AZ,4
+1267,125,4,2020,Florida International University,C-USA,FL,4
+228,126,4,2016,Florida State University,ACC,FL,4
+487,126,4,2017,University of Houston,AAC,TX,4
+746,126,4,2018,University of Southern Mississippi,C-USA,MS,4
+1008,126,4,2019,University of Georgia,SEC,GA,4
+1268,126,4,2020,University of North Carolina at Greensboro,SoCon,NC,4
+229,127,4,2016,University of Northern Iowa,MVFC,IA,4
+488,127,4,2017,University of Toledo,MAC,OH,4
+747,127,4,2018,Florida State University,ACC,FL,4
+1009,127,4,2019,University of South Carolina,SEC,SC,4
+1269,127,4,2020,Clemson University,ACC,SC,4
+230,128,4,2016,University of Missouri,SEC,MS,4
+489,128,4,2017,University of Tennessee,SEC,TN,4
+748,128,4,2018,North Carolina State University - Raleigh,ACC,NC,4
+1010,128,4,2019,University of Memphis,AAC,TN,4
+1270,128,4,2020,University of Central Florida,AAC,FL,4
+231,129,4,2016,Texas Christian University,Big 12,TX,3
+490,129,4,2017,Florida State University,ACC,FL,3
+749,129,4,2018,North Carolina State University - Raleigh,ACC,NC,3
+1011,129,4,2019,University of Houston,AAC,TX,3
+1271,129,4,2020,University of North Carolina at Charlotte,C-USA,NC,3
+232,130,4,2016,University of Nebraska - Lincoln,Big Ten,MA,3
+491,130,4,2017,Bucknell University,Patriot League,PA,3
+750,130,4,2018,Florida State University,ACC,FL,3
+1012,130,4,2019,University of Notre Dame,ACC,IN,3
+1272,130,4,2020,Baylor University,Big 12,TX,3
+233,131,4,2016,Stanford University,PAC-12,CA,3
+492,131,4,2017,University of Arkansas,SEC,AR,3
+751,131,4,2018,Arizona State University,PAC-12,AZ,3
+1013,131,4,2019,Indiana State University,MVFC,IN,3
+1273,131,4,2020,Louisiana State University - Baton Rouge,SEC,LA,3
+234,132,4,2016,University of Michigan-Ann Arbor,Big Ten,MI,3
+493,132,4,2017,San Diego State University,MW,CA,3
+752,132,4,2018,New Mexico State University,WAC,NM,3
+1014,132,4,2019,University of Oregon,PAC-12,OR,3
+1274,132,4,2020,University of Oregon,PAC-12,OR,3
+235,133,4,2016,Louisiana State University - Baton Rouge,SEC,LA,3
+494,133,4,2017,University of North Carolina at Greensboro,SoCon,NC,3
+753,133,4,2018,University of Missouri,SEC,MS,3
+1015,133,4,2019,Auburn University,SEC,AL,3
+1275,133,4,2020,Stanford University,PAC-12,CA,3
+236,134,4,2016,Louisiana Tech University,C-USA,LA,3
+495,134,4,2017,Brigham Young University,Independent,UT,3
+1016,134,4,2019,University of Washington,PAC-12,WA,3
+1276,134,4,2020,"University of California, Berkeley",PAC-12,CA,3
+237,135,4,2016,Mississippi State University,SEC,MS,3
+496,135,4,2017,University of Tennessee,SEC,TN,3
+755,135,4,2018,Stephen F Austin State University,WAC,TX,3
+1277,135,4,2020,University of Louisiana at Lafayette,SBC,LA,3
+238,136,4,2016,University of Utah,PAC-12,UT,3
+497,136,4,2017,Oregon State University,PAC-12,OR,3
+756,136,4,2018,University of Mississippi,SEC,MS,3
+1018,136,4,2019,Ohio State University,Big Ten,OH,3
+1278,136,4,2020,Purdue University - West Lafayette,Big Ten,IN,3
+239,137,4,2016,Northwestern State University of Louisiana,SLC,LA,3
+498,137,4,2017,University of South Carolina,SEC,SC,3
+757,137,4,2018,Stanford University,PAC-12,CA,3
+1019,137,4,2019,Louisiana State University - Baton Rouge,SEC,LA,3
+1279,137,4,2020,Michigan State University,Big Ten,MI,3
+240,138,4,2016,Princeton University,Ivy League,NJ,3
+499,138,4,2017,University of Michigan-Ann Arbor,Big Ten,MI,3
+759,138,5,2018,Washington State University,PAC-12,WA,3
+1020,138,4,2019,Pennsylvania State University,Big Ten,PA,3
+1280,138,4,2020,Louisiana Tech University,C-USA,LA,3
+241,139,4,2016,Ohio State University,Big Ten,OH,3
+500,139,4,2017,University of Michigan-Ann Arbor,Big Ten,MI,3
+760,139,5,2018,University of Miami,ACC,FL,3
+1022,139,5,2019,The University of Alabama,SEC,AL,3
+1281,139,4,2020,Louisiana Tech University,C-USA,LA,3
+243,140,5,2016,University of Massachusetts Amherst,Independent,NE,3
+501,140,4,2017,Clemson University,ACC,SC,3
+761,140,5,2018,University of Michigan-Ann Arbor,Big Ten,MI,3
+1023,140,5,2019,Temple University,AAC,PA,3
+1282,140,4,2020,University of Miami,ACC,FL,3
+244,141,5,2016,University of Oklahoma,Big 12,OK,3
+502,141,4,2017,"University of California, Berkeley",PAC-12,CA,3
+762,141,5,2018,University of Central Florida,AAC,FL,3
+1024,141,5,2019,University of Michigan-Ann Arbor,Big Ten,MI,3
+1283,141,4,2020,Pennsylvania State University,Big Ten,PA,3
+245,142,5,2016,Appalachian State University,SBC,NC,3
+503,142,4,2017,Clemson University,ACC,SC,3
+763,142,5,2018,Kansas State University,Big 12,KS,3
+1025,142,5,2019,University of Washington,PAC-12,WA,3
+1284,142,4,2020,Liberty University,ASUN,VA,3
+1284,142,4,2020,Liberty University,Independent,VA,3
+246,143,5,2016,Texas Tech University,Big 12,TX,3
+504,143,4,2017,University of South Florida,AAC,FL,3
+764,143,5,2018,Purdue University - West Lafayette,Big Ten,IN,3
+1026,143,5,2019,University of Wisconsin - Madison,Big Ten,WI,3
+1285,143,4,2020,University of Michigan-Ann Arbor,Big Ten,MI,3
+247,144,5,2016,University of Missouri,SEC,MS,3
+765,144,5,2018,University of Pennsylvania,Ivy League,PA,3
+1027,144,5,2019,University of South Carolina,SEC,SC,3
+1286,144,4,2020,University of Miami,ACC,FL,3
+248,145,5,2016,University of Georgia,SEC,GA,3
+507,145,5,2017,University of Michigan-Ann Arbor,Big Ten,MI,3
+766,145,5,2018,University of Delaware,CAA,DE,3
+1028,145,5,2019,University of Utah,PAC-12,UT,3
+1287,145,4,2020,Auburn University,SEC,AL,3
+249,146,5,2016,Grand Valley State University,DIV-II,MI,3
+508,146,5,2017,University of Iowa,Big Ten,IA,3
+767,146,5,2018,Oklahoma State University,Big 12,OK,3
+1029,146,5,2019,Pennsylvania State University,Big Ten,PA,3
+1288,146,4,2020,University of Wisconsin - Madison,Big Ten,WI,3
+250,147,5,2016,"University of Maryland, College Park",Big Ten,MD,3
+768,147,5,2018,University of Virginia,ACC,VA,3
+1030,147,5,2019,Florida State University,ACC,FL,3
+1290,147,5,2020,University of Notre Dame,ACC,IN,3
+251,148,5,2016,"University of California, Los Angeles",PAC-12,CA,3
+510,148,5,2017,Ohio University,MAC,OH,3
+769,148,5,2018,Pennsylvania State University,Big Ten,PA,3
+1031,148,5,2019,University of Arkansas,SEC,AR,3
+1291,148,5,2020,Syracuse University,ACC,NY,3
+252,149,5,2016,"University of California, Los Angeles",PAC-12,CA,3
+511,149,5,2017,San Diego State University,MW,CA,3
+770,149,5,2018,The University of Texas at Austin,Big 12,TX,3
+1032,149,5,2019,Clemson University,ACC,SC,3
+1292,149,5,2020,Ball State University,MAC,IN,3
+253,150,5,2016,Indiana State University,MVFC,IN,3
+512,150,5,2017,Clemson University,ACC,SC,3
+771,150,5,2018,University of Memphis,AAC,TN,3
+1033,150,5,2019,Texas A&M University,SEC,TX,3
+1293,150,5,2020,University of Oregon,PAC-12,OR,3
+254,151,5,2016,Washington State University,PAC-12,WA,3
+513,151,5,2017,University of Iowa,Big Ten,IA,3
+1034,151,5,2019,University of Wisconsin - Madison,Big Ten,WI,3
+1294,151,5,2020,University of Virginia,ACC,VA,3
+255,152,5,2016,Temple University,AAC,PA,3
+514,152,5,2017,University of Miami,ACC,FL,3
+773,152,5,2018,University of Arizona,PAC-12,AZ,3
+1035,152,5,2019,University of Pittsburgh,ACC,PA,3
+1295,152,5,2020,West Virginia University,Big 12,WV,3
+256,153,5,2016,West Virginia University,Big 12,WV,3
+515,153,5,2017,University of Memphis,AAC,TN,3
+774,153,5,2018,University of Oregon,PAC-12,OR,3
+1036,153,5,2019,The University of Alabama,SEC,AL,3
+1296,153,5,2020,West Virginia University,Big 12,WV,3
+257,154,5,2016,"University of California, Los Angeles",PAC-12,CA,3
+516,154,5,2017,University of Arkansas,SEC,AR,3
+775,154,5,2018,Jacksonville State University,ASUN,AL,3
+1037,154,5,2019,Florida State University,ACC,FL,3
+1297,154,5,2020,University of North Carolina at Greensboro,SoCon,NC,3
+258,155,5,2016,University of North Dakota,MVFC,ND,3
+517,155,5,2017,"University of California, Los Angeles",PAC-12,CA,3
+776,155,5,2018,"University of California, Los Angeles",PAC-12,CA,3
+1038,155,5,2019,The University of Alabama,SEC,AL,3
+1298,155,5,2020,University of Tulsa,AAC,OK,3
+259,156,5,2016,University of Arkansas,SEC,AR,3
+518,156,5,2017,University of Wyoming,MW,WY,3
+777,156,5,2018,University of Wisconsin - Madison,Big Ten,WI,3
+1039,156,5,2019,University of Oregon,PAC-12,OR,3
+1299,156,5,2020,San Diego State University,MW,CA,3
+260,157,5,2016,Southern Utah University,Big Sky Conference,UT,3
+519,157,5,2017,Vanderbilt University,SEC,TN,3
+778,157,5,2018,Central Michigan University,MAC,MI,3
+1040,157,5,2019,"University of Minnesota, Twin Cities",Big Ten,MN,3
+1300,157,5,2020,Auburn University,SEC,AL,3
+261,158,5,2016,University of South Carolina,SEC,SC,3
+520,158,5,2017,Temple University,AAC,PA,3
+779,158,5,2018,University of Virginia,ACC,VA,3
+1041,158,5,2019,University of Miami,ACC,FL,3
+1301,158,5,2020,University of Virginia,ACC,VA,3
+262,159,5,2016,West Virginia University,Big 12,WV,3
+521,159,5,2017,Texas A&M University,SEC,TX,3
+780,159,5,2018,University of Northern Iowa,MVFC,IA,3
+1042,159,5,2019,"University of Maryland, College Park",Big Ten,MD,3
+1302,159,5,2020,Marshall University,C-USA,WV,3
+263,160,5,2016,University of Missouri,SEC,MS,3
+522,160,5,2017,Florida State University,ACC,FL,3
+781,160,5,2018,University of Oklahoma,Big 12,OK,3
+1043,160,5,2019,Texas A&M University,SEC,TX,3
+1303,160,5,2020,University of Washington,PAC-12,WA,3
+264,161,5,2016,Arizona State University,PAC-12,AZ,2
+523,161,5,2017,Northwestern State University of Louisiana,SLC,LA,2
+782,161,5,2018,"University of Maryland, College Park",Big Ten,MD,2
+1044,161,5,2019,The University of Texas at Austin,Big 12,TX,2
+1304,161,5,2020,"University of Minnesota, Twin Cities",Big Ten,MN,2
+265,162,5,2016,Stanford University,PAC-12,CA,2
+524,162,5,2017,Boise State University,MW,ID,2
+783,162,5,2018,"University of California, Los Angeles",PAC-12,CA,2
+1045,162,5,2019,University of South Carolina,SEC,SC,2
+1305,162,5,2020,University of Michigan-Ann Arbor,Big Ten,MI,2
+266,163,5,2016,"University of California, Berkeley",PAC-12,CA,2
+525,163,5,2017,Boston College,ACC,MA,2
+784,163,5,2018,Virginia Polytechnic Institute and State University,ACC,VA,2
+1046,163,5,2019,Stanford University,PAC-12,CA,2
+1306,163,5,2020,Georgia Southern University,SBC,GA,2
+267,164,5,2016,Texas Christian University,Big 12,TX,2
+526,164,5,2017,University of Utah,PAC-12,UT,2
+785,164,5,2018,University of Wisconsin - Madison,Big Ten,WI,2
+1047,164,5,2019,Tarleton State University,WAC,TX,2
+1307,164,5,2020,Boise State University,MW,ID,2
+527,165,5,2017,University of San Diego,PFL,CA,2
+786,165,5,2018,North Carolina State University - Raleigh,ACC,NC,2
+1048,165,5,2019,University of Miami,ACC,FL,2
+1308,165,5,2020,The University of Texas at Austin,Big 12,TX,2
+269,166,5,2016,Clemson University,ACC,SC,2
+528,166,5,2017,West Virginia University,Big 12,WV,2
+787,166,5,2018,Virginia Polytechnic Institute and State University,ACC,VA,2
+1049,166,5,2019,University of North Dakota,MVFC,ND,2
+1309,166,5,2020,University of Wisconsin - Madison,Big Ten,WI,2
+529,167,5,2017,Youngstown State University,MVFC,OH,2
+788,167,5,2018,Auburn University,SEC,AL,2
+1050,167,5,2019,Northwestern State University of Louisiana,SLC,LA,2
+1310,167,5,2020,University of Georgia,SEC,GA,2
+271,168,5,2016,Baylor University,Big 12,TX,2
+530,168,5,2017,Wake Forest University,ACC,NC,2
+789,168,5,2018,Ohio State University,Big Ten,OH,2
+1051,168,5,2019,University of Georgia,SEC,GA,2
+1311,168,5,2020,Boise State University,MW,ID,2
+272,169,5,2016,Georgia Southern University,SBC,GA,2
+531,169,5,2017,Oregon State University,PAC-12,OR,2
+790,169,5,2018,University of Mississippi,SEC,MS,2
+1052,169,5,2019,University of Wisconsin - Madison,Big Ten,WI,2
+1312,169,5,2020,Temple University,AAC,PA,2
+273,170,5,2016,Harvard University,Ivy League,MA,2
+532,170,5,2017,University of South Florida,AAC,FL,2
+1053,170,5,2019,University of Oklahoma,Big 12,OK,2
+1313,170,5,2020,Texas Tech University,Big 12,TX,2
+274,171,5,2016,University of Arkansas,SEC,AR,2
+533,171,5,2017,University of Pittsburgh,ACC,PA,2
+792,171,5,2018,Western Kentucky University,C-USA,KY,2
+1054,171,5,2019,Auburn University,SEC,AL,2
+1314,171,5,2020,University of Rhode Island,CAA,RI,2
+275,172,5,2016,Colorado State University,MW,CO,2
+534,172,5,2017,University of Georgia,SEC,GA,2
+793,172,5,2018,The University of Alabama,SEC,AL,2
+1055,172,5,2019,University of Washington,PAC-12,WA,2
+1315,172,5,2020,New Mexico State University,WAC,NM,2
+535,173,5,2017,University of Utah,PAC-12,UT,2
+794,173,5,2018,Florida State University,ACC,FL,2
+1056,173,5,2019,University of North Carolina at Greensboro,SoCon,NC,2
+1316,173,5,2020,Tulane University,AAC,LA,2
+277,174,5,2016,University of Mississippi,SEC,MS,2
+536,174,5,2017,Drake University,PFL,IA,2
+795,174,5,2018,University of South Florida,AAC,FL,2
+1058,174,6,2019,California State University-Fresno,MW,CA,2
+1317,174,5,2020,North Carolina State University - Raleigh,ACC,NC,2
+278,175,5,2016,The University of Akron,MAC,OH,2
+537,175,5,2017,Purdue University - West Lafayette,Big Ten,IN,2
+797,175,6,2018,Texas A&M University,SEC,TX,2
+1059,175,6,2019,Northern Illinois University,MAC,IL,2
+1318,175,5,2020,"University of Minnesota, Twin Cities",Big Ten,MN,2
+280,176,6,2016,University of Nebraska - Lincoln,Big Ten,MA,2
+538,176,5,2017,University of Utah,PAC-12,UT,2
+798,176,6,2018,University of Tennessee,SEC,TN,2
+1060,176,6,2019,Stanford University,PAC-12,CA,2
+1319,176,5,2020,University of Miami,ACC,FL,2
+281,177,6,2016,South Carolina State University,MEAC,SC,2
+539,177,5,2017,Louisiana Tech University,C-USA,LA,2
+799,177,6,2018,Wake Forest University,ACC,NC,2
+1061,177,6,2019,Rutgers University,Big Ten,NJ,2
+1320,177,5,2020,University of Michigan-Ann Arbor,Big Ten,MI,2
+282,178,6,2016,Georgia Institute of Technology,ACC,GA,2
+540,178,5,2017,Louisiana State University - Baton Rouge,SEC,LA,2
+800,178,6,2018,Arizona State University,PAC-12,AZ,2
+1062,178,6,2019,Washington State University,PAC-12,WA,2
+1321,178,5,2020,Wake Forest University,ACC,NC,2
+283,179,6,2016,Texas A&M University,SEC,TX,2
+541,179,5,2017,University of North Carolina at Greensboro,SoCon,NC,2
+801,179,6,2018,Tulane University,AAC,LA,2
+1063,179,6,2019,University of Georgia,SEC,GA,2
+1322,179,5,2020,University of Utah,PAC-12,UT,2
+542,180,5,2017,University of Miami,ACC,FL,2
+802,180,6,2018,Central Connecticut State University,NEC,CT,2
+1324,180,6,2020,University of Kansas,Big 12,KS,2
+285,181,6,2016,The University of Montana,Big Sky Conference,MT,2
+803,181,6,2018,University of Utah,PAC-12,UT,2
+1065,181,6,2019,University of Miami,ACC,FL,2
+1325,181,6,2020,California State University-Fresno,MW,CA,2
+286,182,6,2016,Navy,Independent,VA,2
+544,182,5,2017,University of Texas at El Paso,C-USA,TX,2
+804,182,6,2018,Pennsylvania State University,Big Ten,PA,2
+1066,182,6,2019,Texas A&M University,SEC,TX,2
+1326,182,6,2020,University of Michigan-Ann Arbor,Big Ten,MI,2
+287,183,6,2016,University of Oklahoma,Big 12,OK,2
+545,183,5,2017,Georgia Southern University,SBC,GA,2
+805,183,6,2018,Arizona State University,PAC-12,AZ,2
+1067,183,6,2019,Vanderbilt University,SEC,TN,2
+1327,183,6,2020,Pennsylvania State University,Big Ten,PA,2
+288,184,6,2016,University of South Carolina,SEC,SC,2
+546,184,5,2017,University of Nebraska - Lincoln,Big Ten,MA,2
+806,184,6,2018,Florida State University,ACC,FL,2
+1068,184,6,2019,Old Dominion University,C-USA,VA,2
+1328,184,6,2020,Baylor University,Big 12,TX,2
+289,185,6,2016,College of William and Mary,CAA,VA,2
+548,185,6,2017,Florida State University,ACC,FL,2
+807,185,6,2018,Clemson University,ACC,SC,2
+1069,185,6,2019,University of Toledo,MAC,OH,2
+1329,185,6,2020,Louisiana State University - Baton Rouge,SEC,LA,2
+290,186,6,2016,Texas Tech University,Big 12,TX,2
+549,186,6,2017,Virginia Polytechnic Institute and State University,ACC,VA,2
+808,186,6,2018,Temple University,AAC,PA,2
+1070,186,6,2019,"University of Maryland, College Park",Big Ten,MD,2
+1330,186,6,2020,University of Notre Dame,ACC,IN,2
+291,187,6,2016,Indiana State University,MVFC,IN,2
+550,187,6,2017,University of Cincinnati,AAC,OH,2
+809,187,6,2018,Clemson University,ACC,SC,2
+1071,187,6,2019,University of Colorado Boulder,PAC-12,CO,2
+1331,187,6,2020,University of Michigan-Ann Arbor,Big Ten,MI,2
+292,188,6,2016,The University of Texas at San Antonio,C-USA,TX,2
+551,188,6,2017,University of Louisiana at Lafayette,SBC,LA,2
+810,188,6,2018,University of Louisiana at Lafayette,SBC,LA,2
+1072,188,6,2019,West Virginia University,Big 12,WV,2
+1332,188,6,2020,Georgia Southern University,SBC,GA,2
+293,189,6,2016,Purdue University - West Lafayette,Big Ten,IN,2
+552,189,6,2017,Tulane University,AAC,LA,2
+811,189,6,2018,Boston College,ACC,MA,2
+1073,189,6,2019,Southeast Missouri State University,OVC,MO,2
+1333,189,6,2020,Oregon State University,PAC-12,OR,2
+294,190,6,2016,University of Kentucky,SEC,KY,2
+553,190,6,2017,University of Utah,PAC-12,UT,2
+812,190,6,2018,The University of Texas at Austin,Big 12,TX,2
+1074,190,6,2019,University of Arkansas,SEC,AR,2
+1334,190,6,2020,University of Georgia,SEC,GA,2
+295,191,6,2016,University of Michigan-Ann Arbor,Big Ten,MI,2
+554,191,6,2017,Louisiana Tech University,C-USA,LA,2
+813,191,6,2018,Texas Tech University,Big 12,TX,2
+1075,191,6,2019,University of Wyoming,MW,WY,2
+1335,191,6,2020,Texas A&M University,SEC,TX,2
+296,192,6,2016,Texas Christian University,Big 12,TX,2
+1076,192,6,2019,The University of Alabama,SEC,AL,2
+1336,192,6,2020,University of Michigan-Ann Arbor,Big Ten,MI,2
+297,193,6,2016,University of Arkansas,SEC,AR,1
+556,193,6,2017,University of Oklahoma,Big 12,OK,1
+815,193,6,2018,Indiana State University,MVFC,IN,1
+1077,193,6,2019,Elon University,CAA,NC,1
+1337,193,6,2020,Pennsylvania State University,Big Ten,PA,1
+298,194,6,2016,Colorado State University,MW,CO,1
+557,194,6,2017,Oklahoma State University,Big 12,OK,1
+816,194,6,2018,Louisiana State University - Baton Rouge,SEC,LA,1
+1078,194,6,2019,University of Notre Dame,ACC,IN,1
+1338,194,6,2020,University of Nebraska - Lincoln,Big Ten,MA,1
+299,195,6,2016,San Jose State University,MW,CA,1
+558,195,6,2017,Boise State University,MW,ID,1
+817,195,6,2018,Rutgers University,Big Ten,NJ,1
+1079,195,6,2019,Central Michigan University,MAC,MI,1
+1339,195,6,2020,Wake Forest University,ACC,NC,1
+300,196,6,2016,Auburn University,SEC,AL,1
+559,196,6,2017,University of Miami,ACC,FL,1
+818,196,6,2018,University of Central Arkansas,ASUN,AR,1
+1080,196,6,2019,Rutgers University,Big Ten,NJ,1
+1340,196,6,2020,Temple University,AAC,PA,1
+301,197,6,2016,Northwestern State University of Louisiana,SLC,LA,1
+560,197,6,2017,University of Michigan-Ann Arbor,Big Ten,MI,1
+819,197,6,2018,The University of Alabama,SEC,AL,1
+1081,197,6,2019,Pennsylvania State University,Big Ten,PA,1
+1341,197,6,2020,University of Utah,PAC-12,UT,1
+302,198,6,2016,University of Wisconsin - Madison,Big Ten,WI,1
+561,198,6,2017,University of Mississippi,SEC,MS,1
+820,198,6,2018,University of Tennessee,SEC,TN,1
+1082,198,6,2019,University of Virginia,ACC,VA,1
+1342,198,6,2020,"University of Maryland, College Park",Big Ten,MD,1
+303,199,6,2016,University of Mississippi,SEC,MS,1
+562,199,6,2017,University of Wyoming,MW,WY,1
+821,199,6,2018,Washington State University,PAC-12,WA,1
+1083,199,6,2019,Mississippi State University,SEC,MS,1
+1343,199,6,2020,Ohio State University,Big Ten,OH,1
+304,200,6,2016,Stanford University,PAC-12,CA,1
+563,200,6,2017,University of Pittsburgh,ACC,PA,1
+822,200,6,2018,Yale University,Ivy League,CT,1
+1084,200,6,2019,University of Houston,AAC,TX,1
+1344,200,6,2020,University of Southern Mississippi,C-USA,MS,1
+305,201,6,2016,University of Arkansas,SEC,AR,1
+564,201,6,2017,Virginia Polytechnic Institute and State University,ACC,VA,1
+823,201,6,2018,Louisiana Tech University,C-USA,LA,1
+1085,201,6,2019,University of South Carolina,SEC,SC,1
+1345,201,6,2020,Southern Methodist University,AAC,TX,1
+306,202,6,2016,Pennsylvania State University,Big Ten,PA,1
+565,202,6,2017,University of Utah,PAC-12,UT,1
+824,202,6,2018,University of Wisconsin - Madison,Big Ten,WI,1
+1086,202,6,2019,Ohio State University,Big Ten,OH,1
+1346,202,6,2020,"University of California, Berkeley",PAC-12,CA,1
+307,203,6,2016,Virginia Polytechnic Institute and State University,ACC,VA,1
+566,203,6,2017,Coastal Carolina University,SBC,SC,1
+825,203,6,2018,University of Nebraska - Lincoln,Big Ten,MA,1
+1347,203,6,2020,Oregon State University,PAC-12,OR,1
+308,204,6,2016,Pennsylvania State University,Big Ten,PA,1
+567,204,6,2017,University of Mississippi,SEC,MS,1
+1088,204,6,2019,University of Miami,ACC,FL,1
+1348,204,6,2020,University of Wyoming,MW,WY,1
+309,205,6,2016,Southeastern Louisiana University,SLC,LA,1
+568,205,6,2017,University of Arkansas,SEC,AR,1
+827,205,6,2018,University of Louisville,ACC,KY,1
+1089,205,6,2019,Kansas State University,Big 12,KS,1
+1349,205,6,2020,University of Michigan-Ann Arbor,Big Ten,MI,1
+310,206,6,2016,University of Southern Mississippi,C-USA,MS,1
+569,206,6,2017,Virginia Polytechnic Institute and State University,ACC,VA,1
+828,206,6,2018,Texas Christian University,Big 12,TX,1
+1090,206,6,2019,North Carolina State University - Raleigh,ACC,NC,1
+1350,206,6,2020,Georgia Institute of Technology,ACC,GA,1
+311,207,6,2016,Louisiana Tech University,C-USA,LA,1
+570,207,6,2017,University of Houston,AAC,TX,1
+829,207,6,2018,University of Notre Dame,ACC,IN,1
+1091,207,6,2019,The University of Akron,MAC,OH,1
+1351,207,6,2020,Oregon State University,PAC-12,OR,1
+312,208,6,2016,Eastern Illinois University,OVC,IL,1
+571,208,6,2017,Auburn University,SEC,AL,1
+830,208,6,2018,Boise State University,MW,ID,1
+1092,208,6,2019,Bowling Green State University,MAC,OH,1
+1352,208,6,2020,University of Oregon,PAC-12,OR,1
+313,209,6,2016,University of Virginia,ACC,VA,1
+572,209,6,2017,Georgia State University,SBC,GA,1
+831,209,6,2018,University of Southern Mississippi,C-USA,MS,1
+1093,209,6,2019,Florida State University,ACC,FL,1
+1353,209,6,2020,Indiana State University,MVFC,IN,1
+314,210,6,2016,Baylor University,Big 12,TX,1
+573,210,6,2017,Mississippi State University,SEC,MS,1
+832,210,6,2018,University of Miami,ACC,FL,1
+1094,210,6,2019,Auburn University,SEC,AL,1
+1354,210,6,2020,Auburn University,SEC,AL,1
+315,211,6,2016,Florida State University,ACC,FL,1
+574,211,6,2017,"University of California, Los Angeles",PAC-12,CA,1
+833,211,6,2018,Mississippi State University,SEC,MS,1
+1095,211,6,2019,University of Oklahoma,Big 12,OK,1
+1355,211,6,2020,University of Massachusetts Amherst,Independent,NE,1
+316,212,6,2016,Central Michigan University,MAC,MI,1
+575,212,6,2017,University of South Florida,AAC,FL,1
+834,212,6,2018,Wagner College,NEC,NY,1
+1096,212,6,2019,University of South Carolina,SEC,SC,1
+1356,212,6,2020,Washington State University,PAC-12,WA,1
+317,213,6,2016,Michigan State University,Big Ten,MI,1
+576,213,6,2017,University of Louisville,ACC,KY,1
+835,213,6,2018,Appalachian State University,SBC,NC,1
+1097,213,6,2019,Texas A&M University,SEC,TX,1
+1357,213,6,2020,University of Michigan-Ann Arbor,Big Ten,MI,1
+318,214,6,2016,University of Houston,AAC,TX,1
+577,214,6,2017,University of Washington,PAC-12,WA,1
+836,214,6,2018,Stanford University,PAC-12,CA,1
+1098,214,6,2019,Utah State University,MW,UT,1
+1358,214,6,2020,Florida State University,ACC,FL,1
+319,215,6,2016,Texas Christian University,Big 12,TX,1
+578,215,6,2017,University of Miami,ACC,FL,1
+837,215,6,2018,The University of Alabama,SEC,AL,1
+1100,215,7,2019,University of Missouri,SEC,MS,1
+1360,215,7,2020,Purdue University - West Lafayette,Big Ten,IN,1
+320,216,6,2016,Eastern Michigan University,MAC,MI,1
+579,216,6,2017,Florida State University,ACC,FL,1
+838,216,6,2018,University of Washington,PAC-12,WA,1
+1101,216,7,2019,University of Illinois at Urbana-Champaign,Big Ten,IL,1
+1361,216,7,2020,University of Arkansas,SEC,AR,1
+321,217,6,2016,Baylor University,Big 12,TX,1
+580,217,6,2017,The University of Tennessee at Chattanooga,SoCon,TN,1
+580,217,6,2017,The University of Tennessee,OVC,TN,1
+839,217,6,2018,University of Washington,PAC-12,WA,1
+1102,217,7,2019,The University of Texas at Austin,Big 12,TX,1
+1362,217,7,2020,University of Tennessee,SEC,TN,1
+322,218,6,2016,University of South Carolina,SEC,SC,1
+581,218,6,2017,University of South Carolina,SEC,SC,1
+840,218,6,2018,Tulane University,AAC,LA,1
+1103,218,7,2019,Ohio State University,Big Ten,OH,1
+1363,218,7,2020,"University of Minnesota, Twin Cities",Big Ten,MN,1
+323,219,6,2016,University of Arizona,PAC-12,AZ,1
+583,219,7,2017,University of Miami,ACC,FL,1
+842,219,7,2018,Louisiana State University - Baton Rouge,SEC,LA,1
+1104,219,7,2019,"University of Maryland, College Park",Big Ten,MD,1
+1364,219,7,2020,University of Iowa,Big Ten,IA,1
+324,220,6,2016,University of Washington,PAC-12,WA,1
+584,220,7,2017,Northwestern State University of Louisiana,SLC,LA,1
+843,220,7,2018,Florida International University,C-USA,FL,1
+1105,220,7,2019,Texas A&M University,SEC,TX,1
+1365,220,7,2020,Ohio State University,Big Ten,OH,1
+325,221,6,2016,University of Illinois at Urbana-Champaign,Big Ten,IL,1
+585,221,7,2017,Washington State University,PAC-12,WA,1
+844,221,7,2018,University of Houston,AAC,TX,1
+1106,221,7,2019,Tulane University,AAC,LA,1
+1366,221,7,2020,Florida International University,C-USA,FL,1
+327,222,7,2016,"University of California, Los Angeles",PAC-12,CA,1
+586,222,7,2017,"University of Minnesota, Twin Cities",Big Ten,MN,1
+845,222,7,2018,San Jose State University,MW,CA,1
+1107,222,7,2019,Florida Atlantic University,C-USA,FL,1
+1367,222,7,2020,Arizona State University,PAC-12,AZ,1
+328,223,7,2016,Western Kentucky University,C-USA,KY,1
+587,223,7,2017,University of South Carolina,SEC,SC,1
+846,223,7,2018,Temple University,AAC,PA,1
+1108,223,7,2019,South Dakota State University,MVFC,SD,1
+1368,223,7,2020,University of Memphis,AAC,TN,1
+329,224,7,2016,Michigan State University,Big Ten,MI,1
+588,224,7,2017,Arizona State University,PAC-12,AZ,1
+847,224,7,2018,University of Georgia,SEC,GA,1
+1109,224,7,2019,University of Georgia,SEC,GA,1
+330,225,7,2016,Arizona State University,PAC-12,AZ,1
+589,225,7,2017,University of Notre Dame,ACC,IN,1
+848,225,7,2018,"University of California, Berkeley",PAC-12,CA,1
+1110,225,7,2019,North Carolina A & T State University,Big South Conference,NC,1
+1370,225,7,2020,Michigan State University,Big Ten,MI,1
+331,226,7,2016,University of Central Arkansas,ASUN,AR,1
+849,226,7,2018,University of Arkansas,SEC,AR,1
+1111,226,7,2019,Texas Christian University,Big 12,TX,1
+1371,226,7,2020,University of Colorado Boulder,PAC-12,CO,1
+332,227,7,2016,Vanderbilt University,SEC,TN,1
+591,227,7,2017,Texas Christian University,Big 12,TX,1
+850,227,7,2018,Ohio University,MAC,OH,1
+1112,227,7,2019,James Madison University,CAA,VA,1
+1372,227,7,2020,Tennessee State University,OVC,TN,1
+333,228,7,2016,Syracuse University,ACC,NY,1
+592,228,7,2017,Florida State University,ACC,FL,1
+851,228,7,2018,Oklahoma State University,Big 12,OK,1
+1113,228,7,2019,Boston College,ACC,MA,1
+1373,228,7,2020,Syracuse University,ACC,NY,1
+334,229,7,2016,University of Houston,AAC,TX,1
+593,229,7,2017,University of Miami,ACC,FL,1
+852,229,7,2018,The University of New Mexico - Albuquerque,MW,NM,1
+1114,229,7,2019,University of Arizona,PAC-12,AZ,1
+1374,229,7,2020,North Carolina State University - Raleigh,ACC,NC,1
+594,230,7,2017,University of Louisville,ACC,KY,1
+853,230,7,2018,University of Wisconsin - Madison,Big Ten,WI,1
+1115,230,7,2019,Prairie View A & M University,SWAC,TX,1
+1375,230,7,2020,University of Memphis,AAC,TN,1
+336,231,7,2016,"University of California, Los Angeles",PAC-12,CA,1
+595,231,7,2017,Alabama State University,SWAC,AL,1
+854,231,7,2018,Texas Christian University,Big 12,TX,1
+1116,231,7,2019,University of Notre Dame,ACC,IN,1
+1376,231,7,2020,James Madison University,CAA,VA,1
+337,232,7,2016,Boston College,ACC,MA,1
+596,232,7,2017,Kansas State University,Big 12,KS,1
+855,232,7,2018,"University of California, Berkeley",PAC-12,CA,1
+1117,232,7,2019,University of Kentucky,SEC,KY,1
+1377,232,7,2020,University of Nebraska - Lincoln,Big Ten,MA,1
+338,233,7,2016,Louisiana State University - Baton Rouge,SEC,LA,1
+597,233,7,2017,Georgia Institute of Technology,ACC,GA,1
+1118,233,7,2019,Auburn University,SEC,AL,1
+1378,233,7,2020,Stanford University,PAC-12,CA,1
+339,234,7,2016,Louisiana State University - Baton Rouge,SEC,LA,1
+598,234,7,2017,University of Pittsburgh,ACC,PA,1
+857,234,7,2018,University of North Carolina at Greensboro,SoCon,NC,1
+1119,234,7,2019,University of Washington,PAC-12,WA,1
+1379,234,7,2020,Baylor University,Big 12,TX,1
+340,235,7,2016,Sam Houston State University,WAC,TX,1
+599,235,7,2017,Auburn University,SEC,AL,1
+858,235,7,2018,Syracuse University,ACC,NY,1
+1120,235,7,2019,Auburn University,SEC,AL,1
+1380,235,7,2020,Ohio State University,Big Ten,OH,1
+341,236,7,2016,University of Washington,PAC-12,WA,1
+859,236,7,2018,The University of Alabama,SEC,AL,1
+1381,236,7,2020,Texas Christian University,Big 12,TX,1
+342,237,7,2016,"University of California, Berkeley",PAC-12,CA,1
+601,237,7,2017,Virginia Polytechnic Institute and State University,ACC,VA,1
+860,237,7,2018,San Diego State University,MW,CA,1
+1122,237,7,2019,University of Georgia,SEC,GA,1
+1382,237,7,2020,Tulane University,AAC,LA,1
+343,238,7,2016,"University of California, Los Angeles",PAC-12,CA,1
+602,238,7,2017,Utah State University,MW,UT,1
+1383,238,7,2020,University of South Carolina,SEC,SC,1
+603,239,7,2017,Ohio State University,Big Ten,OH,1
+862,239,7,2018,Mississippi State University,SEC,MS,1
+1124,239,7,2019,University of Oregon,PAC-12,OR,1
+1384,239,7,2020,University of Pittsburgh,ACC,PA,1
+345,240,7,2016,Florida State University,ACC,FL,1
+604,240,7,2017,University of Miami,ACC,FL,1
+863,240,7,2018,Middle Tennessee State University,C-USA,TN,1
+1125,240,7,2019,University of Utah,PAC-12,UT,1
+1385,240,7,2020,Mississippi State University,SEC,MS,1
+346,241,7,2016,Clemson University,ACC,SC,1
+605,241,7,2017,"University of California, Berkeley",PAC-12,CA,1
+864,241,7,2018,Virginia Polytechnic Institute and State University,ACC,VA,1
+1126,241,7,2019,University of Oregon,PAC-12,OR,1
+1386,241,7,2020,Temple University,AAC,PA,1
+347,242,7,2016,University of Georgia,SEC,GA,1
+606,242,7,2017,University of North Carolina at Greensboro,SoCon,NC,1
+865,242,7,2018,University of Miami,ACC,FL,1
+1127,242,7,2019,University of Cincinnati,AAC,OH,1
+1387,242,7,2020,University of Miami,ACC,FL,1
+348,243,7,2016,"University of California, Berkeley",PAC-12,CA,1
+607,243,7,2017,Baylor University,Big 12,TX,1
+866,243,7,2018,Western Carolina University,SoCon,NC,1
+1128,243,7,2019,Pennsylvania State University,Big Ten,PA,1
+1388,243,7,2020,Marshall University,C-USA,WV,1
+349,244,7,2016,Clemson University,ACC,SC,1
+608,244,7,2017,University of Toledo,MAC,OH,1
+867,244,7,2018,Southern Methodist University,AAC,TX,1
+1129,244,7,2019,University of Idaho,Big Sky Conference,ID,1
+1389,244,7,2020,University of Iowa,Big Ten,IA,1
+350,245,7,2016,University of Illinois at Urbana-Champaign,Big Ten,IL,1
+609,245,7,2017,North Carolina State University - Raleigh,ACC,NC,1
+868,245,7,2018,Louisiana State University - Baton Rouge,SEC,LA,1
+1130,245,7,2019,Syracuse University,ACC,NY,1
+1390,245,7,2020,University of Louisiana at Lafayette,SBC,LA,1
+351,246,7,2016,Temple University,AAC,PA,1
+610,246,7,2017,University of Colorado Boulder,PAC-12,CO,1
+869,246,7,2018,The University of Alabama,SEC,AL,1
+1131,246,7,2019,University of Mississippi,SEC,MS,1
+1391,246,7,2020,Navy,Independent,VA,1
+352,247,7,2016,Clemson University,ACC,SC,1
+611,247,7,2017,Louisiana State University - Baton Rouge,SEC,LA,1
+870,247,7,2018,Mississippi State University,SEC,MS,1
+1132,247,7,2019,Colorado State University,MW,CO,1
+1392,247,7,2020,"University of Minnesota, Twin Cities",Big Ten,MN,1
+353,248,7,2016,University of Iowa,Big Ten,IA,1
+871,248,7,2018,Southeast Missouri State University,OVC,MO,1
+1133,248,7,2019,Morgan State University,MEAC,MD,1
+1393,248,7,2020,Miami University-Oxford,MAC,OH,1
+354,249,7,2016,Western Kentucky University,C-USA,KY,1
+613,249,7,2017,Oklahoma State University,Big 12,OK,1
+872,249,7,2018,University of Toledo,MAC,OH,1
+1134,249,7,2019,Temple University,AAC,PA,1
+1394,249,7,2020,Mississippi State University,SEC,MS,1
+355,250,7,2016,University of Arizona,PAC-12,AZ,1
+614,250,7,2017,Eastern Michigan University,MAC,MI,1
+873,250,7,2018,Florida State University,ACC,FL,1
+1135,250,7,2019,United States Air Force Academy,MW,CO,1
+1395,250,7,2020,Clemson University,ACC,SC,1
+356,251,7,2016,University of Oregon,PAC-12,OR,1
+615,251,7,2017,University at Buffalo,MAC,NY,1
+874,251,7,2018,Northwestern State University of Louisiana,SLC,LA,1
+1136,251,7,2019,Texas Tech University,Big 12,TX,1
+1396,251,7,2020,Louisiana State University - Baton Rouge,SEC,LA,1
+357,252,7,2016,Montana State University,Big Sky Conference,MT,1
+616,252,7,2017,North Carolina State University - Raleigh,ACC,NC,1
+875,252,7,2018,University of Mississippi,SEC,MS,1
+1137,252,7,2019,University of Mississippi,SEC,MS,1
+1397,252,7,2020,Florida State University,ACC,FL,1
+358,253,7,2016,University of Southern Mississippi,C-USA,MS,1
+617,253,7,2017,University of Mississippi,SEC,MS,1
+876,253,7,2018,Florida State University,ACC,FL,1
+1138,253,7,2019,Oklahoma State University,Big 12,OK,1
+877,254,7,2018,University of Cincinnati,AAC,OH,1
+1139,254,7,2019,"University of California, Los Angeles",PAC-12,CA,1
+1399,254,7,2020,University of North Dakota,MVFC,ND,1
+878,255,7,2018,University of North Carolina at Greensboro,SoCon,NC,1
+1400,255,7,2020,University of Georgia,SEC,GA,1
+879,256,7,2018,Southern Methodist University,AAC,TX,1
