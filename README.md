@@ -75,19 +75,21 @@ That could be one of the reasons that moved UT to ask to join SEC.
     [The University of Texas Systeam](https://data.utsystem.edu/)
     - Extract information using Pandas.
 
-![Extract using for loop](img/extract_draft_data.png)
+![Extract](img/extract_draft_data.png)
 
 
 * Transform
 
     - Transform columns, data types, add id's, check the institutions names to make sure everything match. 
     - Pandas.
-![Names match](img/names_match.png)
+![Names](img/names_match.png)
 
 * Load
 
     - Make ERD (Entity Relationship Diagram) to build a SQL Database. I use [QuickDatabaseDiagram](https://www.quickdatabasediagrams.com/)
 ![ERD](img/ERD_UT.png) 
+
+    - Take in consideration slow moving dimension to design the database.
 
     - Export and check the SQL script to create the tables in a previously created database. 
     - Load the data into the database. 
