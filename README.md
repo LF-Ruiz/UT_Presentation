@@ -80,8 +80,10 @@ That could be one of the reasons that moved UT to ask to join SEC.
 - SEC is the first conference in number of picks for the five year period.
 
 ## If finally, UT joins SEC is going to have more chances to improve, more players would want to play in the team and the fan base is going to grow.
+- As Admiral McRaven said at UT speech, "If you want to change the world, don't back down from the sharks" UT is going to playing vs the best teams in college league, vs some "sharks", but it is a great move to improve the football team.
 
-### And, that is very good, because we all know that football is big deal in the Lone Star State, So the better is our football team, more options to increase the fundraise we are going to have. More funds means more resources and more resources mean a better university.  
+### And, that is very good, because we all know that football is big deal in the Lone Star State, So the better is our football team, more options to increase the fundraise we are going to have. More funds means more resources and more resources mean a better university. 
+
 
 <br />
 <br />
@@ -152,7 +154,13 @@ That could be one of the reasons that moved UT to ask to join SEC.
     - Find and extract the data
     - Missing values
     - Unmatching names
+    - Bias: Every ranking has it bias, it is very difficult to choose one to work with.
+    - Draft doesn't show the entire picture of a college team
 
 - Challenges:
     - I had no idea of college sports until 4 years ago.
+    - Data could be protected or not available
+
+
+
 
