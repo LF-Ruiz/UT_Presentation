@@ -1,4 +1,6 @@
-SELECT u.institution AS "University", state AS "State", wranking AS "World Ranking", nranking AS "National Ranking", year AS "Year",
+SELECT u.institution AS "University", state AS "State", zip AS "Zip Code",
+	wranking AS "World Ranking", nranking AS "National Ranking", 
+	year AS "Year", 
 	CASE
 		WHEN wranking > 0 AND wranking <= 5 THEN 10
 		WHEN wranking > 5 AND wranking <= 10 THEN 9
@@ -12,6 +14,6 @@ SELECT u.institution AS "University", state AS "State", wranking AS "World Ranki
 FROM ranking r
 INNER JOIN loc l
 ON r.i_id = l.i_id
-INNER JOIN universities u
+LEFT OUTER JOIN universities u
 ON l.i_id = u.id
-ORDER BY wranking, year, state;
+ORDER BY  institution, year, wranking ASC;

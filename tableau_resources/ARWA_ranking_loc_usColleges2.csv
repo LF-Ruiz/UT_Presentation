@@ -1,0 +1,622 @@
+University,State,Zip Code,World Ranking,National Ranking,Year,Coeficient
+Amherst College,MA,01002-500,701,172,2019,4
+Amherst College,MA,01002-500,801,182,2020,3
+Arizona State University,AZ,85287,101,51,2016,6
+Arizona State University,AZ,85287,101,49,2017,6
+Arizona State University,AZ,85287,101,47,2018,6
+Arizona State University,AZ,85287,101,46,2019,6
+Arizona State University,AZ,85287,101,42,2020,6
+Auburn University,AL,36849,501,138,2019,4
+Auburn University,AL,36849,501,134,2020,4
+Baylor College of Medicine,TX,77030-349,101,51,2016,6
+Baylor College of Medicine,TX,77030-349,101,49,2017,6
+Baylor College of Medicine,TX,77030-349,101,47,2018,6
+Baylor College of Medicine,TX,77030-349,101,46,2019,6
+Baylor College of Medicine,TX,77030-349,151,57,2020,6
+Baylor University,TX,76798,501,138,2019,4
+Baylor University,TX,76798,501,134,2020,4
+Boise State University,ID,83725,801,182,2020,3
+Boston College,MA,2467,301,99,2016,5
+Boston College,MA,2467,301,100,2017,5
+Boston College,MA,2467,301,96,2018,5
+Boston College,MA,2467,401,117,2019,4
+Boston College,MA,2467,501,134,2020,4
+Boston University,MA,2215,75,39,2016,7
+Boston University,MA,2215,80,40,2017,7
+Boston University,MA,2215,70,34,2018,7
+Boston University,MA,2215,76,36,2019,7
+Boston University,MA,2215,90,38,2020,7
+Brandeis University,MA,02454-911,201,72,2016,5
+Brandeis University,MA,02454-911,301,100,2017,5
+Brandeis University,MA,02454-911,201,70,2018,5
+Brandeis University,MA,02454-911,301,95,2019,5
+Brandeis University,MA,02454-911,301,95,2020,5
+Brescia University,KY,42301-302,601,25,2019,4
+Brescia University,KY,42301-302,701,31,2020,4
+Brigham Young University,UT,84602,401,120,2016,4
+Brigham Young University,UT,84602,301,100,2017,5
+Brigham Young University,UT,84602,401,118,2018,4
+Brigham Young University,UT,84602,401,117,2019,4
+Brigham Young University,UT,84602,401,115,2020,4
+Brown University,RI,2912,90,45,2016,7
+Brown University,RI,2912,101,49,2017,6
+Brown University,RI,2912,101,47,2018,6
+Brown University,RI,2912,84,38,2019,7
+Brown University,RI,2912,101,42,2020,6
+California Institute of Technology,CA,91125,8,6,2016,9
+California Institute of Technology,CA,91125,9,7,2017,9
+California Institute of Technology,CA,91125,9,7,2018,9
+California Institute of Technology,CA,91125,9,7,2019,9
+California Institute of Technology,CA,91125,8,7,2020,9
+Carnegie Mellon University,PA,15213-389,68,36,2016,7
+Carnegie Mellon University,PA,15213-389,80,40,2017,7
+Carnegie Mellon University,PA,15213-389,91,43,2018,7
+Carnegie Mellon University,PA,15213-389,95,41,2019,7
+Carnegie Mellon University,PA,15213-389,95,40,2020,7
+Case Western Reserve University,OH,44106,101,51,2016,6
+Case Western Reserve University,OH,44106,101,49,2017,6
+Case Western Reserve University,OH,44106,101,47,2018,6
+Case Western Reserve University,OH,44106,101,46,2019,6
+Case Western Reserve University,OH,44106,101,42,2020,6
+Clark University,MA,01610-147,901,193,2019,3
+Clemson University,SC,29634,401,117,2019,4
+Clemson University,SC,29634,501,134,2020,4
+College of William and Mary,VA,23187-879,801,182,2019,3
+College of William and Mary,VA,23187-879,901,191,2020,3
+Colorado School of Mines,CO,80401,601,156,2019,4
+Colorado School of Mines,CO,80401,601,155,2020,4
+Colorado State University,CO,80523-010,201,72,2016,5
+Colorado State University,CO,80523-010,201,71,2017,5
+Colorado State University,CO,80523-010,201,70,2018,5
+Colorado State University,CO,80523-010,201,67,2019,5
+Colorado State University,CO,80523-010,201,66,2020,5
+Concordia University,OR,97211-609,401,18,2017,4
+Concordia University,OR,97211-609,801,26,2019,3
+Concordia University,OR,97211-609,601,21,2020,4
+Cornell University,NY,14853,13,11,2016,8
+Cornell University,NY,14853,14,12,2017,8
+Cornell University,NY,14853,12,10,2018,8
+Cornell University,NY,14853,13,11,2019,8
+Cornell University,NY,14853,12,10,2020,8
+Dartmouth College,NH,03755-352,201,72,2016,5
+Dartmouth College,NH,03755-352,201,71,2017,5
+Dartmouth College,NH,03755-352,201,70,2018,5
+Dartmouth College,NH,03755-352,301,95,2019,5
+Dartmouth College,NH,03755-352,201,66,2020,5
+Duke University,NC,27708,25,19,2016,8
+Duke University,NC,27708,26,20,2017,8
+Duke University,NC,27708,26,19,2018,8
+Duke University,NC,27708,28,20,2019,8
+Duke University,NC,27708,27,19,2020,8
+East Carolina University,NC,27858-435,701,172,2019,4
+East Carolina University,NC,27858-435,901,191,2020,3
+Emory University,GA,30322,101,51,2016,6
+Emory University,GA,30322,101,49,2017,6
+Emory University,GA,30322,101,47,2018,6
+Emory University,GA,30322,101,46,2019,6
+Emory University,GA,30322,101,42,2020,6
+Florida Atlantic University,FL,33431-099,901,193,2019,3
+Florida Atlantic University,FL,33431-099,801,182,2020,3
+Florida International University,FL,33199,401,120,2016,4
+Florida International University,FL,33199,401,120,2017,4
+Florida International University,FL,33199,401,118,2018,4
+Florida International University,FL,33199,401,117,2019,4
+Florida International University,FL,33199,401,115,2020,4
+Florida State University,FL,32306-103,201,72,2016,5
+Florida State University,FL,32306-103,201,71,2017,5
+Florida State University,FL,32306-103,201,70,2018,5
+Florida State University,FL,32306-103,201,67,2019,5
+Florida State University,FL,32306-103,201,66,2020,5
+George Mason University,VA,22030-444,201,72,2016,5
+George Mason University,VA,22030-444,201,71,2017,5
+George Mason University,VA,22030-444,201,70,2018,5
+George Mason University,VA,22030-444,201,67,2019,5
+George Mason University,VA,22030-444,201,66,2020,5
+Georgetown University,DC,20057,301,99,2016,5
+Georgetown University,DC,20057,201,71,2017,5
+Georgetown University,DC,20057,201,70,2018,5
+Georgetown University,DC,20057,301,95,2019,5
+Georgetown University,DC,20057,201,66,2020,5
+Georgia Institute of Technology,GA,30332,93,47,2016,7
+Georgia Institute of Technology,GA,30332,85,43,2017,7
+Georgia Institute of Technology,GA,30332,79,38,2018,7
+Georgia Institute of Technology,GA,30332,101,46,2019,6
+Georgia Institute of Technology,GA,30332,101,42,2020,6
+Georgia State University,GA,30302-308,501,138,2019,4
+Georgia State University,GA,30302-308,401,115,2020,4
+Harvard University,MA,2138,1,1,2016,10
+Harvard University,MA,2138,1,1,2017,10
+Harvard University,MA,2138,1,1,2018,10
+Harvard University,MA,2138,1,1,2019,10
+Harvard University,MA,2138,1,1,2020,10
+Haverford College,PA,19041-139,801,182,2019,3
+Haverford College,PA,19041-139,801,182,2020,3
+Heidelberg University,OH,44883-2462,47,1,2016,8
+Heidelberg University,OH,44883-2462,42,1,2017,8
+Heidelberg University,OH,44883-2462,47,1,2018,8
+Heidelberg University,OH,44883-2462,47,1,2019,8
+Heidelberg University,OH,44883-2462,57,3,2020,7
+Howard University,DC,20059-000,901,191,2020,3
+Iowa State University,IA,50011,201,72,2016,5
+Iowa State University,IA,50011,201,71,2017,5
+Iowa State University,IA,50011,201,70,2018,5
+Iowa State University,IA,50011,201,67,2019,5
+Iowa State University,IA,50011,201,66,2020,5
+Johns Hopkins University,MD,21218-268,16,14,2016,8
+Johns Hopkins University,MD,21218-268,18,15,2017,8
+Johns Hopkins University,MD,21218-268,18,15,2018,8
+Johns Hopkins University,MD,21218-268,16,13,2019,8
+Johns Hopkins University,MD,21218-268,15,12,2020,8
+Kansas State University,KS,66506,401,118,2018,4
+Kansas State University,KS,66506,301,95,2019,5
+Kansas State University,KS,66506,401,115,2020,4
+Lehigh University,PA,18015,601,156,2019,4
+Lehigh University,PA,18015,701,176,2020,4
+Lincoln University,MO,65102-002,801,8,2019,3
+Lincoln University,MO,65102-002,801,7,2020,3
+Louisiana State University - Baton Rouge,LA,70803,301,99,2016,5
+Louisiana State University - Baton Rouge,LA,70803,301,100,2017,5
+Louisiana State University - Baton Rouge,LA,70803,301,96,2018,5
+Louisiana State University - Baton Rouge,LA,70803,301,95,2019,5
+Louisiana State University - Baton Rouge,LA,70803,301,95,2020,5
+Loyola University Chicago,IL,60611-981,601,156,2019,4
+Loyola University Chicago,IL,60611-981,501,134,2020,4
+Medical College of Wisconsin,WI,53226-050,601,156,2019,4
+Medical College of Wisconsin,WI,53226-050,601,155,2020,4
+Medical University of South Carolina,SC,29425-010,201,72,2016,5
+Medical University of South Carolina,SC,29425-010,201,71,2017,5
+Medical University of South Carolina,SC,29425-010,301,96,2018,5
+Medical University of South Carolina,SC,29425-010,401,117,2019,4
+Medical University of South Carolina,SC,29425-010,301,95,2020,5
+Michigan State University,MI,48824-104,101,51,2016,6
+Michigan State University,MI,48824-104,101,49,2017,6
+Michigan State University,MI,48824-104,101,47,2018,6
+Michigan State University,MI,48824-104,101,46,2019,6
+Michigan State University,MI,48824-104,101,42,2020,6
+Michigan Technological University,MI,49931-129,701,172,2019,4
+Michigan Technological University,MI,49931-129,701,176,2020,4
+Mississippi State University,MS,39762,401,118,2018,4
+Mississippi State University,MS,39762,501,138,2019,4
+Mississippi State University,MS,39762,501,134,2020,4
+Montana State University,MT,59717,501,138,2019,4
+New Jersey Institute of Technology,NJ,7102,901,193,2019,3
+New Jersey Institute of Technology,NJ,7102,901,191,2020,3
+New Mexico State University,NM,88003,401,120,2017,4
+New Mexico State University,NM,88003,901,193,2019,3
+New York University,NY,10012-109,29,22,2016,8
+New York University,NY,10012-109,29,22,2017,8
+New York University,NY,10012-109,32,24,2018,8
+New York University,NY,10012-109,30,22,2019,8
+New York University,NY,10012-109,27,19,2020,8
+North Carolina State University - Raleigh,NC,27695,201,72,2016,5
+North Carolina State University - Raleigh,NC,27695,201,71,2017,5
+North Carolina State University - Raleigh,NC,27695,151,59,2018,6
+North Carolina State University - Raleigh,NC,27695,201,67,2019,5
+North Carolina State University - Raleigh,NC,27695,201,66,2020,5
+Northeastern University,MA,2115,201,72,2016,5
+Northern Arizona University,AZ,86011-413,501,138,2019,4
+Northern Arizona University,AZ,86011-413,501,134,2020,4
+Northwest University,WA,98083-057,401,34,2017,4
+Northwest University,WA,98083-057,601,73,2019,4
+Northwest University,WA,98083-057,601,85,2020,4
+Northwestern University,IL,60208,26,20,2016,8
+Northwestern University,IL,60208,22,18,2017,8
+Northwestern University,IL,60208,25,18,2018,8
+Northwestern University,IL,60208,29,21,2019,8
+Northwestern University,IL,60208,30,21,2020,8
+Ohio University,OH,45701-297,701,172,2019,4
+Ohio University,OH,45701-297,601,155,2020,4
+Oklahoma State University,OK,74078,401,120,2016,4
+Oklahoma State University,OK,74078,401,120,2017,4
+Oklahoma State University,OK,74078,401,118,2018,4
+Oklahoma State University,OK,74078,501,138,2019,4
+Oklahoma State University,OK,74078,501,134,2020,4
+Old Dominion University,VA,23529,601,156,2019,4
+Old Dominion University,VA,23529,701,176,2020,4
+Oregon State University,OR,97331,151,62,2016,6
+Oregon State University,OR,97331,151,61,2017,6
+Oregon State University,OR,97331,151,59,2018,6
+Oregon State University,OR,97331,201,67,2019,5
+Oregon State University,OR,97331,201,66,2020,5
+Pennsylvania State University - University Park,PA,16802,77,41,2016,7
+Pennsylvania State University - University Park,PA,16802,85,43,2017,7
+Pennsylvania State University - University Park,PA,16802,74,37,2018,7
+Pennsylvania State University - University Park,PA,16802,98,44,2019,7
+Pennsylvania State University - University Park,PA,16802,101,42,2020,6
+Portland State University,OR,97201,801,182,2019,3
+Portland State University,OR,97201,801,182,2020,3
+Princeton University,NJ,08544-007,6,5,2016,9
+Princeton University,NJ,08544-007,6,5,2017,9
+Princeton University,NJ,08544-007,6,5,2018,9
+Princeton University,NJ,08544-007,6,5,2019,9
+Princeton University,NJ,08544-007,6,5,2020,9
+Purdue University - West Lafayette,IN,47907,63,35,2016,7
+Purdue University - West Lafayette,IN,47907,77,38,2017,7
+Purdue University - West Lafayette,IN,47907,70,34,2018,7
+Purdue University - West Lafayette,IN,47907,72,35,2019,7
+Purdue University - West Lafayette,IN,47907,79,36,2020,7
+Rensselaer Polytechnic Institute,NY,12180-359,401,120,2016,4
+Rensselaer Polytechnic Institute,NY,12180-359,301,95,2019,5
+Rensselaer Polytechnic Institute,NY,12180-359,401,115,2020,4
+Rice University,TX,77005,72,38,2016,7
+Rice University,TX,77005,74,37,2017,7
+Rice University,TX,77005,70,34,2018,7
+Rice University,TX,77005,95,41,2019,7
+Rice University,TX,77005,101,42,2020,6
+Rockefeller University,NY,10021-639,37,26,2016,8
+Rockefeller University,NY,10021-639,36,25,2017,8
+Rockefeller University,NY,10021-639,30,22,2018,8
+Rockefeller University,NY,10021-639,35,24,2019,8
+Rockefeller University,NY,10021-639,43,26,2020,8
+Rush University,IL,60612,301,99,2016,5
+Rush University,IL,60612,401,120,2017,4
+Rush University,IL,60612,401,118,2018,4
+Rush University,IL,60612,501,138,2019,4
+Rush University,IL,60612,501,134,2020,4
+"Rutgers, The State University of New Jersey - New Brunswick",NJ,8854,96,48,2016,7
+"Rutgers, The State University of New Jersey - New Brunswick",NJ,8854,79,39,2017,7
+"Rutgers, The State University of New Jersey - New Brunswick",NJ,8854,101,47,2018,6
+"Rutgers, The State University of New Jersey - New Brunswick",NJ,8854,101,46,2019,6
+"Rutgers, The State University of New Jersey - New Brunswick",NJ,8854,101,42,2020,6
+San Diego State University,CA,92182,401,120,2016,4
+San Diego State University,CA,92182,501,138,2019,4
+San Diego State University,CA,92182,401,115,2020,4
+South Dakota State University,SD,57007-189,801,182,2020,3
+Southern Methodist University,TX,75275-022,501,138,2019,4
+Southern Methodist University,TX,75275-022,501,134,2020,4
+Stanford University,CA,94305,2,2,2016,10
+Stanford University,CA,94305,2,2,2017,10
+Stanford University,CA,94305,2,2,2018,10
+Stanford University,CA,94305,2,2,2019,10
+Stanford University,CA,94305,2,2,2020,10
+Stevens Institute of Technology,NJ,07030-599,701,172,2019,4
+Stevens Institute of Technology,NJ,07030-599,901,191,2020,3
+Stony Brook University,NY,11794,201,72,2016,5
+Stony Brook University,NY,11794,201,71,2017,5
+Stony Brook University,NY,11794,301,96,2018,5
+Stony Brook University,NY,11794,201,67,2019,5
+Stony Brook University,NY,11794,201,66,2020,5
+Swarthmore College,PA,19081,701,172,2019,4
+Swarthmore College,PA,19081,601,155,2020,4
+Syracuse University,NY,13244-110,601,156,2019,4
+Syracuse University,NY,13244-110,601,155,2020,4
+Temple University,PA,19122-609,301,99,2016,5
+Temple University,PA,19122-609,301,100,2017,5
+Temple University,PA,19122-609,301,96,2018,5
+Temple University,PA,19122-609,301,95,2019,5
+Temple University,PA,19122-609,301,95,2020,5
+Texas A&M University,TX,77843,101,51,2016,6
+Texas A&M University,TX,77843,101,49,2017,6
+Texas A&M University,TX,77843,151,59,2018,6
+Texas A&M University,TX,77843,151,59,2019,6
+Texas A&M University,TX,77843,151,57,2020,6
+Texas Tech University,TX,79409-500,401,120,2016,4
+Texas Tech University,TX,79409-500,401,118,2018,4
+Texas Tech University,TX,79409-500,501,138,2019,4
+Texas Tech University,TX,79409-500,401,115,2020,4
+The University of Akron,OH,44325,801,182,2019,3
+The University of Akron,OH,44325,901,191,2020,3
+The University of New Mexico - Albuquerque,NM,87131,201,72,2016,5
+The University of New Mexico - Albuquerque,NM,87131,301,100,2017,5
+The University of New Mexico - Albuquerque,NM,87131,301,96,2018,5
+The University of New Mexico - Albuquerque,NM,87131,301,95,2019,5
+The University of New Mexico - Albuquerque,NM,87131,301,95,2020,5
+The University of Texas at Austin,TX,78712,44,30,2016,8
+The University of Texas at Austin,TX,78712,51,30,2017,7
+The University of Texas at Austin,TX,78712,40,27,2018,8
+The University of Texas at Austin,TX,78712,45,28,2019,8
+The University of Texas at Austin,TX,78712,41,25,2020,8
+The University of Texas at San Antonio,TX,78249,601,156,2019,4
+The University of Texas at San Antonio,TX,78249,601,155,2020,4
+Thomas Jefferson University,PA,19107,301,99,2016,5
+Thomas Jefferson University,PA,19107,401,120,2017,4
+Thomas Jefferson University,PA,19107,401,118,2018,4
+Thomas Jefferson University,PA,19107,401,117,2019,4
+Thomas Jefferson University,PA,19107,501,134,2020,4
+Tufts University,MA,02155-555,101,51,2016,6
+Tufts University,MA,02155-555,151,61,2017,6
+Tufts University,MA,02155-555,151,59,2018,6
+Tufts University,MA,02155-555,151,59,2019,6
+Tufts University,MA,02155-555,151,57,2020,6
+Tulane University,LA,70118,401,117,2019,4
+Tulane University,LA,70118,601,155,2020,4
+Union College,NY,12308-231,901,193,2019,3
+University of Alabama at Birmingham,AL,35294-011,201,72,2016,5
+University of Alabama at Birmingham,AL,35294-011,201,71,2017,5
+University of Alabama at Birmingham,AL,35294-011,201,70,2018,5
+University of Alabama at Birmingham,AL,35294-011,201,67,2019,5
+University of Alabama at Birmingham,AL,35294-011,301,95,2020,5
+University of Arizona,AZ,85721-006,101,51,2016,6
+University of Arizona,AZ,85721-006,99,48,2017,7
+University of Arizona,AZ,85721-006,101,47,2018,6
+University of Arizona,AZ,85721-006,101,46,2019,6
+University of Arizona,AZ,85721-006,101,42,2020,6
+University of Arkansas at Little Rock,AR,72204,801,182,2019,3
+University of Arkansas at Little Rock,AR,72204,901,191,2020,3
+University of Arkansas for Medical Sciences,AR,72205,701,172,2019,4
+University of Arkansas for Medical Sciences,AR,72205,701,176,2020,4
+University of California-Merced,CA,95343,401,115,2020,4
+"University of California, Berkeley",CA,94720,3,3,2016,10
+"University of California, Berkeley",CA,94720,5,4,2017,10
+"University of California, Berkeley",CA,94720,5,4,2018,10
+"University of California, Berkeley",CA,94720,5,4,2019,10
+"University of California, Berkeley",CA,94720,5,4,2020,10
+"University of California, Los Angeles",CA,90095,12,10,2016,8
+"University of California, Los Angeles",CA,90095,12,10,2017,8
+"University of California, Los Angeles",CA,90095,11,9,2018,8
+"University of California, Los Angeles",CA,90095,11,9,2019,8
+"University of California, Los Angeles",CA,90095,13,11,2020,8
+University of Central Florida,FL,32816,401,120,2016,4
+University of Central Florida,FL,32816,301,100,2017,5
+University of Central Florida,FL,32816,301,96,2018,5
+University of Central Florida,FL,32816,301,95,2019,5
+University of Central Florida,FL,32816,301,95,2020,5
+University of Chicago,IL,60637,10,8,2016,9
+University of Chicago,IL,60637,10,8,2017,9
+University of Chicago,IL,60637,10,8,2018,9
+University of Chicago,IL,60637,10,8,2019,9
+University of Chicago,IL,60637,10,8,2020,9
+University of Cincinnati,OH,45221,201,72,2016,5
+University of Cincinnati,OH,45221,301,100,2017,5
+University of Cincinnati,OH,45221,301,96,2018,5
+University of Cincinnati,OH,45221,301,95,2019,5
+University of Cincinnati,OH,45221,201,66,2020,5
+University of Colorado at Boulder,CO,80309-001,38,27,2016,8
+University of Colorado at Boulder,CO,80309-001,43,27,2017,8
+University of Colorado at Boulder,CO,80309-001,38,26,2018,8
+University of Colorado at Boulder,CO,80309-001,38,25,2019,8
+University of Colorado at Boulder,CO,80309-001,44,27,2020,8
+University of Connecticut,CT,6269,301,99,2016,5
+University of Connecticut,CT,6269,301,100,2017,5
+University of Connecticut,CT,6269,301,96,2018,5
+University of Connecticut,CT,6269,201,67,2019,5
+University of Connecticut,CT,6269,201,66,2020,5
+University of Delaware,DE,19716,151,62,2016,6
+University of Delaware,DE,19716,151,61,2017,6
+University of Delaware,DE,19716,201,70,2018,5
+University of Delaware,DE,19716,201,67,2019,5
+University of Delaware,DE,19716,201,66,2020,5
+University of Denver,CO,80208,901,193,2019,3
+University of Denver,CO,80208,901,191,2020,3
+University of Florida,FL,32611,90,45,2016,7
+University of Florida,FL,32611,88,46,2017,7
+University of Florida,FL,32611,86,41,2018,7
+University of Florida,FL,32611,95,41,2019,7
+University of Florida,FL,32611,88,37,2020,7
+University of Hawaii at Manoa,HI,96822-230,151,62,2016,6
+University of Hawaii at Manoa,HI,96822-230,201,71,2017,5
+University of Hawaii at Manoa,HI,96822-230,201,70,2018,5
+University of Hawaii at Manoa,HI,96822-230,201,67,2019,5
+University of Hawaii at Manoa,HI,96822-230,301,95,2020,5
+University of Houston,TX,77204-201,201,72,2016,5
+University of Houston,TX,77204-201,201,71,2017,5
+University of Houston,TX,77204-201,201,70,2018,5
+University of Houston,TX,77204-201,201,67,2019,5
+University of Houston,TX,77204-201,201,66,2020,5
+University of Idaho,ID,83844-228,601,156,2019,4
+University of Idaho,ID,83844-228,501,134,2020,4
+University of Illinois at Chicago,IL,60607,201,72,2016,5
+University of Illinois at Chicago,IL,60607,201,71,2017,5
+University of Illinois at Chicago,IL,60607,201,70,2018,5
+University of Illinois at Chicago,IL,60607,201,67,2019,5
+University of Illinois at Chicago,IL,60607,201,66,2020,5
+University of Illinois at Urbana-Champaign,IL,61801,30,23,2016,8
+University of Illinois at Urbana-Champaign,IL,61801,37,26,2017,8
+University of Illinois at Urbana-Champaign,IL,61801,41,28,2018,8
+University of Illinois at Urbana-Champaign,IL,61801,38,25,2019,8
+University of Illinois at Urbana-Champaign,IL,61801,45,28,2020,8
+University of Iowa,IA,52242-131,151,62,2016,6
+University of Iowa,IA,52242-131,151,61,2017,6
+University of Iowa,IA,52242-131,151,59,2018,6
+University of Iowa,IA,52242-131,201,67,2019,5
+University of Iowa,IA,52242-131,201,66,2020,5
+University of Kansas,KS,66045,201,72,2016,5
+University of Kansas,KS,66045,201,71,2017,5
+University of Kansas,KS,66045,201,70,2018,5
+University of Kansas,KS,66045,201,67,2019,5
+University of Kansas,KS,66045,201,66,2020,5
+University of Kentucky,KY,40506-003,301,99,2016,5
+University of Kentucky,KY,40506-003,301,100,2017,5
+University of Kentucky,KY,40506-003,301,96,2018,5
+University of Kentucky,KY,40506-003,301,95,2019,5
+University of Kentucky,KY,40506-003,301,95,2020,5
+University of Louisville,KY,40292-000,601,156,2019,4
+University of Louisville,KY,40292-000,601,155,2020,4
+University of Maine,ME,4469,401,118,2018,4
+University of Maine,ME,4469,501,138,2019,4
+University of Maine,ME,4469,401,115,2020,4
+University of Manitoba,Canada,0,401,17,2016,4
+University of Manitoba,Canada,0,301,12,2017,5
+University of Manitoba,Canada,0,301,13,2018,5
+University of Manitoba,Canada,0,301,13,2019,5
+University of Manitoba,Canada,0,301,13,2020,5
+"University of Maryland, College Park",MD,20742,52,32,2016,7
+"University of Maryland, College Park",MD,20742,53,32,2017,7
+"University of Maryland, College Park",MD,20742,51,32,2018,7
+"University of Maryland, College Park",MD,20742,46,29,2019,8
+"University of Maryland, College Park",MD,20742,53,31,2020,7
+University of Massachusetts Amherst,NE,68588,151,62,2016,6
+University of Massachusetts Amherst,NE,68588,151,61,2017,6
+University of Massachusetts Amherst,NE,68588,151,59,2018,6
+University of Massachusetts Amherst,NE,68588,151,59,2019,6
+University of Massachusetts Amherst,NE,68588,151,57,2020,6
+University of Miami,FL,33124,151,62,2016,6
+University of Miami,FL,33124,151,61,2017,6
+University of Miami,FL,33124,201,70,2018,5
+University of Miami,FL,33124,201,67,2019,5
+University of Miami,FL,33124,201,66,2020,5
+University of Michigan-Ann Arbor,MI,48109,23,17,2016,8
+University of Michigan-Ann Arbor,MI,48109,24,19,2017,8
+University of Michigan-Ann Arbor,MI,48109,27,20,2018,8
+University of Michigan-Ann Arbor,MI,48109,20,16,2019,8
+University of Michigan-Ann Arbor,MI,48109,22,17,2020,8
+"University of Minnesota, Twin Cities",MN,55455,33,24,2016,8
+"University of Minnesota, Twin Cities",MN,55455,34,24,2017,8
+"University of Minnesota, Twin Cities",MN,55455,37,25,2018,8
+"University of Minnesota, Twin Cities",MN,55455,41,27,2019,8
+"University of Minnesota, Twin Cities",MN,55455,40,24,2020,8
+University of Mississippi,MS,38677-1848,801,182,2019,3
+University of Missouri - Columbia,MS,38677,201,72,2016,5
+University of Missouri - Columbia,MS,38677,201,71,2017,5
+University of Missouri - Columbia,MS,38677,201,70,2018,5
+University of Missouri - Columbia,MS,38677,151,59,2019,6
+University of Missouri - Columbia,MS,38677,151,57,2020,6
+University of Nebraska - Lincoln,MA,1003,201,72,2016,5
+University of Nebraska - Lincoln,MA,1003,151,61,2017,6
+University of Nebraska - Lincoln,MA,1003,201,70,2018,5
+University of Nebraska - Lincoln,MA,1003,201,67,2019,5
+University of Nebraska - Lincoln,MA,1003,201,66,2020,5
+University of Nebraska Medical Center,NE,68198-781,601,156,2019,4
+University of Nebraska Medical Center,NE,68198-781,601,155,2020,4
+University of Nevada-Las Vegas,NV,89154,701,172,2019,4
+University of Nevada-Las Vegas,NV,89154,501,134,2020,4
+University of New England,ME,4005,601,26,2019,4
+University of New England,ME,4005,501,24,2020,4
+University of New Orleans,LA,70148,901,193,2019,3
+University of North Carolina at Chapel Hill,NC,27599,35,25,2016,8
+University of North Carolina at Chapel Hill,NC,27599,33,23,2017,8
+University of North Carolina at Chapel Hill,NC,27599,30,22,2018,8
+University of North Carolina at Chapel Hill,NC,27599,33,23,2019,8
+University of North Carolina at Chapel Hill,NC,27599,30,21,2020,8
+University of North Carolina at Charlotte,NC,28223-000,901,193,2019,3
+University of North Carolina at Charlotte,NC,28223-000,901,191,2020,3
+University of North Carolina at Greensboro,NC,27402-617,901,191,2020,3
+University of North Texas,TX,76203-127,301,99,2016,5
+University of North Texas,TX,76203-127,301,100,2017,5
+University of North Texas,TX,76203-127,301,96,2018,5
+University of North Texas,TX,76203-127,401,117,2019,4
+University of North Texas,TX,76203-127,401,115,2020,4
+University of Notre Dame,IN,46556,201,72,2016,5
+University of Notre Dame,IN,46556,201,71,2017,5
+University of Notre Dame,IN,46556,201,70,2018,5
+University of Notre Dame,IN,46556,301,95,2019,5
+University of Notre Dame,IN,46556,301,95,2020,5
+University of Oklahoma - Norman,OK,73019,401,120,2017,4
+University of Oklahoma - Norman,OK,73019,401,118,2018,4
+University of Oklahoma - Norman,OK,73019,401,117,2019,4
+University of Oklahoma - Norman,OK,73019,401,115,2020,4
+University of Oregon,OR,97403,301,99,2016,5
+University of Oregon,OR,97403,201,71,2017,5
+University of Oregon,OR,97403,301,96,2018,5
+University of Oregon,OR,97403,301,95,2019,5
+University of Oregon,OR,97403,301,95,2020,5
+University of Pennsylvania,PA,19104-630,18,15,2016,8
+University of Pennsylvania,PA,19104-630,17,14,2017,8
+University of Pennsylvania,PA,19104-630,16,14,2018,8
+University of Pennsylvania,PA,19104-630,17,14,2019,8
+University of Pennsylvania,PA,19104-630,19,15,2020,8
+University of Pittsburgh,PA,15260,96,41,2020,7
+University of Rhode Island,RI,2881,601,156,2019,4
+University of Rhode Island,RI,2881,801,182,2020,3
+University of Rochester,NY,14627-001,101,51,2016,6
+University of Rochester,NY,14627-001,101,49,2017,6
+University of Rochester,NY,14627-001,151,59,2018,6
+University of Rochester,NY,14627-001,151,59,2019,6
+University of Rochester,NY,14627-001,151,57,2020,6
+University of South Carolina - Columbia,SC,29208,301,99,2016,5
+University of South Carolina - Columbia,SC,29208,301,100,2017,5
+University of South Carolina - Columbia,SC,29208,301,96,2018,5
+University of South Carolina - Columbia,SC,29208,301,95,2019,5
+University of South Carolina - Columbia,SC,29208,301,95,2020,5
+University of South Florida,FL,33620-995,201,72,2016,5
+University of South Florida,FL,33620-995,201,71,2017,5
+University of South Florida,FL,33620-995,201,70,2018,5
+University of South Florida,FL,33620-995,201,67,2019,5
+University of South Florida,FL,33620-995,201,66,2020,5
+University of Southern California,CA,90089,49,31,2016,8
+University of Southern California,CA,90089,54,33,2017,7
+University of Southern California,CA,90089,60,33,2018,7
+University of Southern California,CA,90089,55,32,2019,7
+University of Southern California,CA,90089,61,32,2020,7
+University of Tennessee - Knoxville,TN,37996,301,99,2016,5
+University of Tennessee - Knoxville,TN,37996,201,71,2017,5
+University of Tennessee - Knoxville,TN,37996,201,70,2018,5
+University of Tennessee - Knoxville,TN,37996,201,67,2019,5
+University of Tennessee - Knoxville,TN,37996,201,66,2020,5
+University of Texas at El Paso,TX,79968,701,172,2019,4
+University of Texas at El Paso,TX,79968,601,155,2020,4
+University of Toledo,OH,43606-339,801,182,2019,3
+University of Toledo,OH,43606-339,601,155,2020,4
+University of Utah,UT,84112-900,100,50,2016,7
+University of Utah,UT,84112-900,101,49,2017,6
+University of Utah,UT,84112-900,101,47,2018,6
+University of Utah,UT,84112-900,101,46,2019,6
+University of Utah,UT,84112-900,101,42,2020,6
+University of Vermont,VT,05405-016,301,99,2016,5
+University of Vermont,VT,05405-016,301,100,2017,5
+University of Vermont,VT,05405-016,301,96,2018,5
+University of Vermont,VT,05405-016,301,95,2019,5
+University of Vermont,VT,05405-016,301,95,2020,5
+University of Virginia,VA,22904,151,62,2016,6
+University of Virginia,VA,22904,151,61,2017,6
+University of Virginia,VA,22904,151,59,2018,6
+University of Virginia,VA,22904,151,59,2019,6
+University of Virginia,VA,22904,151,57,2020,6
+University of Washington,WA,98195,15,13,2016,8
+University of Washington,WA,98195,13,11,2017,8
+University of Washington,WA,98195,14,12,2018,8
+University of Washington,WA,98195,14,12,2019,8
+University of Washington,WA,98195,16,13,2020,8
+University of Wisconsin-Milwaukee,WI,53211,401,118,2018,4
+University of Wisconsin-Milwaukee,WI,53211,601,155,2020,4
+University of Wisconsin - Madison,WI,53706,28,21,2016,8
+University of Wisconsin - Madison,WI,53706,28,21,2017,8
+University of Wisconsin - Madison,WI,53706,28,21,2018,8
+University of Wisconsin - Madison,WI,53706,27,19,2019,8
+University of Wisconsin - Madison,WI,53706,32,23,2020,8
+University of Wyoming,WY,82071,401,120,2016,4
+University of Wyoming,WY,82071,401,120,2017,4
+University of Wyoming,WY,82071,401,118,2018,4
+University of Wyoming,WY,82071,401,117,2019,4
+University of Wyoming,WY,82071,501,134,2020,4
+Utah State University,UT,84322-140,401,120,2016,4
+Utah State University,UT,84322-140,401,118,2018,4
+Utah State University,UT,84322-140,401,117,2019,4
+Utah State University,UT,84322-140,401,115,2020,4
+Vanderbilt University,TN,37240,60,34,2016,7
+Vanderbilt University,TN,37240,52,31,2017,7
+Vanderbilt University,TN,37240,50,31,2018,8
+Vanderbilt University,TN,37240,55,32,2019,7
+Vanderbilt University,TN,37240,62,33,2020,7
+Virginia Commonwealth University,VA,23284-251,201,72,2016,5
+Virginia Commonwealth University,VA,23284-251,201,71,2017,5
+Virginia Commonwealth University,VA,23284-251,201,70,2018,5
+Virginia Commonwealth University,VA,23284-251,201,67,2019,5
+Virginia Commonwealth University,VA,23284-251,201,66,2020,5
+Virginia Polytechnic Institute and State University,VA,24061-013,301,99,2016,5
+Virginia Polytechnic Institute and State University,VA,24061-013,301,100,2017,5
+Virginia Polytechnic Institute and State University,VA,24061-013,201,70,2018,5
+Virginia Polytechnic Institute and State University,VA,24061-013,201,67,2019,5
+Virginia Polytechnic Institute and State University,VA,24061-013,201,66,2020,5
+Wake Forest University,NC,27106,401,120,2016,4
+Wake Forest University,NC,27106,401,117,2019,4
+Wake Forest University,NC,27106,401,115,2020,4
+Washington State University,WA,99164-100,401,120,2016,4
+Washington State University,WA,99164-100,401,120,2017,4
+Washington State University,WA,99164-100,301,96,2018,5
+Washington State University,WA,99164-100,301,95,2019,5
+Washington State University,WA,99164-100,301,95,2020,5
+Wayne State University,MI,48202,301,99,2016,5
+Wayne State University,MI,48202,301,100,2017,5
+Wayne State University,MI,48202,401,118,2018,4
+Wayne State University,MI,48202,401,117,2019,4
+Wayne State University,MI,48202,501,134,2020,4
+West Virginia University,WV,26506-620,401,120,2016,4
+West Virginia University,WV,26506-620,401,120,2017,4
+West Virginia University,WV,26506-620,401,118,2018,4
+West Virginia University,WV,26506-620,401,117,2019,4
+West Virginia University,WV,26506-620,401,115,2020,4
+Williams College,MA,1267,901,193,2019,3
+Williams College,MA,1267,901,191,2020,3
+Worcester Polytechnic Institute,MA,1609,901,193,2019,3
+Worcester Polytechnic Institute,MA,1609,901,191,2020,3
+Yale University,CT,6520,11,9,2016,8
+Yale University,CT,6520,11,9,2017,8
+Yale University,CT,6520,12,10,2018,8
+Yale University,CT,6520,11,9,2019,8
+Yale University,CT,6520,11,9,2020,8
+Yeshiva University,NY,10033-329,201,72,2016,5
+Yeshiva University,NY,10033-329,201,71,2017,5
+Yeshiva University,NY,10033-329,301,96,2018,5
+Yeshiva University,NY,10033-329,201,67,2019,5
+Yeshiva University,NY,10033-329,201,66,2020,5

@@ -17,13 +17,17 @@ I Choose ARWU ranking because is the most accepted ranking for universities in t
 
 * Conclusions: 
 
-    - UT-Austin is ranked the best university in Texas, followed by Rice University and Baylor College of Medicine. 8 Universities from Texas appeared in the ranking from 2016 to 2015.
+    - UT-Austin is ranked the best university in Texas, followed by Rice University and Baylor College of Medicine. 11 Universities from Texas appeared in the ranking from 2016 to 2015.
 
-    - Texas is the first state along with California with a count of 25 appearances in the five years period but the coeficient is lower because universities from Texas appears in a lower ranking. 
+    - The Northeast of the Country is the area with more concentration of universities that appear in the ranking. Inside Texas, Houston is the city with more universities in the ranking.
 
-    - Illinois with 20 appearances and a coeficient equal than Texas and Massachusets with 23 appearances and coeficient similar to Texas deserve a mencion. 
+    - Texas is the first state in appearances in the ranking with 42 in the five years period. Followed by Massachussets, 38 and NY 36.
 
-    So we can conclude that in according to ARWU ranking for the years 2016 to 2020, California is the holds the best position followed by Texas. And, inside Texas, UT-Austin is the best univeristy to study.
+    - California is the State with better coeficient, followed by Texas and NY.
+
+    - Illinois with a median world ranking of 41 and 27 appearances deserve a mention.
+
+    So we can conclude that in according to ARWU ranking for the years 2016 to 2020, California  holds the best position followed by Texas. And, inside Texas, UT-Austin is the best univeristy to study.
 
 ### College Football
 
@@ -37,7 +41,16 @@ As we can see in the third slide, only 12 players from UT were drafted in the fi
 
 Regarding Texas universities, Texas A&M holds the best position in the five years period. Both, Texas A&M and University of Alabama plays in the SEC. 
 
- - With Texas A&M and University of Alabama not appearing in ARWU in the five years period, we can conclude that my second hypothesis is completely false. There is no a correlation between academic quality and football performance. 
+ - With Texas A&M and University of Alabama appearing in ARWU lower than rank 100 in the five years period, we can conclude that my second hypothesis is completely false. There is no a correlation between academic quality and football performance. 
+
+### Draft by States
+
+The University of Alabama surely helps Alabama to hold the first position in the coeficient of players drafted by state. Players from universities in Alabama are drafted in lower picks than player from other states. This is important because Alabama is the third state in count of players drafted with 77. 
+
+Texas is the second state by coeficient but holds the first position in number of players drafted with 95, Florida is the second with 93
+
+The majority of players drafted in Alabama plays in SEC, while in Texas play in Big 12. The first conference in Florida is ACC.
+
 
 ### Conference
 
@@ -48,7 +61,11 @@ That could be one of the reasons that moved UT to ask to join SEC.
 - In the five year period, SEC holds the first position in number of players drafted. Big 12 a discrete 5th position.
 - For each year, SEC has been the conference with more players drafted.
 
-* Qualitative Analisis. As I've done with the ARWU to analyze the states, I think it is importante to know not only how many players are drafted for each conference, but also in with pick number where choosen. 
+* Qualitative Analisis. 
+
+- SEC not only holds the best position in players drafted, but also the first in coeficient. That means players from SEC are drafted in better positions. Again, Big 12 holds the 5th position.
+
+- By year, SEC is the best year by year since 2016 with a rising trend. Big 12 trend is mostly flat.
 
 ### Conclusion.
 
@@ -121,3 +138,21 @@ That could be one of the reasons that moved UT to ask to join SEC.
 <br />
 
 ### Load the data to Tableau.
+
+## Notes
+
+- Improvements:
+    - Add more years to the database.
+    - Add more sports to the database. NBA, Soccer.
+    - Add female category
+    - Add more categories to the database. Revenue, number of players, stadium capacity.
+
+- Difficulties:
+    
+    - Find and extract the data
+    - Missing values
+    - Unmatching names
+
+- Challenges:
+    - I had no idea of college sports until 4 years ago.
+
